@@ -4,6 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Minhas Cifras</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#14161a">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Cifras">
 <style>
   :root { --bg:#14161a; --card:#1e2127; --txt:#e8e8e8; --mut:#9aa0a8; --acc:#f5b942; }
   @media (prefers-color-scheme: light) {
@@ -12,7 +19,10 @@
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--txt); font:16px system-ui,sans-serif; }
   header { position:sticky; top:0; z-index:5; background:var(--bg); padding:12px; border-bottom:1px solid var(--card); }
-  h1 { margin:0 0 8px; font-size:18px; color:var(--acc); }
+  .topo { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+  h1 { margin:0; font-size:18px; color:var(--acc); }
+  #offline { padding:6px 10px; font-size:13px; }
+  #vel { min-width:34px; text-align:center; color:var(--mut); font-size:14px; }
   input[type=search] { width:100%; padding:10px 12px; font-size:16px; border-radius:8px; border:1px solid var(--mut); background:var(--card); color:var(--txt); }
   .crumbs { margin-top:8px; color:var(--mut); font-size:14px; }
   .crumbs a { color:var(--acc); cursor:pointer; }
@@ -35,7 +45,7 @@
 </head>
 <body>
 <header>
-  <h1>🎸 Minhas Cifras</h1>
+  <div class="topo"><h1>🎸 Minhas Cifras</h1><button id="offline" title="Baixar todas as cifras para usar sem internet">⬇ Offline</button></div>
   <input id="busca" type="search" placeholder="Buscar cantor ou música...">
   <div class="crumbs" id="crumbs"></div>
 </header>
@@ -48,8 +58,9 @@
       <button id="menos">A−</button>
       <button id="mais">A+</button>
       <button id="auto">▶ Rolar</button>
-      <button id="vel-">🐢</button>
-      <button id="vel+">🐇</button>
+      <button id="vel-">🐢 −</button>
+      <span id="vel">8</span>
+      <button id="vel+">+ 🐇</button>
       <button id="voltar">← Voltar</button>
     </div>
     <pre id="texto"></pre>
@@ -59,7 +70,7 @@
 <script>
 const $ = id => document.getElementById(id);
 let DB = [], PASTA = "cifras", nav = [];   // nav = [letra, cantor]
-let fonte = 14, velocidade = 1, timer = null;
+let fonte = 14, vel = 8, rolando = false, raf = 0, acc = 0, ultimo = null, wake = null;  // vel = pixels por segundo
 
 const norm = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 const nomeLimpo = a => a.replace(/\.txt$/i, "");
@@ -137,19 +148,65 @@ function fechaCifra() {
   $("lista").style.display = "";
 }
 
-function pararRolagem() { clearInterval(timer); timer = null; $("auto").classList.remove("on"); $("auto").textContent = "▶ Rolar"; }
+function pararRolagem() {
+  rolando = false; cancelAnimationFrame(raf); ultimo = null;
+  $("auto").classList.remove("on"); $("auto").textContent = "▶ Rolar";
+}
+function passo(t) {
+  if (!rolando) return;
+  if (ultimo !== null) {
+    acc += vel * (t - ultimo) / 1000;
+    const px = Math.floor(acc);
+    if (px >= 1) { window.scrollBy(0, px); acc -= px; }
+    if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2) return pararRolagem();
+  }
+  ultimo = t;
+  raf = requestAnimationFrame(passo);
+}
+async function tela(on) {  // mantém a tela acesa enquanto toca
+  try {
+    if (on && "wakeLock" in navigator) wake = await navigator.wakeLock.request("screen");
+    else if (wake) { await wake.release(); wake = null; }
+  } catch {}
+}
 
 $("busca").oninput = render;
 $("voltar").onclick = render;
 $("menos").onclick = () => { fonte = Math.max(9, fonte - 1); $("texto").style.fontSize = fonte + "px"; };
 $("mais").onclick = () => { fonte = Math.min(40, fonte + 1); $("texto").style.fontSize = fonte + "px"; };
-$("vel-").onclick = () => velocidade = Math.max(0.5, velocidade - 0.5);
-$("vel+").onclick = () => velocidade = Math.min(5, velocidade + 0.5);
+$("vel-").onclick = () => { vel = Math.max(2, vel - 2); $("vel").textContent = vel; };
+$("vel+").onclick = () => { vel = Math.min(60, vel + 2); $("vel").textContent = vel; };
 $("auto").onclick = () => {
-  if (timer) return pararRolagem();
+  if (rolando) return pararRolagem();
+  rolando = true; acc = 0;
   $("auto").classList.add("on"); $("auto").textContent = "⏸ Parar";
-  let acc = 0;
-  timer = setInterval(() => { acc += velocidade; if (acc >= 1) { window.scrollBy(0, Math.floor(acc)); acc %= 1; } }, 50);
+  raf = requestAnimationFrame(passo);
+};
+
+// Tela acesa ao abrir uma cifra
+const _abre = abre; abre = async m => { await _abre(m); tela(true); };
+const _fecha = fechaCifra; fechaCifra = () => { _fecha(); tela(false); };
+
+// ---- PWA: instalar e usar offline ----
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+
+$("offline").onclick = async () => {
+  const btn = $("offline");
+  if (!DB.length || btn.disabled) return;
+  if (!confirm("Baixar as " + DB.length + " cifras para usar sem internet? Use o Wi-Fi.")) return;
+  btn.disabled = true;
+  try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch {}
+  const cache = await caches.open("cifras-v1");
+  let feito = 0;
+  for (let i = 0; i < DB.length; i += 20) {
+    await Promise.all(DB.slice(i, i + 20).map(async m => {
+      const u = new URL(caminho(m), location.href).href;
+      try { if (!(await cache.match(u))) { const r = await fetch(u); if (r.ok) await cache.put(u, r); } } catch {}
+      feito++;
+    }));
+    btn.textContent = "⬇ " + Math.round(feito / DB.length * 100) + "%";
+  }
+  btn.textContent = "✓ Offline"; btn.disabled = false;
 };
 </script>
 </body>
