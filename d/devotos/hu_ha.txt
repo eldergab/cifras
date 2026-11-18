@@ -1,0 +1,76 @@
+ 
+Intro: A C# F# (4x)
+
+.---[1a. parte]---------------.
+ A             C#       F#
+ Eu não tenho tempo pra pensar
+ A              C#         F#
+ E agora o que será? O que será?
+ A                   C#
+ Vai ser difícil, eu sei
+ A              C#
+ Mas eu conseguirei
+ A           C#      F#
+ Eu tenho a ajuda de vocês
+
+ A               C#
+ O desespero que vem 
+       A                C#
+ Com o ódio que ninguém contém
+ A             C#                F#  (A F# A)
+ Matar, matar, matar é o que convém!
+
+ F#  A   F#  A  (A F# A)
+ Hu, ha, hu, ha!
+ F#  A   F#  A
+ Hu, ha, hu, ha!
+
+  riff1                   (4x)
+e|-----------------------|
+B|-----------------------|
+G|-----------------------|
+D|-----------------------|
+A|--------4-4------------|
+E|-5--5-5-----2--2-2-2-2-|
+
+
+.---[2a. parte]---------------.
+ A              C#        F#
+ Agora eu tenho tempo pra pensar
+ A            C#             F#   
+ Encarcerado, tenho que me libertar
+ A                   C#
+ Vai ser difícil, eu sei
+ A              C#
+ Mas eu conseguirei
+ A           C#      F#
+ Eu tenho a ajuda de vocês
+
+ A               C#
+ O desespero que vem 
+       A                C#
+ Com o ódio que ninguém contém
+ A             C#              F#  (A F# A)
+ Matar, matar, matar já não convém!
+
+ F#  A   F#  A  (A F# A)
+ Hu, ha, hu, ha!
+ F#  A   F#  A
+ Hu, ha, hu, ha!
+
+ (A C# F#) 4x
+
+ (repete a 1a. parte)
+ (riff1)
+ (repete a 2a. parte)
+
+ F#  A   F#  A
+ Hu, ha, hu, ha!
+ F#  A   F#  A
+ Hu, ha, hu, ha!
+ F#  A   F#  A
+ Hu, ha, hu, ha!
+ F#  A   F#  A   F#
+ Hu, ha, hu, ha, ho!
+ 
+   

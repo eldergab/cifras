@@ -1,0 +1,398 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Fabrica_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Música:Fábrica
+Artista:Legião Urbana
+Álbum:Dois
+
+Tom: D
+Introd.: (F#5 A5) (Db5 F#5 Db F#5) 
+Afinação:E A D G B E
+
+E|------------------------------------|
+B|------------------------------------|
+G|------------------2-----------------|
+D|------------------2-----------------|
+A|-4-4-4-4-4-4-4-4--0---4-4-4-4-2-4s--|
+E|------------------------------------|
+
+Riff da música.
+   Db5
+E|-------4----------4-----4-|
+B|-----6---6----------6-----|
+G|-4s6-------6-4s6------6---|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+Db5   F#5        Db5    F#5         Db5
+Nosso dia vai chegar, teremos nossa vez
+    F#5        Db5    F#5
+Não é pedir demais quero justiça
+B5         Bb5
+Quero trabalhar em paz
+Ab5           F#5
+Não é muito o que lhe peço
+Db5         B5
+Eu quero trabalho honesto
+   Eb5           Ab5
+Em vez de escravidão
+
+Db5    F#5         Db5     F#5
+Deve haver algum lugar onde o mais forte
+Db5    F#5          Db5      F#5     
+Não consegue escravizar quem não tem chance
+
+Db5*    Ab*     F5  Ab5*
+De onde vem a indiferença
+F#5  Db5   Eb5*    Ab5*
+Temperada a ferro e fogo?
+Db5* Ab5*  F#5*         Ab5*  F#5  Db5      Eb5* Ab*
+Quem       guarda os portões    da fábrica? 
+
+  Db5    F#5       Db5  F#5
+O céu já foi azul, mas agora é cinza
+Db5                    F#5           Db5  F#5
+e oque era verde aqui, já não existe mais
+B5            Bb5               
+Quem me dera acreditar
+Ab5         F#5        Db5             B5
+Que não acontece nada     de tanto brincar com fogo
+    Eb5            Ab5
+Que venha o fogo então
+
+Solo:
+E|---------------------|
+B|-4-4-4-2--2-4--2-4-2-|
+G|---------------------|(10x)
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Db5  Ab5   F5        Ab5      F#5    Db5 Eb5
+Esse ar deixou minha vista cansada
+Ab5    Db5    Ab5 F5 Ab5
+Nada demais
+       F#5    Db5 Eb5 Ab5 Db5
+Nada demais
+
+Acordes:
+Db5  ->(x466xx)
+Db5* ->(x46xxx)
+F#5  ->(244xxx)
+F#5* ->(24xxxx)
+F#5  ->(244xxx)
+B5   ->(x244xx)
+Bb5  ->(x133xx)
+Ab5  ->(466xxx)
+Ab5* ->(46xxxx)
+Eb5  ->(x688xx)
+Eb5* ->(x68xxx)
+F#7+ ->(20332x)
+
+(transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+
+Versão 2
+---------
+Música:Fábrica
+Artista:Legião Urbana
+Álbum:Dois
+
+Tom: D
+Introd.: (Db5 F#5 Db F#5) 
+Afinação:E A D G B E
+(Obs:essa é a versão mais certa)
+E|---------------------------------|
+B|---------------------------------|
+G|----------------9----------------|
+D|----------------9----------------|
+A|----------------7----------------|
+E|-9-9-9-9-9-9-9-----9-9-9-9-7-9s--|
+
+Riff da música.
+   Db5
+E|-------4----------4-----4-|
+B|-----6---6----------6-----|
+G|-4s6-------6-4s6------6---|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+
+Db5   F#5        Db5    F#5         Db5
+Nosso dia vai chegar, teremos nossa vez
+    F#5        Db5    F#5
+Não é pedir demais quero justiça
+B5         Bb5
+Quero trabalhar em paz
+Ab5           F#5
+Não é muito o que lhe peço
+Db5         B5
+Eu quero trabalho honesto
+   Eb5           Ab5
+Em vez de escravidão
+
+Db5    F#5         Db5     F#5
+Deve haver algum lugar onde o mais forte
+Db5    F#5          Db5      F#5     
+Não consegue escravizar quem não tem chance
+
+Db5*    Ab*     F5  Ab5*
+De onde vem a indiferença
+F#5  Db5   Eb5*    Ab5*
+Temperada a ferro e fogo?
+Db5* Ab5*  F#5*         Ab5*  F#5  Db5      Eb5* Ab*
+Quem       guarda os portões    da fábrica? 
+
+  Db5    F#5       Db5  F#5
+O céu já foi azul, mas agora é cinza
+Db5                    F#5           Db5  F#5
+e oque era verde aqui, já não existe mais
+B5            Bb5               
+Quem me dera acreditar
+Ab5         F#5        Db5             B5
+Que não acontece nada     de tanto brincar com fogo
+    Eb5            Ab5
+Que venha o fogo então
+
+Solo:
+E|---------------------|
+B|-4-4-4-2--2-4--2-4-2-|
+G|---------------------|(10x)
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Db5  Ab5   F5        Ab5      F#5    Db5 Eb5
+Esse ar deixou minha vista cansada
+Ab5    Db5    Ab5 F5 Ab5
+Nada demais
+       F#5    Db5 Eb5 Ab5 Db5
+Nada demais
+
+Acordes:
+Db5  ->(x466xx)
+Db5* ->(x46xxx)
+F#5  ->(244xxx)
+F#5* ->(24xxxx)
+F#5  ->(244xxx)
+B5   ->(x244xx)
+Bb5  ->(x133xx)
+Ab5  ->(466xxx)
+Ab5* ->(46xxxx)
+Eb5  ->(x688xx)
+Eb5* ->(x68xxx)
+F#7+ ->(20332x)
+
+(transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+Versão 3
+---------
+Música:Fábrica
+Artista:Legião Urbana
+Álbum:Dois
+
+Tom: D
+Introd.: (D G D G)
+Afinação:Eb Ab Db Gb Bb Eb
+E|-----------------------------------|
+B|-----------------------------------|
+G|------------------3----------------|
+D|------------------3----------------|
+A|-5-5-5-5-5-5-5-5--1--5-5-5-5-3-5s--|
+E|-----------------------------------|
+
+
+Riff da música.
+   D
+E|-------5---------5-----5-|
+B|-----7---7---------7-----|
+G|-5s7-------7-5s7-----7---|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+D     G           D     G           D
+Nosso dia vai chegar, teremos nossa vez
+    G          D         G
+Não é pedir demais quero justiça
+C           Bm
+Quero trabalhar em paz
+Am           G
+Não é muito o que lhe peço
+D           C
+Eu quero trabalho honesto
+   E             A
+Em vez de escravidão
+
+D       G          D       G
+Deve haver algum lugar onde o mais forte
+D      G            D         G
+Não consegue escravizar quem não tem chance
+D       A       F#m A
+De onde vem a indiferença
+G    G7+    Em      A
+Temperada a ferro e fogo?
+D A    F#m       A       G  D        Em A
+Quem guarda os portões da fábrica? 
+
+  D       G        D     G
+O céu já foi azul, mas agora é cinza
+D                      G
+E o que era verde aqui já não existe mais
+C             Bm
+Quem me dera acreditar
+Am          G        D             C
+Que não acontece nada de tanto brincar com fogo
+    E               A
+Que venha o fogo então
+
+Solo:
+E|------------------------------|
+G|------------------------------|
+B|-9-9-9---------9------9-------|10x
+D|-------12---12-----12---12----|
+A|------------------------------|
+E|------------------------------|
+
+D    A     F#m        A       G    D Em
+Esse ar deixou minha vista cansada
+A      D    A F#m A
+Nada demais
+       G    D Em A D
+Nada demais
+
+Transcritas por:Gabriel Ysllu Chagas
+tab feita de 09/04/2002 à 13/04/2002 Gov. Valadres MG
+batosay@mtv.com.br
+
+Nota de aviso.
+Se vc pretende pegar essa tab e mandar para um outro site
+me consulte primeiro.
+Pq se vc mandar e tirar o meu nome dela e colocar o seu
+vc não estará enganando à min e nem as pessoas que fazem o site,
+Vc estará enganado a sí mesmo. 
+Lembre-se que mentir para si mesmo e sempre a pior mentira.
+pelo menos deixe o meu nome como quem à transcreveu.
+Vcs nem devem imaginar pq eu não mando para o Cifraclub as "MINHAS" tabs que "EU" faço
+com muito "ESFORÇO" e "DEDICAÇÃO", para depois virem uns caras como "VC" que 
+que falam que: Nossa Senhora!! Eu toco D+!! Pelo Amor de Deus!!!
+Aí vcs pegam as minhas tabs tiram meu nome delas e mandam par o cifraclub.
+Vcs nem colocam seus nomes pq lá em embaixo aparece se vcs fazerem esforço.
+Eu não mando as minhas tabs para o Cifraclub pq eles nunca poem elas no site.
+Eu acho que eles acham que elas são boas D+ para colocar no Cifraclub. pq se vc olhar todas as tabs do
+Legião que vcs mandaram para lá estam erradíssimas exeto as de Metal Contras as Nuvens, Será e Tempo Perdido
+o resto esta tudo errado.
+Mas qui é diferente, A Maioria das tabs do Legião que estão aki estão certas, praticamente todas estão
+são agumas que tem um avariação de riff que fica chato transcrever tudo.
+Já que vc se acha o bom, pq vc n ão faz a sua própria tab e manda pera lá.
+Se Vc é bom mesmo vc não precisa "ROUBAR" uma coisa que não é sua, vc deve ter capacidade
+para fazer a sua.
+Eu posso falar que toco D+, para quem nunca teve professor pra ensinar "NADA, ABSOLUTAMENTE NADA".
+Eu tenho capacidade de fazer a minha própria Tab., eu não preciso de tirar o nome de alguem de nunhuma tab
+para enganar à mim mesmo!!!
+AH!! só mais uma coisa, se vcs olharemn bem o Cifraclub só tem cara e não tem conteúdo.
+Um prova disso que semana passada Casa Das Cifras 198 tabs e cifras só de guitarra, me fale quando
+que o Cifraclub recebeu esse número assustador de tabs e cifras só em uma semana??
+nunca e nunca vai receber!!!!!
+Juntando todas as cifras e tabs de todos instrumentos deve ter chegado a umas 300 músicas!!
+pensem muito bem antes de tirar o mérito de quem fez uma tab e mandou pra um determinado site e vcs mandam 
+para outro, Pensem bem!! muito bem!!!!!
+
+Obrigado e agradeço a compreenção de todos!!!!
+
+</pre>
+</font>

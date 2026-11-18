@@ -1,0 +1,209 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/1o_de_Julho_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+1° DE JULHO
+Renato Russo
+
+Tom: D 
+Intr. (D C Am G)
+
+D C 
+Eu vejo que aprendi 
+Am G 
+O quanto te ensinei 
+D G Am G 
+E nos teus braços que ele vai saber 
+D C 
+Não há por que voltar 
+Am G 
+Não penso em te seguir 
+D C Am G 
+Não quero mais a tua insensatez 
+D C 
+O que fazes sem pensar aprendeste do olhar 
+G Am D 
+E das palavras que aguardei prá ti 
+
+ e |---7-7-7-7---5-5-5-5---10-10-10-10--10-10-10-10---5-5-5-5---3-3-3-3----|
+ b |---8-8-8-8---7-7-7-7---10-10-10-10--10-10-10-10---5-5-5-5---3-3-3-3----|
+ g |---7-7-7-7---7-7-7-7---11-11-11-11--11-11-11-11---6-6-6-6---4-4-4-4----|
+ d |-----------------------------------------------------------------------|
+ a |-----------------------------------------------------------------------|
+ e |-----------------------------------------------------------------------|
+
+D C 
+Não penso em me vingar 
+Am G 
+Não sou assim 
+D C Am G 
+A tua insegurança era por mim 
+D C 
+Não basta o compromisso 
+Am G 
+Vale mais o coração 
+D C Am 
+Já que não me entendes, não me julgues 
+G 
+Não me tentes 
+G 
+O que sabes fazer agora 
+Em 
+Veio tudo de nossas horas 
+G Em D 
+Eu não minto, eu não sou assim 
+D C 
+Ninguém sabia e ninguém viu 
+Am G 
+Que eu estava a teu lado então 
+
+G B                   Em B
+Sou fera, sou bicho, sou anjo e sou mulher 
+C C#
+Sou minha mãe e minha filha, 
+D 
+Minha irmã, minha menina 
+G B                  Em B
+Mas sou minha, só minha e não de quem quiser 
+C C#                 D 
+Sou Deus, tua deusa, meu amor 
+          
+
+        ( Varias X)        (Varias X)
+
+  E |-----7-7-7-7-----------10---|
+  B |-----8-8-8-8-----------10---|
+  G |-----7-7-7-7-----------11---|
+  D |----------------------------|
+  A |----------------------------|
+  E |----------------------------|
+
+D 
+Alguma coisa aconteceu 
+C D 
+Do ventre nasce um novo coração 
+G 
+Não penso em me vingar 
+Em 
+Não sou assim 
+C D 
+A tua insegurança era por mim 
+G 
+Não basta o compromisso 
+Em 
+Vale mais o coração 
+C 
+Ninguém sabia, ninguém viu 
+D 
+Que eu estava ao teu lado então 
+G Em 
+Sou fera, sou bicho, sou anjo e sou mulher 
+C 
+Sou minha mãe e minha filha, 
+D 
+Minha irmã, minha menina 
+G Em 
+Mas sou minha, só minha e não de quem quiser 
+C D 
+Sou Deus, tua deusa, meu amor 
+D 
+Baby, baby, baby, baby 
+O que fazes por sonhar 
+C D C 
+É o mundo que virá prá ti e prá mim 
+D C 
+Vamos descobrir o mundo juntos baby 
+D C D 
+Quero aprender com o teu pequeno grande coração 
+C D 
+Meu amor, meu amor 
+Baby
+</pre>
+</font>

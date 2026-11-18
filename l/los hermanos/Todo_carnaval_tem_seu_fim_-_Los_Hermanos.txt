@@ -1,0 +1,429 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/los_hermanos/Todo_carnaval_tem_seu_fim_-_Los_Hermanos.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Todo Carnaval Tem Seu Fim
+Los Hermanos
+http://www.casa.cifras.nom.br
+=--=-=-==--=-=-=-=-=-=-=-==--=
+
+Se preferir tocar a musica com o riff, deve afinar a guitarra
+meio tom abaixo (Eb Ab Db Gb Bb eb):
+
+(Solo inicial de Sax e Riff que fica tocando ao fundo durante a musica)
+
+- Na segunda vez do solo de sax (Am E) (Afinacao normal, Abm Eb)
+eb -----------------
+Bb -----------------
+Gb -----------------    3x
+Db -----------------
+Ab -----7-----------
+Eb -5-8---5-8-7-8-0-
+
+
+Am                    E
+Todo dia um ninguém josé acorda já deitado
+Am                 E
+Todo dia, ainda de pé, o zé dorme acordado
+Am                 E
+Todo dia o dia não quer raiar o sol do dia
+Am                     E
+Toda trilha é dada com fé de quem crê no ditado
+Dm              Am         C#m
+De que o dia insiste em nascer
+      Dm     Am         C#m     Bm           E
+Mas o dia insiste em nascer pra ver deitar o novo
+Am                  E
+Toda rosa é rosa porque assim ela é chamada
+Am                    E
+Toda bossa é nova e você não liga se é usada
+Dm          Am          C#m
+Todo o carnaval tem seu fim
+Dm          Am          C#m
+Todo o carnaval tem seu fim
+    Bm    
+É o fim
+    E
+É o fim
+
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+
+Am                  E
+Toda banda tem um tarol, quem sabe eu não toco?
+Am                  E
+Todo samba tem um refrão pra levantar o bloco
+Am                        E
+Toda escolha é feita por quem acorda já deitado
+Am                    E
+Toda folha elege um alguém que mora logo ao lado
+Dm             Am        C#m
+E pinta o estandarte de azul
+Dm           Am        C#m
+E põe suas estrelas no azul
+  Bm         E
+- "Pra que mudar?"
+
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+
+ 
+e ----------------------
+B ----------------------
+G ----------------------  varias vezes esse riff
+D ----------------------
+A ----------------------
+E -5-5-6-6-3-5-5-5-6-6-3                       
+
+
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  Am           Dm         Am                 E           Am
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  Am           Dm         Am                 E   
+- Deixa eu brincar de ser feliz, deixa eu pintar 
+
+
+
+Versão 2
+---------
+los hermanos - todo carnaval tem seu fim
+
+obs.: a musica soa melhor se A: |5|, eu acho.
+				|7|
+				|7|
+				|6|
+				|5|
+				|5|		
+obs.2: essa tab foi inspirada na versão anteriormente colocada nesse 
+mesmo site. espero que não seja problema pra ninguém.
+obs.3: qualquer sugestão pra melhoria do refrão, que não me pareceu no tom exato,
+moises_coelho@yahoo.com.br
+e é isso aí.	
+
+am		      em
+todo dia um ninguém josé acorda já deitado
+am		  em 		
+todo dia ainda de pé, o zé dorme acordado
+am		    em	
+todo dia o dia não quer raiar o sol do dia
+am			em
+toda trilha é dada com fé de quem crê no ditado
+dm		g          a    dm           g         a
+de que o dia insiste em nascer, mas o dia insiste em nascer
+    bm     em
+pra ver deitar o outro
+am 		    em	
+toda rosa é rosa porque assim ela é chamada
+am		      em	
+toda bossa é nova e você não liga se é usada
+am        g		a  am 	     g		   a       bm	    em 			      
+todo carnaval tem seu fim, todo carnaval tem seu fim, é o fim, é o fim
+
+REFRÃO
+am          dm             am              e            am
+deixa eu brincar de ser feliz, deixa eu pintar o meu nariz (4x)
+am		    em
+toda banda tem um tarol, quem sabe eu não toco?
+am		      em	 
+todo samba tem um refrão pra levantar o bloco
+am			   em
+toda escolha é feita por quem acorda já deitado
+am			em
+toda folha elege um alguém que mora logo ao lado
+am              g	   a	
+e pinta o estandarte de azul,
+am           g          a       bm     em	 
+e põe as estrelas no azul, pra que mudar?
+
+REFRÃO
+
+-x-
+
+
+Versão 3
+---------
+Para a música "Todo o Carnaval Tem seu fim", do Los Hermanos, creio que algumas partes ficariam melhor assim:
+ 
+Dm              G              A
+Todo o carnaval tem seu fim
+Dm           G                A
+Todo o carnaval tem seu fim
+    Bm    
+É o fim
+    E
+É o fim
+
+ Dm      F       Bb              Dm         F       Bb    
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+Dm       F        Bb              Dm        F       Bb
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+
+ 
+ 
+por: "Tito" <titopr@onda.com.br> Tito
+
+
+Versão 4
+---------
+Todo carnaval tem seu Fim
+(Marcelo Camelo)
+enviado por Erickson Galvão" <ckinho@ig.com.br> 
+
+
+Am                               E(#5)
+Todo dia um ninguém josé acorda já deitado
+Am                      E(#5)         
+Todo dia ainda de pé o zé dorme acordado
+Am                       E(#5)
+Todo dia o dia não quer raiar o sol do dia
+Am                                   E(#5)
+Toda trilha é andada com a fé de quem crê no ditado
+Dm             G                A
+Mas o dia insiste em nascer
+Dm             G                A
+Mas o dia insiste em nascer
+      Bm     E    E(#5)
+Pra ver deitar o novo...
+
+
+Am                          E(#5)
+Toda rosa é rosa por que assim ela é chamada
+Am                             E(#5)
+Toda Bossa é nova e você não liga se é usada
+Dm              G              A
+Todo o carnaval tem seu fim
+Dm              G              A
+Todo o carnaval tem seu fim
+Bm            Dm
+É o fim, é o fim
+
+
+Dm            Bb7+/13    D#7+/13      D#7(b5)/13          Dm
+      Deixa  eu        brincar  de       ser                     feliz,
+         Bb7+/13       D#7+/13  D#7(b5)/13    Dm
+Deixa eu            pintar o      meu           nariz
+
+
+Am                         E(#5)
+Toda banda tem um tarol, quem sabe eu não toco
+Am                            E(#5)
+Todo samba tem um refrão pra levantar o bloco
+Am                               E(#5)
+Toda escolha é feita por quem acorda já deitado
+Am                             E(#5)
+Toda folha elege um alguém que mora logo ao lado
+Dm                 G            A
+E pinta o estandarte de azul
+Dm                 G           A
+E põe suas estrelas no azul
+        Bm    Dm
+Pra que mudar?
+
+
+
+Versão 5
+--------
+
+
+Todo carnaval tem seu fim
+Los Hermanos
+Tom: G#m
+
+
+enviada por Wellington Rodrigues 
+
+
+A introdução é feita com um som abafado:
+
+
+
+
+E -----------------
+B -----------------
+G -----------------    3x
+D -----------------
+A -----6-----------
+E -4-7---4-7-6-7---
+
+
+
+G#m                    D#
+Todo dia um ninguém José acorda já deitado
+G#m                 D#
+Todo dia, ainda de pé, o zé dorme acordado
+G#m                 D#
+Todo dia o dia não quer raiar o sol do dia
+G#m                     D#
+Toda trilha é dada com fé de quem crê no ditado
+C#m              F#         G#
+De que o dia insiste em nascer
+C#m        F#         G#      A#m     D#
+Mas o dia insiste em nascer pra ver deitar o novo
+G#m                    D#
+Toda rosa é rosa porque assim ela é chamada
+G#m                    D#
+Toda bossa é nova e você não liga se é usada
+C#m       F#             G#
+Todo o carnaval tem seu fim
+C#m       F#             G#
+Todo o carnaval tem seu fim
+    A#m    
+É o fim
+    D#
+É o fim
+
+
+  C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+
+
+G#m                D#
+Toda banda tem um tarol, quem sabe eu não toco?
+G#m                 D#
+Todo samba tem um refrão pra levantar o bloco
+G#m                       D#
+Toda escolha é feita por quem acorda já deitado
+G#m                   D#
+Toda folha elege um alguém que mora logo ao lado
+C#m            F#        G#
+E pinta o estandarte de azul
+C#m           F#        G#
+E põe suas estrelas no azul
+  A#m         D#
+- "Pra que mudar?"
+
+
+  C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+  C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+
+
+ 
+e ----------------------
+B ----------------------
+G ----------------------  varias vezes esse riff
+D ----------------------
+A ----------------------
+E -4-4-5-5-2-4-4-4-5-5-2                       
+
+
+
+  C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+C#m           F#m   G#   C#m              F#m     G#   C#m
+- Deixa eu brincar de ser feliz, deixa eu pintar o meu nariz !
+C#m           F#m   G#   C#m              F#m     G#   C#m  
+- Deixa eu brincar de ser feliz, deixa eu pintar 
+
+
+
+
+
+Enviado por wellingtondragon@aol.com.br
+Tenho MUUUUUITAS cifras de Rock Brazuca. quem quiser, é só pedir.
+Pô, não acredito que não mandaram essa cifra no tom certo!
+Ae galera! Vamos enviar tablaturas e cifras de rock brazuca!
+Abaixo esses paga-pau dos gringos! O que eles tem de melhor que a gente?
+</pre>
+</font>

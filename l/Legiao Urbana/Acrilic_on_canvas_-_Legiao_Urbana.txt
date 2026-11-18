@@ -1,0 +1,221 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Acrilic_on_canvas_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Acrilic On Canvas 
+
+Intro:(Dm Bb)
+Guitarra:
+   Dm              Bb          Dm              Bb
+E|---------------------8---------------------------8--------|
+B|-9s11-9s10~-s8---7s8---10-8--9s11-9s10~-s8---7s8---10~-s8-|
+G|----------------------------------------------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+(Obs:Essa parte é tocada durante toda a música junto com os acordes "Dm Bb".
+se vc ouvir a música , vc perceberá que ela não vai assim por toda a música, 
+tem algumas variações, mas da pra tocar só isso nessas partes que variam que fica legal.)
+
+
+   (Dm Bb)
+- É saudade então
+E mais uma vez
+De você fiz o desenho mais perfeito que se fez:
+Os traços copiei do que não aconteceu
+As cores que escolhi entre as tintas que inventei
+Misturei com a promessa que nós nunca fizemos
+De um dia sermos três
+Trabalhei com você em luz e sombra
+Dm G Bb
+  Era sempre:
+             Eb
+-Não foi por mal. 
+   Cm
+Eu juro que nunca 
+                       F
+quis deixar você tão triste
+Dm                   G
+Sempre as mesmas desculpas
+Bb              Eb 
+E desculpas nem sempre 
+       Cm
+são sinceras
+       F
+Quase nunca são
+
+  (Dm Bb)
+Preparei a minha tela
+Com pedaços de lençóis
+Que não chegamos a sujar
+A armação fiz com madeira
+Da janela do seu quarto
+Do portão da sua casa
+Fiz paleta e cavalete
+E com lágrimas que não brincaram com você
+Destilei óleo de linhaça
+E da sua cama arranquei pedaços
+Que talhei em estiletes
+E fiz então
+Pincéis com seus cabelos
+Fiz carvão do batom 
+Que roubei de você
+E com ele marquei
+Dois pontos de fuga
+E rabisquei no horizonte
+Dm G Bb
+  Era sempre:
+
+  Eb
+- Não foi por mal.
+   Cm
+Eu juro que não foi por mal.
+                          F
+Eu não queria machucar você:
+Prometo que isso nunca vai acontecer
+         Dm   G
+Mais uma vez
+Bb
+E era sempre, sempre o 
+Eb        Cm
+mesmo novamente
+         F
+A mesma traição
+  (Dm Bb)
+Às vezes é difícil esquecer:
+- Sinto muito, ela não mora mais aqui.
+Mas então porque eu finjo 
+Que acredito no que invento?
+Nada disso aconteceu assim 
+- Não foi desse jeito
+Ninguém sofreu:
+É só você que provoca 
+Essa saudade vazia
+Tentando pintar essas flores com o nome
+De "amor-perfeito" 
+E "não-te-esqueças-de-mim"
+
+Guitarra do final:
+E|-----------------------------------------------------------------|
+B|-1s5-5~-s3-1s5-5~-s3-1s5-5~-s3-3s5-5s6-6~-5s8-8~-s5-5s8-8~-s5...-|e por aí vai!!!
+G|-----------------------------------------------------------------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+(Obs:Essa música é o seguinte:
+quando vc a ouve pela primeira vez, vc acha meio esquisita, mas se vc for ouvindo com atenção,
+com o tempo vc vai perceber que ela é muito LOKA)
+
+Notações
+s -> slide
+~ -> vibrator
+
+Acordes:
+Dm ->(xx0231)
+Bb ->(112221)
+G  ->(355433)
+Cm ->(335543)
+Eb ->(x65343)
+F  ->(122411)
+
+Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+Vamos mostrar que nós sabemos fazer melhor que os gringos.
+Os sites de cifras necessitam de mais músicas nacionais.,
+Vamos parar com de que o Brasil não tem nada que preste...
+se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+nacional e da MPB, vc verá que existe muita coisa boa.
+Por tanto, vamos tirar mais solo e riff das músicas nacionais.
+Obrigado.
+
+(Transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+</pre>
+</font>

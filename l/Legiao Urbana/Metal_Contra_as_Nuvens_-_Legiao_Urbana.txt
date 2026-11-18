@@ -1,0 +1,653 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Metal_Contra_as_Nuvens_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+----------
+Música:Metal Contra as Nuvens
+Artista:Legião Urbana
+Álbum:V
+
+Intro.:(Em7 A7 C G D)4x (Em7 D C Am G D)4x
+Guitarra: 1ª parte (Obs:Essa parte do "G Sol" e do "D Ré", é feita no acústico MTV.)
+             Em7             A7                C              G          D
+E|---------|---------------------------0-------------------------------------------|
+B|---------|--------3-----3--------2-----2-----------1-----1------3----------3-----|
+G|---------|---0--------0------0-----------0-----0-------0------4---4------0---0---|4x
+D|---------|-2---2----2------2---2-------------2---2---2------5-------5--4-------4-|
+A|-0h7~s---|-----------------------------------------------------------------------|
+E|-0-----0-|-----------------------------------------------------------------------|
+
+Violão: 2ª parte
+   Em7      D        C                Am       G        D                
+E|-3-----3--2-----2--0----3-0-----------------------------------|
+B|-----0--------3---------------------1-----1--0-----0--------3-|
+G|---0--------2---------0------0-0-0------2--------0------------|4x junto com a guitarra
+D|-2-----2--0-----0---------------------2--------0------7---7-4-|
+A|-------------------3----3-3--3-2-0--0-----0-------------0-----|
+E|---------------------------------------------3-----3--5-------|
+
+Guitarra: 2ª parte
+E|-----10-------7-------5---3-------------------------3--------2h3p2---|
+B|---8----8---7---7s--5---5---5-3-----------5-------3---3------------3-|
+G|-9---------------------------------4s5--5---5-0---------0-2----------|1x
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+Obs:Faça a parte acima  uma e repita a parte abaixo 3 vezes.
+E|-----10-------7---------3-5-------------------------3--------2h3p2---|
+B|---8----8---7---7s---5~-----3h5p3---------5-------3---3------------3-|
+G|-9---------------------------------4s5--5---5-0---------0-2----------|3x
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+D                         G   D G
+  Não sou escravo de ninguém
+                        D    A D
+Ninguém senhor do meu domínio
+                     Cadd9
+Sei o que devo defender
+E por valor eu tenho
+   Em7                  A7  D
+E temo o que agora se desfaz
+                G    D G
+Viajamos sete léguas
+                       D     A D
+Por entre abismos e florestas
+                         Cadd9
+Por Deus nunca me vi tão só
+                         Em7
+é a própria fé o que destrói
+                    A7   D
+Estes são dias desleais.
+    
+   C             D               G           G/F#     Em
+E|-----------------------------------------------------------------------|
+B|-----------------------7-------------3------------------3-0------------|
+G|-----5-----5-------7-----7-------------4---------------------0h2h3p2-0-|
+D|---5-----5-------7---------7-----5---------5-4-2-----2-----------------|
+A|-3-----3-------5---------------5-------------------2-------------------|
+E|-----------------------------------------------------------------------|
+
+   C              D                F           G
+E|-----------------------------------------------------|
+B|------------------------7----------1-----------3-----|
+G|-----5------5-------7-----7------2-----2-----4-----4-|
+D|---5------5-------7---------7------------------------|
+A|-3------3-------5------------------------------------|
+E|-----------------------------------------------------|
+
+       C   D                     G  G/F# Em
+Sou metal - raio, relâmpago e trovão
+       C  D                        G  G/F# Em
+Sou metal, eu sou o ouro em seu brazão
+       C  D                      F   G
+Sou metal: me sabe o sopro do dragão.
+
+   C                        Am      D       Dm        G
+E|---3----3----5----3---3----3...-----5...----5...------7-----7-----7-----7-----7-----|
+B|-------------------------5...-----7...----6...----------8-----8-----8-----8-----8---|
+G|-5----5----5----5---5-------------------------------7-----7-----7-----7-----7-----7-|
+D|------------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------------|
+
+C                Am
+Reconheço meu pesar:
+                  D
+Quando tudo é traição,
+                  Dm
+O que venho encontrar
+                      G
+é a virtude em outras mãos.
+
+E|-9--8-5-3-3-2h3p2------2---------3---3---3--------4---4---4---|
+B|-10-7-5-3-3-3--------3---3------------------------------------|
+G|-------------------2---------3s4---4---4---4--4s5---5---5---5-|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+
+A7/4 A7    D    G    E          A7/4 A7
+    Minha terra é a terra que é minha
+  D         G E  A7/4 A7    D    G
+E sempre será        minha terra
+        E          A7/4 A7 D            G E A7/7 A7 (Am D)
+Tem a lua,  tem estrelas e sempre terá.
+
+Solo
+E|-------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------------|2x
+D|----------10------------10s12----------------------10-----------12-12-12-12-10-|
+A|-12-10-12-----12-11-10---------------------9-10-12----12-11-10-----------------|
+E|-------------------------------9-10-11-12--------------------------------------|
+
+Am                     D       Am
+Quase acreditei na tua promessa
+                          D
+E o que vejo é fome e destruição
+Am                             D
+Perdi a minha sela e a minha espada
+Am                        D     
+Perdi o meu castelo e minha princesa.
+
+Solo
+E|-------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------------|2x
+D|----------10------------10s12----------------------10-----------12-12-12-12-10-|
+A|-12-10-12-----12-11-10---------------------9-10-12----12-11-10-----------------|
+E|-------------------------------9-10-11-12--------------------------------------|
+
+(Am D)
+Quase acreditei, quase acreditei
+E, por honra, se existir verdade
+Existem os tolos e existe o ladrão
+E há quem se alimente do que é roubo.
+Vou guardar o meu tesouro
+Caso você esteja mentindo. 
+Olha o sopro do dragão
+ 
+(Obs:Nessa parte o violão faz uma vez sozinho e depois com a guitarra)
+Violão:
+   Em7      D        C                Am       G        D                
+E|-3-----3--2-----2--0----3-0-----------------------------------|
+B|-----0--------3---------------------1-----1--0-----0--------3-|
+G|---0--------2---------0------0-0-0------2--------0------------|4x
+D|-2-----2--0-----0---------------------2--------0------7---7-4-|
+A|-------------------3----3-3--3-2-0--0-----0-------------0-----|
+E|---------------------------------------------3-----3--5-------|
+
+Guitarra:
+E|-----10-------7---------3-5-------------------------3--------2h3p2---|
+B|---8----8---7---7s---5~-----3h5p3---------5-------3---3------------3-|
+G|-9---------------------------------4s5--5---5-0---------0-2----------|3x
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+D                    G    D
+é a verdade o que assombra
+G                D    A D
+O descaso que condena,
+                      C
+A estupidez o que destrói
+                    Em
+Eu vejo tudo que se foi
+                 A7    D
+E que não existe mais
+
+(Esse riff é feito pelo Dado na hora do Ré)
+E|----------------------------|
+B|---2---3---5-3----7---5---3-|
+G|----------------------------|
+D|-2---4----------7---5---4---|
+A|----------------------------|
+E|----------------------------|
+
+                        G      D G
+Tenho os sentidos já dormentes,
+                        D    A7 D
+O corpo quer, a alma entende.
+                      C
+Esta é a terra-de-ninguém
+                  Em
+Sei que devo resitir -
+                            A7    D
+Eu quero a espada em minhas mãos.
+
+E|----------------------------|
+B|---2---3---5-3----7---5---3-|
+G|----------------------------|
+D|-2---4----------7---5---4---|
+A|----------------------------|
+E|----------------------------|
+
+
+ C             D               G             G/F#   Em
+E|-----------------------------------------------------------------------|
+B|-----------------------7-------------3------------------3-0------------|
+G|-----5-----5-------7-----7-------------4---------------------0h2h3p2-0-|
+D|---5-----5-------7---------7-----5---------5-4-2-----2-----------------|
+A|-3-----3-------5---------------5-------------------2-------------------|
+E|-----------------------------------------------------------------------|
+
+   C              D                F           G
+E|-----------------------------------------------------|
+B|------------------------7----------1-----------3-----|
+G|-----5------5-------7-----7------2-----2-----4-----4-|
+D|---5------5-------7---------7------------------------|
+A|-3------3-------5------------------------------------|
+E|-----------------------------------------------------|
+
+      C   D                     G  G/F# G/E 
+Sou metal - raio, relâmpago e trovão
+       C  D                        G  G/F# G/E
+Sou metal, eu sou o ouro em seu brazão
+       C  D                      F   G
+Sou metal: me sabe o sopro do dragão.
+
+  C                        Am      D       Dm        G
+E|---3----3----5----3---3----3...-----5...----5...------3-----3-----3-----3-----3-----|
+B|-------------------------5...-----7...----6...----------3-----3-----3-----3-----3---|
+G|-5----5----5----5---5-------------------------------0-----0-----0-----0-----0-----0-|
+D|------------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------------|
+
+C                    Am
+Não me entrego sem lutar -
+                D
+Tenho ainda coração.
+                    D
+Não aprendi a me render: 
+                    G   (Em7 A7 C G D)
+Que caia o inimigo então.
+
+Guitarra: 
+   Em7             A7                C              G          D
+E|---------------------------0-------------------------------------------|
+B|--------3-----3--------2-----2-----------1-----1------3----------3-----|
+G|---0--------0------0-----------0-----0-------0------4---4------0---0---|5x
+D|-2---2----2------2---2-------------2---2---2------5-------5--4-------4-|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+(Obs:Tocar a parte acima 2x antes do canto e depois 3x junto com o canto.)
+
+       Em7 A7            C G D
+- Tudo passa, tudo passará
+       Em7 A7            C G D
+- Tudo passa, tudo passará
+       Em7 A7            C G D
+- Tudo passa, tudo passará
+
+Guitarra:
+  Em7             A7                C              G          D
+E|---------------------------0-------------------------------------------|
+B|--------3-----3--------2-----2-----------1-----1------3----------3-----|
+G|---0--------0------0-----------0-----0-------0------4---4------0---0---|5x
+D|-2---2----2------2---2-------------2---2---2------5-------5--4-------4-|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+Violão: 2ª parte
+   Em7      D        C                Am       G        D                
+E|-3-----3--2-----2--0----3-0-----------------------------------|
+B|-----0--------3---------------------1-----1--0-----0--------3-|
+G|---0--------2---------0------0-0-0------2--------0------------|4x junto com a guitarra
+D|-2-----2--0-----0---------------------2--------0------7---7-4-|
+A|-------------------3----3-3--3-2-0--0-----0-------------0-----|
+E|---------------------------------------------3-----3--5-------|
+
+Guitarra: 
+E|-----10-------7---------3-5-------------------------3--------2h3p2---|
+B|---8----8---7---7s---5~-----3h5p3---------5-------3---3------------3-|
+G|-9---------------------------------4s5--5---5-0---------0-2----------|4x
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+           Cadd9      G           Am
+E nossa história não estará pelo avesso
+            G
+Assim, sem final feliz.
+Cadd9            Em            Am D D4 D
+Teremos coisas bonitas pra contar.
+  C9 D  G   C9  D     G
+E a..té lá, va..mos viver
+Cadd9        D     G
+Temos muito ainda por fazer.
+Cadd9  D        Em
+Não   olhe pra trás -
+  Cadd9 D         G
+Apenas começamos.
+  Cadd9    D      G  Cadd9 D Em
+O mundo começa agora -
+  Cadd9 D        G C G(O ultimo G deve ser com pestana)
+Apenas começamos
+
+ACORDES
+
+Em7  (022033)
+A7   (X02020)
+C    (X32010)
+G    (320033)
+Am   (X02210)
+D    (XX0232)
+Dm   (XX0231)
+A7/4 (X02030)
+A7   (x02020)
+Em   (022000)
+C9   (X32033)
+F    (133211)
+
+Trancrita por:Gabriel Ysllu Chagas.
+Nunca vai existir música melhor que Metal Contra As Nuvens
+Na minha opinião é a música mais pertfeita que existe, 
+e por mais que eu envelhaça e deixe de toca-lá eu nunca esquecerei 
+os acordes, os riffs, e o sol e a letra tbm.
+Eu acho que os 4 meses tirando os riffs e cifrando a música
+,na minha opinião valeram à pena, mas se vc achar que 
+ainda falta alguma coisa, eu pesso que não exite em me mandar um e-mail, obrigado!
+batosay@mtv.com.br
+
+
+
+
+Versão 2
+---------
+Música:Metal Contra As Nuvens
+Artista:Legião Urbana
+Album:Acústico MTV
+
+Tom: G
+Intr: 
+Renato Russo: (Em7 A C G D/F#) (Em7 D C Am G D)  
+
+Dado Villa-Lobos
+e--------------------------------------------------------3-------2----|
+B-------3-----3--------2-----2-------1---3--0-1h0------3---3---3---2--|
+G---0-------0------0-------0-----0----------------0--0-------2--------|Repete 4x
+D-2---2---2------2---2---2-----2---2----------------------------------|
+A---------------------------------------------------------------------|
+E---------------------------------------------------------------------|
+
+e-----0-------2--------0------------0-------0--3-3-3-2-2--2-3h---2----|
+B---3---3---3---2----1---1--------1---1---1----3-3-3-3-3-------3-3----|
+G-0-------2--------0------------2-------2------0-0-0-2-2---------2----|1x
+D---------------------------------------------------------------------|
+A--------------------------3--2---------------------------------------|
+E---------------------------------------------------------------------|
+Durante os versos o Renato faz os acordes e o Dado faz os acordes mas em outras posições 
+ (I Parte)
+ D                       G   D
+ Não sou escravo de ninguém
+ G                        D    A  D
+ Ninguém senhor do meu domínio
+                      C
+ Sei o que devo defender
+ E por valor eu tenho
+    Em                   A  D
+ E temo o que agora se defaz
+                G    D G
+ Viajamos sete léguas
+                        D     A D
+ Por entre abismos e florestas
+                          C
+ Por Deus nunca me vi tão só
+                          Em
+ É a própria fé o que destrói
+                     A   D
+ Estes são dias desleais
+        C   D                     G  Em
+ Sou metal - raio, relâmpago e trovão
+        C  D                        G  Em
+ Sou metal, eu sou o ouro em seu brazão
+        C  D                      F   G
+ Sou metal: me sabe o sopro do dragão.
+Nessa parte  acima "Sou metal..." tem uma caida do G p/ o E que esta transcrita abaixo:
+    C     D        G
+e------------------3-----------|
+B------------------3-----------|
+G------------------0-----------|
+D------------------0-------2---|
+A------------------1-------2---|
+E------------------3--3-2--0---|
+Dado:
+        C       Am            D               Dm                  G 
+e-8-7---8---7---8-7----8------5-5-----5-------5--5-----5----------7-7-----7-----7----7----|
+B-8---8---8----10---10---10---7---7-----7-----6----6-----6----3/--8---8-----8-----8----8--|
+G-9------------9--------------7-----7-----7---7------7-----7--2/--7-----7-----7-----7----7|
+D-----------------------------------------------------------------------------------------|
+A-----------------------------------------------------------------------------------------|
+E-----------------------------------------------------------------------------------------|
+
+ C                Am
+ Reconheço meu pesar:
+                   D
+ Quando tudo é traição,
+                   Dm
+ O que venho encontrar
+                       G
+ É a virtude em outras mãos
+Dado: 
+e-9-7-5-3-3-3h2-3-2-----------|
+B-----------------------------|
+G-----------------------------|
+D-----------------------------|
+A-----------------------------|
+E-----------------------------|
+Quando entra o A o Dado faz o lick acima depois ele dedilha as notas
+A      D    G    E          A
+ Minha terra é a terra que é minha
+   D         G E A       D    G
+ E sempre será  minha terra
+        E         A     D            G E A (Am)
+ Tem a lua, tem estrelas e sempre terá
+
+ (II Parte)
+Nessa parte que a música fica mais rapida a primeira tab é para o violão base
+e a segunda p/ o solo
+
+Renato Russo  
+e------------------------------|
+B------------------------------|
+G------------------------------|
+D------------------------------|
+A-5-5-5-5-5-5--3--3--3--3-3----|
+E-5-5-5-5-5-5--3--3--3--3-3----|
+A base nessa parte da música fica só assim eu aconselho vc ouvir a música para tirar essa parte
+ela é a parte mais difícil.
+Dado
+        Am          D
+e--------------------------------|
+B--------------------------------|
+G--------------------------------|
+D-2-*-*-2-*-*-2--7-7-7-7---------|
+A-0-*-*-0-*-*-0--5-5-5-5---------|
+E--------------------------------|
+O Dado fica assim durante essa parte as vezes ele faz variações como 
+ir do D p/ o E, ou do D p/ o C
+
+ Am              D  Am         D 
+ Quase acreditei na tua promessa
+ Am                  D     Am     D
+ E o que vejo é fome e destruição
+ Am                 D   Am         D 
+ Perdi a minha sela e a minha espada
+ Am                  D   Am         D     solo
+ Perdi o meu castelo e minha princesa
+solo:
+e------------------------------------------------------------|
+B------------------------------------------------------------|
+G-------5-------5/7---------------------5----------5/7-7-5---|
+D-7-5-7---7-5-7-----5-------5---7-5--7-------7-5-7-----------|2x
+A---------------------7-5-7----------------------------------|
+E------------------------------------------------------------|
+ (Am D)
+ Quase acreditei, quase acreditei
+ E, por honra, se existir verdade
+ 
+Durante a Proxima parte o Renato e o e Dado dão mais tempo as notas, 
+dão o tempo por igual tanto no Am quanto no D, quando entrar o solo faz igual a primeira parte 
+Am                   D 
+Existem os tolos e existe o ladrão
+  Am                           D
+E há quem se alimente do que é roubo
+           Am                D 
+Mais vou guardar o meu tesouro
+       Am                D
+Caso você esteja mentindo  
+solo:
+e------------------------------------------------------------|
+B------------------------------------------------------------|
+G-------5-------5/7---------------------5----------5/7-7-5---|
+D-7-5-7---7-5-7-----5-------5---7-5--7-------7-5-7-----------|2x
+A---------------------7-5-7----------------------------------|
+E------------------------------------------------------------|
+
+Olha o sopro do dragão -(4x) 
+G (Em7 D C Am G D)
+
+ (III Parte)
+
+ D                    G    D
+ É a verdade o que assombra
+ G                D    A D
+ O descaso que condena,
+                       C
+ A estupidez o que destrói
+                     Em
+ Eu vejo tudo que se foi
+                  A
+ E que não existe mais
+ D                       G      D G
+ Tenho os sentidos já dormentes,
+                         D    A D
+ O corpo quer, a alma entende
+                       C
+ Esta é a terra-de-ninguém
+                   Em
+ Sei que devo resitir -
+                             A    D
+ Eu quero a espada em minhas mãos
+        C   D                     G  Em
+ Sou metal - raio, relâmpago e trovão
+        C  D                         G Em
+ Sou metal: eu sou o ouro em seu brazão
+        C  D                      F   G
+ Sou metal: me sabe o sopro do dragão
+ C                    Am
+ Não me entrego sem lutar -
+                 D
+ Tenho ainda coração
+                     Dm
+ Não aprendi a me render:
+                      G   Em7 A C G D
+ Que caia o inimigo então
+
+ (IV Parte)
+Essa parte é o desfecho da musica durante a 1ª vez da primeira frase os dois 
+(Renato e Dado) fazem as notas depois durante as outras duas o Renato 
+faz as notas e o Dado o lick abaixo:
+Dado:
+     Em7          A        C            G 
+e-3-3-3-5-3--5-5-5-7-5-8-8-8-10--8--10--10-10--8-8-8---|
+B-3-3-3-3-3--5-5-5-5-5-8-8-8--8--8--10--10-10--8-8-8---|
+G-4-4-4-4-4--6-6-6-5-6-9-9-9--9--9--12--12-12--9-9-9---|
+D------------------------------------------------------|
+A------------------------------------------------------|
+E------------------------------------------------------|
+        (Em7 A             C G D/F#) 3x
+ - Tudo passa, tudo passará
+Em7 A C G D/F#   Em7 D C Am G D 
+            C          G           Am
+ E nossa história não estará pelo avesso
+              G
+ Assim, sem final feliz.
+ C                Em            Am D
+ Teremos coisas bonitas pra contar
+   C D  G C   D     G
+ E até lá, vamos viver
+ C           D     G
+ Temos muito ainda por fazer
+ C   D          Em
+ Não olhe para trás -
+   C    D         G
+ Apenas começamos
+   C       D      G   G/F Em
+ O mundo começa agora -
+   C    D        G C G
+ Apenas começamos
+</pre>
+</font>

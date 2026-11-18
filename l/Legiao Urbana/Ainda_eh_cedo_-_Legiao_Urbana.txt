@@ -1,0 +1,247 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Ainda_eh_cedo_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+MÚSICA: "Ainda é Cedo"
+BANDA: Legião Urbana
+
+Renato Costa Ribeiro
+
+Intr.: Baixo / Dm - C - Am
+
+                   Dm  C
+Uma menina me ensinou
+                   Am
+Quase tudo que eu sei
+                  Dm
+Era quase escravidão
+    C                      Am
+Mas ela me tratava como um rei
+                 Dm     C
+Ela fazia muitos planos
+                     Am
+Eu só queria estar ali
+               Dm
+Sempre ao lado dela
+        C         Am
+Eu não tinha onde ir
+                    Dm   C
+Mas, egoísta que eu sou,
+                 Am
+Me esqueci de ajudar
+                     Dm  C
+A ela como ela me ajudou
+                   Am
+E não quis me separar
+                     Dm
+Ela também estava perdida
+      C                         Am
+E por isso se agarrava a mim também
+                   Am
+E eu me agarrava a ela
+              C               Am
+Porque eu não tinha mais ninguém
+
+                      Dm         C           Am
+E eu dizia: Ainda é cedo, cedo, cedo, cedo, cedo
+
+                  Dm  C
+Sei que ela terminou
+                 Am
+O que eu não comecei
+                   Dm  C
+E o que ela descobriu
+                       Am
+Eu aprendi também, eu sei
+                          Dm
+Ela me falou: - Você tem medo
+       C                         Am
+Aí eu disse: - Quem tem medo é você
+                    Dm
+Falamos o que não devia
+           C            Am
+Nunca ser dito por ninguém
+                       Dm
+ela me disse: - Eu não sei
+                           Am
+Mais o que eu  sinto por você
+             Dm         C             Am
+Vamos dar um tempo, um dia a gente se vê
+
+                    Dm     C    Am
+E eu dizia: Ainda é cedo, cedo, cedo, cedo, cedo
+
+   Baixo da música (o tempo todo):
+
+G:-----------------------------|-------------------------------------
+D:-----------------------------|-------------------------------------
+A:--5-5-5-5-5-5---3-3-3-3-3-3--|--0-0-0-0-0-0------------------------
+E:-----------------------------|-------------------------------------
+
+Sequência de ("harmônicas"):      | Tocada sem harmônica |
+
+e:-----8-------------8--------------|------------------|------------
+B:----------------------------------|------------------|------------
+G:-7------7------7------7-------7---|-7-9-10----7-9----|-7----------
+D:---7------7------7------7---7---7-|---------7-----10-|---7--12----
+A:--------------------------7-------|------------------|---------12-
+E:----------------------------------|------------------|------------
+
+e:------------------------------------------------------------------
+B:------------------------------------------------------------------
+G:-7--------------------7-----------------7-----------------12--7---
+D:---7-7-7-7-7...-7---7---7-12----12--7-----7--12--------12-------7-
+A:------------------7----------12------7----------12--12------------
+E:------------------------------------------------------------------
+
+e:-----------------------------------------------7------------------
+B:-------------------------------------------------7----------------
+G:-------7-7--------------------7--------------7------7-------------
+D:---7-------7----7--12-----------7----7----7----7------7----7-7-7..
+A:-7------------7-------12-12...-----7----7---------------7---------
+E:------------------------------------------------------------------
+
+e:---------------------------------------------|--------8-7-8-5~--|-
+B:-----------------------------------------7---|----8-6-----------|-
+G:---7----7---7-----7---------------7----7-----|--7---------------|-
+D:-7----7---------7---7-----7-----7----7-------|------------------|-
+A:--------------7---------7-----7--------------|------------------|-
+E:---------------------------------------------|------------------|-
+                                                   | Refrão 3X |
+e:-----------------|-----------------------------------12---7-------
+B:--------0--------|--------------------------------12--------7-----
+G:------2---2------|--7--------7---------------12---------------7---
+D:----2------------|----7----7---7---7------12----------------------
+A:--0--------------|-------7-------7-----12-------------------------
+E:-----------------|------------------------------------------------
+(final do refrão)   ( Solo )
+
+e:----------------------------|-7-------|---------------------------
+B:----------------------------|---7-----|---------------------------
+G:---7---------7-----12-------|-----7---|----------------7----------
+D:-7-----7---7----------12----|-------7-|-7-7-7...-7---7---7--12----
+A:-----7----------12-------12-|---------|------------7-----------12-
+E:----------------------------|---------|---------------------------
+                               |7 vezes|
+e:------------------------------------------------------------------
+B:------------------------------------------------------------------
+G:-12---------7----7-------7-------7--------------------------7-----
+D:----------7----7---7---7---7---7---7-----7------12---12-------7---
+A:----12--7------------------------------7-----12---------12------7-
+E:------------------------------------------------------------------
+
+e:----------------------------------|-------8-7-8-5~-|---------------
+B:----------------------------------|---8-6----------|------0--------
+G:-12-------7-----7-----------------|-7--------------|----2---2------
+D:----12------7-----7------7-----12-|----------------|--2------------
+A:-----------------------7----12----|----------------|---------------
+E:----------------------------------|----------------|---------------
+                                       (Refrão 3X)
+
+e:-----------------------------|-8-5...--8-8-...-8-5-8-5..-8-0-0-0-5-
+B:-----0---------3---------3---|-------------------------------------
+G:---2---2-----2---2-----2---2-|-------------------------------------
+D:-2---------2---------2-------|-------------------------------------
+A:-----------------------------|-------------------------------------
+E:-----------------------------|-------------------------------------
+   ( Repetição Contínua )        ( Outra guitarra )
+
+Essa música parece que eh difícil mas não é hehehe
+
+Ae segue a idéia Do gabriel Chagas tire as tabs de bandas brasileiras
+Eu tb fico de saco cheio qdo so vejo as tabs das bandas estrangeiras.
+
+Falou !!!!!
+Pink Floyd é Fodaaaa!!! (hehehehe banda estrangeira)
+
+
+
+</pre>
+</font>

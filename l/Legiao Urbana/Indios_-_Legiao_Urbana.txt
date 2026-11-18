@@ -1,0 +1,352 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Indios_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+--------
+Música:"Índios"
+Artista:Legião Urbana
+Álbum:Acústico MTV
+
+Tom:G
+
+Intro.:(G Am C D) (Am C D Bm Em Am D Bm Em)
+
+Dado:
+E|-----------------------------------------------|
+B|-8----8---8----10---12----7---7--5-3---3---3---|
+G|-----------------------------------------------|3x
+D|----9---9---9----10---12----7--------4---4---4-|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+E|---3-2-3-|---5-3-5-|---7-5-7-|---7-5-7-|---8-7-8-|---8-7-8-|---10-8-10-|         B|-1-------|-3-------|-3-------|-5-------|-5-------|-7-------|-7---------|
+G|---------|---------|---------|---------|---------|---------|-----------|
+D|---------|---------|---------|---------|---------|---------|-----------|
+A|---------|---------|---------|---------|---------|---------|-----------|
+E|---------|---------|---------|---------|---------|---------|-----------|
+
+E|---10-8-10-|
+B|-8---------|
+G|-----------|
+D|-----------|
+A|-----------|
+E|-----------|
+
+Riff da música.
+Obs:Esse riff não é o que o Dado faz,esse riff fui eu quem inventei.
+Não que eu seja convencido, mas esse  riff esta melhor do que o do Dado!!
+
+E|-0-2-5-3-2-|---5-3-7-5-3-|---7-5-8-7-5-|---7-5-8-7-5-|
+B|-----------|-3-----------|-7-----------|-8-----------|
+G|-----------|-------------|-------------|-------------|
+D|-----------|-------------|-------------|-------------|
+A|-----------|-------------|-------------|-------------|
+E|-----------|-------------|-------------|-------------|
+
+C
+Quem me dera, ao menos uma vez
+        D
+Ter de volta todo o ouro que entreguei
+             Bm
+A quem conseguiu me convencer
+Que era prova de amizade
+     Em
+Se alguém levasse embora até o que eu não tinha.
+
+Am
+Quem me dera, ao menos uma vez,
+     D
+Esquecer que acreditei que era por brincadeira
+     Bm
+Que se cortava sempre um pano-de-chão
+    Em
+De linho nobre e pura seda.
+
+Am
+Quem me dera, ao menos uma vez, 
+      D
+Explicar o que ninguém consegue entender:
+            Bm
+Que o que aconteceu ainda está por vir
+        Em
+E o futuro não é mais como era antigamente.
+
+Am
+Quem me dera, ao menos uma vez,
+   D
+Provar que quem tem mais do que precisa ter
+       Bm
+Quase sempre se convence que não tem o bastante
+   Em
+E fala demais, por não ter nada a dizer
+
+Am
+Quem me dera, ao menos uma vez,
+            D
+Que o mais simples fosse visto como o mais importante,
+Bm
+Mas nos deram espelhos 
+   Em
+E vimos uma mundo doente.
+
+Am
+Quem me dera, ao menos uma vez,
+     D
+Entender como isso Deus ao mesmo tempo é três
+       Bm 
+E esse mesmo Deus foi morto por vocês
+         Em
+É só maldade então, deixar um Deus tão triste.
+
+C Bm          Am           D
+Eu quis o perigo e até sangrei sozinho.
+  G        D/F#                     Em
+Entenda - assim pude trazer você de volta para mim,
+       C
+Quando descobri que é sempre só você
+         D          G       D/F#
+Que me entende do início ao fim
+Em                     C
+E é só você que tem a cura do meu vício
+                      D
+De insistir nessa saudade que eu sinto
+                 Dm          G
+De tudo que eu ainda não vi.
+
+E|---3-2-3-|---5-3-5-|---7-5-7-|---7-5-7-|---8-7-8-|---8-7-8-|---10-8-10-|         B|-1-------|-3-------|-3-------|-5-------|-5-------|-7-------|-7---------|
+G|---------|---------|---------|---------|---------|---------|-----------|
+D|---------|---------|---------|---------|---------|---------|-----------|
+A|---------|---------|---------|---------|---------|---------|-----------|
+E|---------|---------|---------|---------|---------|---------|-----------|
+
+E|---10-8-10-|
+B|-8---------|
+G|-----------|
+D|-----------|
+A|-----------|
+E|-----------|
+
+Am
+Quem me dera, ao menos  uma vez,
+       D
+Acreditar por um instante em tudo que existe
+   Bm
+E acreditar que o mundo é perfeito
+      Em
+E que todas as pessoas são felizes.
+
+Am
+Quem me dera, ao menos uma vez,
+  D
+Fazer com que o mundo saiba que seu nome
+   Bm
+Está em tudo e mesmo assim
+     Em
+Ninguém lhe diz ao menos obrigado.
+
+Am
+Quem me dera, ao menos uma vez,
+D                      Bm
+Como a mais bela tribo, dos mais belos índios,
+     Em
+Não ser atacado por ser inocente.
+
+
+C Bm          Am           D
+Eu quis o perigo e até sangrei sozinho.
+  G        D/F#                     Em
+Entenda - assim pude trazer você de volta para mim,
+       C
+Quando descobri que é sempre só você
+         F          G       D/F#
+Que me entende do início ao fim
+Em                     C
+E é só você que tem a cura do meu vício
+                      D
+De insistir nessa saudade que eu sinto
+                 F          G
+De tudo que eu ainda não vi.
+
+C                                     F
+Nos deram espelhos e vimos um mundo doente -
+G
+Tentei chorar e não consegui
+
+Final.
+E|---------------------------------------------------|
+B|-------12-----10----8----7----5----3-------3-----3-|
+G|---------------------------------------------0-----|1x
+D|-10s12-----10-----7----7----5----5----2s4------4---|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+E|-----------------------------------3---|
+B|---8---7---5---3---1---0-----------3---|
+G|--------------------------0h2-2-0--0-0-|2x
+D|-7---7---5---4---2---0----0---0-0--0-0-|
+A|-----------------------------------2-2-|
+E|-----------------------------------3-3-|
+
+Trancrita por: Gabriel Ysllu Chagas
+batosay@mtv.com.br
+Ainda tem muita tablatura do Legião que ainda eu 
+não terminei de fazer, pq tbm tem umas que eu estou 
+aperfeiçoando.
+tipo assim: ainda virão
+Metal Contras as Nuvens (versão elétrica "completíssima") (Estou ouvindo agora!!!hehehhe!)
+Antes Das Seis(Completa)
+Química
+Tédio
+Eu Sei
+Feedback song for Dying Friend
+e muitas outras!!!!
+é só uma questão de tempo. Se vcs tiverem paciência
+vcs às verão logo-logo no site!!!!
+
+
+
+
+Versão 2
+--------
+Índios
+Renato Russo   
+I                                                              Posições I
+    Dm             G            Em           Am  
+e----1---1|   ----3---3|    ----3---3|   ----------|         Dm: xxx231
+B------3--|   ------3--|    ------5--|   ---1---1--|         G:  xxx033
+G-2-------|4x -0-------|4x  -4-------|4x -----2----|4x       Em: xxx453
+D---------|   ---------|    ---------|   -2--------|         Am: xx221x
+A---------|   ---------|    ---------|   ----------|
+E---------|   ---------|    ---------|   ----------|
+II                                                           Posições II
+e--------|   ----------|   ----------|   ---5---5--|        Dm: xx323xx
+B---3---3|   ---8---8--|   ---5---5--|   -----5----|        G:  xx578xx
+G-----2--|4x -----7----|4x -----4----|4x -5--------|4x      Em: xx545xx 
+D-3------|   -5--------|   -5--------|   ----------|        Am: xxxx555
+A--------|   ----------|   ----------|   ----------|
+E--------|   ----------|   ----------|   ----------|
+III                                                         Posições III
+e--------|   ----------|   ----------|   ----------|        Dm: xx776x
+B---6---6|   ----------|   ---8---8--|   ----------|        G:  x554xx
+G-----7--|4x ---4---4--|4x -----9----|4x ---5---5--|4x      Em: xx998x
+D-7------|   -----5----|   -9--------|   -----5----|        Am: x555xx
+A--------|   -5--------|   ----------|   -5--------|
+E--------|   ----------|   ----------|   ----------|
+IV                                                          Posições IV
+e---5---5|   ---7---7--|   ---7---7--|   ---8----8-|        Dm: xxx765
+B-----6--|   -----8----|   -----8----|   -----10---|        G:  xxx787
+G-7------|4x -7--------|4x -9--------|4x -9--------|4x      Em: xxx987
+D--------|   ----------|   ----------|   ----------|        Am: xxx9108
+A--------|   ----------|   ----------|   ----------|
+E--------|   ----------|   ----------|   ----------|
+V                                                                  Posições V
+e----10----10|   ---10----10-|   ----12----12|   ---12----12-|    Dm: xxx101010 
+B-------10---|   ------12----|   -------12---|   ------13----|    G:  xxx121210 
+G-10---------|4x 12----------|4x -12---------|4x 14----------|4x  Em: xxx121212
+D------------|   ------------|   ------------|   ------------|    Am: xxx141312 
+A------------|   ------------|   ------------|   ------------|
+E------------|   ------------|   ------------|   ------------|
+VI                                                               Posições VI
+e--------|   -------------|   ----------|   ------------|       Dm: xx796x
+B--6---6-|   -------------|   ---8----8-|   ----10---10-|       G:  x101212xx 
+G----9---|4x ----12----12-|4x -----11---|4x -------9----|4x     Em: xx9118x
+D-7------|   -------12----|   -9--------|   -10---------|       Am: xx10910x 
+A--------|   -10----------|   ----------|   ------------|
+E--------|   -------------|   ----------|   ------------|
+Faz se os 6 nos primeiros 6 cantos, depois vem o refrão e depois nos últimos 3 repete o I IV e o V.   
+O dedilhado final è entre essas notas G F# E C D 
+  
+Indíos
+
+Por Israel de Castro 
+
+</pre>
+</font>

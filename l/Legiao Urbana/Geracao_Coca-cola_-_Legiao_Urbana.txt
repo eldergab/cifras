@@ -1,0 +1,471 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Geracao_Coca-cola_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+--------
+Geraçao Coca-Cola 
+
+
+Introdução - B  D  A  B  D  A
+
+Tom - B
+
+
+B
+Quando nascemos fomos programados
+D       A       B
+A receber o que vocês nos empurraram
+                D       A
+Com os enlatados dos USA, de 9 às 6.
+B
+Desde pequenos nós comemos lixo
+D       A
+Comercial e industrial
+B
+Mas agora chegou nossa vez 
+        D               A
+Vamos cuspir de volta o lixo em cima de vocês
+
+[refrão]
+
+B       A       G
+Somos os filhos da revolução
+B               G
+Somos burgueses sem religião
+B       A       G
+Nós somos o futuro da nação
+A       D     B
+Geração Coca-Cola
+
+B
+Depois de vinte anos na escola
+D       A
+Não é difícil aprender
+B
+Todas as manhas do jogo sujo
+D       A
+Não é assim que tem que ser?
+B
+Vamos fazer nosso dever de casa
+D     A
+E aí então, vocês vão ver
+B
+Suas crianças derrubando reis
+        D                        A
+Fazer comédia no cinema com as suas leis.
+
+[refrão]
+
+[solo de voz]
+
+[repete]
+
+[refrão]
+
+
+Versão 2
+--------
+Author/Artist: Legião Urbana
+Title: Coca-cola
+Album: Legião Urbana
+Transcribed by: Renato Costa Ribeiro
+Email: neuronio23@zipmail.com.br
+
+v - é um vibrato 
+
+introducao:
+----------|-------|-------||----7-11-------------7-11-------------------------
+--4-4-4-4-|-3-3-3-|-2-2-2-||--7------7-9-10----7------7-9-10----7v------------
+--4-4-4-4-|-2-2-2-|-2-2-2-||----------------9v---------------9v---------------
+--4-4-4-4-|-0-0-0-|-2-2-2-||--------------------------------------------------
+--2-2-2-2-|-------|-0-0-0-||--------------------------------------------------
+----------|-------|-------||--------------------------------------------------
+         Guitarra 1 (2x)                  Guitarra 2                          
+
+verso:
+----------|-------|-------|---------------------------------------------------
+-------4--|---3---|---2---|---------------------------------------------------
+-------4--|---2---|---2---|---------------------------------------------------
+-------4--|---0---|---2---|---------------------------------------------------
+-------2--|-------|---0---|---------------------------------------------------
+----------|-------|-------|---------------------------------------------------
+      
+o verso é só estes 3 acordes (escute a musica e pegue o ritmo)                                                                        
+
+Ponte:
+-------------------------------|-|--------------------------------------------
+---4---------2-----------------|-|---4----------------------------------------
+---4---------2----------4------|-|---4--------------------4-------------------
+---4---------2----------5------|-|---4--------------------5-------------------
+---2---------0----------5------|-|---2--------------------5-------------------
+------------------------3------|-|------------------------3-------------------
+   Somos os filhos da revolucao     Somos Burgueses sem religiao              
+
+------------------------------------------------------------------------------
+---4-------2------------------------------------------------------------------
+---4-------2--------4---------------------------------------------------------
+---4-------2--------5---------------------------------------------------------
+---2-------0--------5---------------------------------------------------------
+--------------------3---------------------------------------------------------
+  Somos o futuro da nacao                                                     
+
+Refrao:
+------------------------------|-|---------------------------------------------
+----2-----3----4--------------|-|----------2-----4----------------------------
+----2-----2----4--------------|-|----4-----2-----4----------------------------
+----2-----0----4--------------|-|----5-----2-----4----------------------------
+----0----------2--------------|-|----5-----0-----2----------------------------
+------------------------------|-|----3----------------------------------------
+   Geracao Coca-cola   (4x)         Depois do refrao (quando acaba) (3x)      
+
+Solo:
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+--7-7-7-7-7--7-7-7-7-7--9-9-9-9-9--9-9-9-9-9--11-11-11-11-11--11-11-11-11-11--
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+            Repete este solo (que e muito dificil) 3x                         
+
+Depois do solo vem o verso , a ponte e o refrão (é so repetir)
+
+
+
+
+valeu!!!!
+ 
+            ( Neuronio )
+
+
+Versão 3
+---------
+Artista : Legião Urbana
+Música : Geraçao Coca-Cola
+Cifrada por Michael, Patrique e Wendell - e-mail : king.m@bol.com.br
+
+Essa versão é do show ao vivo no Metropolitan.....
+
+Intro - D G Em A
+
+D                 G
+Quando nascemos fomos programados
+Em        A
+A receber o que vocês 
+D                     G
+Nos empurraram com os enlatados 
+Em       A
+Dos USA, de nove ás seis
+D                    G
+Desde pequenos nós comemos lixo
+Em        A
+Comercial e industrial
+D                G
+Mas agora chegou nossa vez 
+      Em                          A
+Vamos cuspir de volta o lixo em cima de vocês
+
+Refrão
+D                  G
+Somos os filhos da revolução
+Em                  A
+Somos burgueses sem religião
+D                     G
+Nós somos o futuro da nação
+Em      A
+Geração Coca-Cola
+
+D                    G
+Depois de vinte anos na escola
+Em            A
+Não é difícil aprender
+D                   G
+Todas as manhas seu jogo sujo
+Em          A
+Não é assim que tem que ser?
+D                   G
+Vamos fazer nosso dever de casa
+Em          A
+E aí então, vocês vão ver
+D             G
+Suas crianças derrubando reis
+      Em                       A
+Fazer comédia no cinema com as suas leis
+
+Refrão
+
+
+Versão 4
+---------
+Artista : LEGIÃO URBANA 
+Álbum : Como é que se diz eu te amo (ao vivo) 
+Música : Geraçao Coca-Cola 
+
+
+Introdução - D  F  G 
+Tom - D 
+
+
+D 
+Quando nascemos fomos programados 
+F        G             D 
+A receber o que vocês nos empurraram 
+                    F       G 
+Com os enlatados dos USA, de 9 às 6. 
+D 
+Desde pequenos nós comemos lixo 
+F           G 
+Comercial e industrial 
+D 
+Mas agora chegou nossa vez 
+       F                        G 
+Vamos cuspir de volta o lixo em cima de vocês 
+
+
+D       C       Bb 
+Somos os filhos da revolução 
+D        C           Bb 
+Somos burgueses sem religião 
+D              C        Bb 
+Nós somos o futuro da nação 
+
+C       G     D     (C G D) 2X 
+Geração Coca-Cola 
+
+C       G     D    
+Geração Coca-Cola 
+
+
+D 
+Depois de vinte anos na escola 
+F                  G 
+Não é difícil aprender 
+D 
+Todas as manhas do jogo sujo 
+F           G 
+Não é assim que tem que ser? 
+D 
+Vamos fazer nosso dever de casa 
+F             G 
+E aí então, vocês vão ver 
+D 
+Suas crianças derrubando reis 
+       F                        G 
+Fazer comédia no cinema com as suas leis 
+
+
+D       C       Bb 
+Somos os filhos da revolução 
+D        C           Bb 
+Somos burgueses sem religião 
+D              C        Bb 
+Nós somos o futuro da nação 
+
+C       G     D   | 
+Geração Coca-Cola | 3X 
+ | 
+
+C     G       D 
+Geraçãoooooo 
+
+Valeu!! 
+enviado por naoseionome@aol.com 
+
+
+Versão 5
+--------
+Geração Coca-Cola 
+(Renato Russo) 
+
+Tom: B 
+Introd.: (B D A B D A) 
+
+E|----7-11------------|            E|--------11----------------|
+B|--7------7-9-10-----|            B|-----12--------9-10~------|
+G|----------------9~--|2X  OU ->   G|--11-------11---------9~--|2x
+D|--------------------|            D|--------------------------|
+A|--------------------|            A|--------------------------|
+E|--------------------|            E|--------------------------|
+                        
+
+ B
+ Quando nascemos fomos programados
+ D         A          B
+ A receber o que vocês nos empurravam
+                  D         A
+ Com os enlatados dos U.S.A. de 9 às 6
+ B
+ Desde pequenos nós comemos lixo
+ D            A
+ Comercial e industrial
+ B
+ Mas agora chegou nossa vez
+          D                     A
+ Vamos cuspir de novo o lixo em cima de vocês
+ 
+ B         A            G
+ Somos os filhos da revolução
+ B                     G
+ Somos burgueses sem religião
+ B      A        G
+ Somos o futuro da nação
+ A       D    B     A       D    B
+ Geração Coca-Cola, Geração Coca-Cola
+ A       D    B     A       D    B    G A
+ Geração Coca-Cola, Geração Coca-Cola
+ 
+ Solo: (G,A,Bm)
+(Ocorre a repetição desta sequência por três vezes)
+E|------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------|
+G|:-7-7-7-7-7-7-7-7-7-7---9-9-9-9-9-9-9-9-9-9---11-11-11-11-11-11-11-11-11-11--:|
+D|------------------------------------------------------------------------------|  
+A|------------------------------------------------------------------------------|   
+E|------------------------------------------------------------------------------|   
+
+(Ou se vc preferir pode ser feito desse jeito abaixo.)
+
+E|:-3-3-3-3-3-3-3-3-3-3s2s5-5-5-5-5-5-5-5-5-5s4s7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-:|
+B|:-3-3-3-3-3-3-3-3-3-3s2s5-5-5-5-5-5-5-5-5-5s4s7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-:|
+G|-----------------------------------------------------------------------------|
+D|-----------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+
+ B
+ Depois de vinte anos na escola
+ D        A
+ Não é difícil aprender
+ B
+ Todas as manhas de seu jogo sujo
+ D            A
+ Não é assim que tem que ser?
+ B
+ Vamos fazer nosso dever de casa
+ D           A
+ E aí então, vocês vão ver
+ B
+ Suas crianças derrubando reis
+         D                      A
+ Fazer comédia no cinema com as suas leis
+
+ B          A           G
+ Somos os filhos da revolução
+ B                     G
+ Somos burgueses sem religião
+ B      A        G
+ Somos o futuro da nação
+ A       D    B     A       D    B
+ Geração Coca-Cola, Geração Coca-Cola
+ A       D    B     A       D    B     
+ Geração Coca-Cola, Geração Coca-Cola
+
+ OBS: Usar G,D,A com pestana
+(Por: Gabriel Ysllu Chagas)
+
+
+
+Versão 6
+--------
+Geração Coca-Cola
+
+Solo inicial 2X
+e---------------------------|
+B-----16-16------13-14------|
+G-15---------15---------13--|
+D---------------------------|
+A---------------------------|
+E---------------------------|
+
+Transcrito por: Carlos Alfredo Carvalho Alves
+carlos.alfredo@zipmail.com.br
+</pre>
+</font>

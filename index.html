@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minhas Cifras</title>
+<style>
+  :root { --bg:#14161a; --card:#1e2127; --txt:#e8e8e8; --mut:#9aa0a8; --acc:#f5b942; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f5f5f2; --card:#fff; --txt:#1c1c1c; --mut:#6b6b6b; --acc:#b8730a; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--txt); font:16px system-ui,sans-serif; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); padding:12px; border-bottom:1px solid var(--card); }
+  h1 { margin:0 0 8px; font-size:18px; color:var(--acc); }
+  input[type=search] { width:100%; padding:10px 12px; font-size:16px; border-radius:8px; border:1px solid var(--mut); background:var(--card); color:var(--txt); }
+  .crumbs { margin-top:8px; color:var(--mut); font-size:14px; }
+  .crumbs a { color:var(--acc); cursor:pointer; }
+  main { padding:12px; max-width:900px; margin:0 auto; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(64px,1fr)); gap:8px; }
+  .grid .item { text-align:center; font-size:22px; font-weight:700; padding:14px 0; }
+  .item { background:var(--card); padding:12px 14px; border-radius:8px; cursor:pointer; margin-bottom:6px; }
+  .grid .item { margin:0; }
+  .item:hover { outline:1px solid var(--acc); }
+  .item small { display:block; color:var(--mut); }
+  .count { color:var(--mut); font-size:13px; float:right; }
+  #cifra { display:none; }
+  #tools { position:sticky; top:96px; display:flex; gap:8px; align-items:center; flex-wrap:wrap; background:var(--bg); padding:8px 0; }
+  button { background:var(--card); color:var(--txt); border:1px solid var(--mut); border-radius:8px; padding:8px 12px; font-size:15px; cursor:pointer; }
+  button.on { background:var(--acc); color:#000; }
+  pre { white-space:pre; overflow-x:auto; font:14px/1.45 ui-monospace,Menlo,Consolas,monospace; margin:8px 0 60vh; }
+  h2 { margin:8px 0 0; font-size:20px; }
+  .msg { color:var(--mut); padding:20px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎸 Minhas Cifras</h1>
+  <input id="busca" type="search" placeholder="Buscar cantor ou música...">
+  <div class="crumbs" id="crumbs"></div>
+</header>
+
+<main>
+  <div id="lista"></div>
+  <div id="cifra">
+    <h2 id="titulo"></h2>
+    <div id="tools">
+      <button id="menos">A−</button>
+      <button id="mais">A+</button>
+      <button id="auto">▶ Rolar</button>
+      <button id="vel-">🐢</button>
+      <button id="vel+">🐇</button>
+      <button id="voltar">← Voltar</button>
+    </div>
+    <pre id="texto"></pre>
+  </div>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+let DB = [], PASTA = "cifras", nav = [];   // nav = [letra, cantor]
+let fonte = 14, velocidade = 1, timer = null;
+
+const norm = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const nomeLimpo = a => a.replace(/\.txt$/i, "");
+const caminho = ([l, c, a]) => [PASTA, l, c, a].filter(Boolean).map(encodeURIComponent).join("/");
+
+fetch("indice.json").then(r => r.json()).then(d => {
+  DB = d.musicas; PASTA = d.pasta;
+  DB.forEach(m => m.push(norm(m[1] + " " + m[2])));
+  render();
+}).catch(() => {
+  $("lista").innerHTML = '<p class="msg">Não consegui carregar o indice.json. Rode <b>python gerar_indice.py</b> e abra via servidor (GitHub Pages ou <b>python -m http.server</b>).</p>';
+});
+
+function item(texto, sub, onclick, count) {
+  const d = document.createElement("div");
+  d.className = "item";
+  d.innerHTML = (count != null ? `<span class="count">${count}</span>` : "") + texto + (sub ? `<small>${sub}</small>` : "");
+  d.onclick = onclick;
+  return d;
+}
+
+function render() {
+  fechaCifra();
+  const L = $("lista"); L.innerHTML = ""; L.className = "";
+  const q = norm($("busca").value.trim());
+
+  // Migalhas
+  const c = $("crumbs");
+  c.innerHTML = '<a id="home">Início</a>' + nav.map((n, i) => ` › <a data-i="${i}">${n}</a>`).join("");
+  $("home").onclick = () => { nav = []; $("busca").value = ""; render(); };
+  c.querySelectorAll("a[data-i]").forEach(a => a.onclick = () => { nav = nav.slice(0, +a.dataset.i + 1); render(); });
+
+  if (q) {  // busca global
+    const r = DB.filter(m => m[3].includes(q));
+    if (!r.length) { L.innerHTML = '<p class="msg">Nada encontrado.</p>'; return; }
+    r.slice(0, 150).forEach(m => L.appendChild(item(nomeLimpo(m[2]), m[1], () => abre(m))));
+    if (r.length > 150) L.insertAdjacentHTML("beforeend", `<p class="msg">+${r.length - 150} resultados. Refine a busca.</p>`);
+    return;
+  }
+
+  if (nav.length === 0) {
+    L.className = "grid";
+    [...new Set(DB.map(m => m[0]))].sort().forEach(l => {
+      L.appendChild(item(l, "", () => { nav = [l]; render(); }));
+    });
+  } else if (nav.length === 1) {
+    const mapa = {};
+    DB.filter(m => m[0] === nav[0]).forEach(m => mapa[m[1]] = (mapa[m[1]] || 0) + 1);
+    Object.keys(mapa).sort((a, b) => a.localeCompare(b, "pt")).forEach(cn =>
+      L.appendChild(item(cn, "", () => { nav = [nav[0], cn]; render(); }, mapa[cn] + " cifras")));
+  } else {
+    DB.filter(m => m[0] === nav[0] && m[1] === nav[1]).forEach(m =>
+      L.appendChild(item(nomeLimpo(m[2]), "", () => abre(m))));
+  }
+}
+
+async function abre(m) {
+  $("lista").style.display = "none";
+  $("cifra").style.display = "block";
+  $("titulo").textContent = nomeLimpo(m[2]) + " — " + m[1];
+  $("texto").textContent = "Carregando...";
+  try {
+    const buf = await (await fetch(caminho(m))).arrayBuffer();
+    let t;
+    try { t = new TextDecoder("utf-8", { fatal: true }).decode(buf); }
+    catch { t = new TextDecoder("windows-1252").decode(buf); }  // txt antigos
+    $("texto").textContent = t;
+  } catch { $("texto").textContent = "Erro ao abrir a cifra."; }
+  window.scrollTo(0, 0);
+}
+
+function fechaCifra() {
+  pararRolagem();
+  $("cifra").style.display = "none";
+  $("lista").style.display = "";
+}
+
+function pararRolagem() { clearInterval(timer); timer = null; $("auto").classList.remove("on"); $("auto").textContent = "▶ Rolar"; }
+
+$("busca").oninput = render;
+$("voltar").onclick = render;
+$("menos").onclick = () => { fonte = Math.max(9, fonte - 1); $("texto").style.fontSize = fonte + "px"; };
+$("mais").onclick = () => { fonte = Math.min(40, fonte + 1); $("texto").style.fontSize = fonte + "px"; };
+$("vel-").onclick = () => velocidade = Math.max(0.5, velocidade - 0.5);
+$("vel+").onclick = () => velocidade = Math.min(5, velocidade + 0.5);
+$("auto").onclick = () => {
+  if (timer) return pararRolagem();
+  $("auto").classList.add("on"); $("auto").textContent = "⏸ Parar";
+  let acc = 0;
+  timer = setInterval(() => { acc += velocidade; if (acc >= 1) { window.scrollBy(0, Math.floor(acc)); acc %= 1; } }, 50);
+};
+</script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/leonardo/Te_amo_demais_-_Leonardo.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Artista: Leonardo
+Música: Te amo demais
+Cifrada por: Marcel Bonvechio
+
+
+Intr:
+   B     F#   C#m       E    B       F#     C#m       E
+e|------------------------------------------------------|
+B|------------------------------------------------------|
+G|----------------------1-----------------------------1-|
+D|-----1-4-2-1------1-2--4-2-1-------1-4-2-1------1-2---|
+A|-2-4--------4-4-4------------2-2-4--------4-4-4-------|
+E|------------------------------------------------------|
+
+
+B        F#         C#m              G#m
+Eu sou assim, nunca soube recitar poesias
+     B                F#              C#m
+não sei palavras de amor, nem sou sedutor
+                       G#m
+não sei fingir nem poderia. 
+F#                     C#m         
+Eu não tenho ouro nem prata, 
+        E               B
+mais o meu maior tesouro eu te dei
+   F#                    C#m
+só quero teu amor e mais nada
+         E                  B      
+você precisa entender é que eu não sei dizer.
+                 F#       C#m
+Só sei que eu te amo demais
+             E                       B
+as noites sozinho é o teu nome que eu chamo
+           F#      C#m
+Baby eu te amo demais
+       E                  B
+Eu só sei dizer te amo te amo
+
+   B     F#   C#m       E    B       F#     C#m       E    B
+e|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|----------------------1-----------------------------1------|
+D|-----1-4-2-1------1-2--4-2-1-------1-4-2-1------1-2--4-2-1-|
+A|-2-4--------4-4-4------------2-2-4--------4-4-4------------|
+E|-----------------------------------------------------------|
+
+     [te amo demais, como eu te amo, te amo demais]
+
+B                             F#
+palavras valem menos que um olhar
+        C#m                    G#m
+meu coração é quem vai te explicar
+     B                   F#
+da cabeça aos pés eu vou te beijar
+        C#m               G#m
+como um sábio na arte de amar
+           F#                        C#m
+não sei mentir pra conquistar uma mulher
+       E                       B
+daria tudo nesse mundo só pra ter você
+     F#                      C#m
+o destino seja o que Deus quiser
+        E                    B
+você precisa entender é que eu não sei dizer
+                 F#       C#m
+Só sei que eu te amo demais
+             E                       B
+as noites sozinho é teu nome que eu chamo
+           F#      C#m
+Baby eu te amo demais
+       E                  B
+Eu só sei dizer te amo te amo       3x
+</pre>
+</font>

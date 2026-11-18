@@ -1,0 +1,317 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Soldados_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Soldados 
+
+Tom: Cm 
+Introd.: (Cm Bb) 
+
+1ª parte
+Guitarra:Antes do teclado aparece essa guitarra.
+(Obs:Abafar na 3ª casa)
+E|-----------------------------|
+B|-10s11~---------11-----------|
+G|-------------10---------(x)--|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+                                     Finalzinho do teclado. essas partes passam                                           
+Teclado da intro.                    Quase despercebidas,mas fica legal.
+E|-6-6-6-6-6-6-6-6--------------|   E|------------|
+B|-----------------5-8---6------|   B|------------|
+G|---------------------5-----7--|2x G|--7-8-10-8--|
+D|-------------------------5----|   D|------------|
+A|------------------------------|   A|------------|
+E|------------------------------|   E|------------|
+
+obs:O baixo fica assim por quase toda a musica.
+Contra Baixo.
+|-------------------------------------------------------------|
+|-------------------------------------------------------------|14x
+|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-0-1-1-1-1-1-1-1-1-1-1-1-1-1-1-0-|
+|-------------------------------------------------------------|
+
+Guitarra:Em alguns pontos da música aparece esses riffs da guitarra
+Guitarra 1      Guitarra 2
+E|---------|    E|----------| 
+B|---4-3---|    B|----------|
+G|-3-----5-|    G|---8-7----|
+D|-3-----5-|    D|-8-----10-|
+A|-1-----3-|    A|-8-----10-|
+E|---------|    E|-6-----8--|
+
+ Cm
+Nossas meninas estão longe daqui 
+      Bb
+Não temos com quem chorar e nem pra onde ir
+Cm
+Se lembra quando era só brincadeira
+Bb                                Cm     
+Fingir de ser soldado a tarde inteira?
+
+Teclado:Nessa parte na versão original não tem esse teclado, mas CD
+(Música p/ Acampamento) tem. Então é legal fazer essa parte pra não ficar
+tipo "um buraco" na música.
+   Cm                      Bb
+E|-6-6-6-6-6-6-6-6--------------|   E|------------|
+B|-----------------5-8---6------|   B|------------|
+G|---------------------5-----7--|2x G|--7-8-10-8--|
+D|-------------------------5----|   D|------------|
+A|------------------------------|   A|------------|
+E|------------------------------|   E|------------|
+
+       Cm
+Mas agora a coragem que temos no coração
+        Bb
+Parece medo da morte mas não era então
+      Cm
+Tenho medo de lhe dizer o que eu quero tanto
+      Bb 
+Tenho medo e eu sei porquê:
+                  (Cm Bb)
+Estamos esperando
+
+Teclado: 
+E|-6-6-6-6-6-6-6-6--------------|   E|------------|
+B|-----------------5-8---6------|   B|------------|
+G|---------------------5-----7--|2x G|--7-8-10-8--|
+D|-------------------------5----|   D|------------|
+A|------------------------------|   A|------------|
+E|------------------------------|   E|------------|
+
+   Cm             Bb
+Quem é o inimigo? Quem é você?
+   Cm             Bb
+Quem é o inimigo? Quem é você?
+   Cm             Bb
+Quem é o inimigo? Quem é você?
+   Cm             Bb
+Quem é o inimigo? Quem é você?
+
+    Cm                               Bb
+Nos defendemos tanto tanto sem saber
+   Cm Bb      Cm  Bb     
+Porque  lutar oooo . . .
+   
+Dica:Se vc estiver tocando com alguém, vcs podem escolher 
+fazer o teclado e uma das guitarras ou fazer as duas guitarras.
+Obs: Nessa música não existe 2 guitarras, mas pode tocar com 2 que fica legal
+
+Teclado:Ele começa assim e depois muda
+E|---6----6----6----6--6-6--6-6--6-6--6-6---6----6----6----6--6-6--6-6--6-6--6-6-|
+B|-6----6----6----6-----------------------6----6----6----6-----------------------|
+G|-------------------------------------------------------------------------------|
+D|-------------------------------------------------------------------------------|
+A|-------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------|
+
+Teclado:Agora é a hora que ele muda.
+E|---6----6----6----6--6-6--6-6--6-6--6-6---6----6----6----6--6-6--6-6--6-6-|
+B|-9----9----9----9-----------------------9----9----9----9------------------|
+G|--------------------------------------------------------------------------|
+D|--------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+
+Guitarra 1
+      (Ab)           (B)                (Bb)
+E|-------------|-----------|-------------------------------|
+B|-------------|-----------|-------------------------------|
+G|-------------|-----------|-------------------------------|
+D|-6-6-6-6-6-6-|-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-|
+A|-6-6-6-6-6-6-|-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-|
+E|-4-4-4-4-4-4-|-7-7-7-7-7-|-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-|
+ 
+Guitarra 2
+      (Ab)           (B)                (Bb)
+E|-------------|-----------|-------------------------------|
+B|-------------|-----------|-------------------------------| 
+G|-------------|-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-| 4x
+D|-6-6-6-6-6-6-|-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-|
+A|-6-6-6-6-6-6-|-2-2-2-2-2-|-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-|
+E|-4-4-4-4-4-4-|-----------|-------------------------------|
+	
+
+2ª parte
+Contra Baixo.
+|-------------------------------------------------------------| 
+|-------------------------------------------------------------|14x
+|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-0-1-1-1-1-1-1-1-1-1-1-1-1-1-1-0-|
+|-------------------------------------------------------------|
+
+Teclado: 
+E|-6-6-6-6-6-6-6-6--------------|   E|-------------|
+B|-----------------5-8---6------|   B|-------------|
+G|---------------------5-----7--|1x G|-7-8-7-5---5-|
+D|-------------------------5----|   D|---------8---|
+A|------------------------------|   A|-------------|
+E|------------------------------|   E|-------------|
+ 
+Cm                                
+Nossas meninas estão longe daqui
+Bb
+E de repente eu vi você cair
+Cm
+Não sei armar o que eu senti
+Bb
+Não sei dizer que vi você ali
+Cm
+Quem vai saber o que você sentiu?
+Bb
+Quem vai saber o que você pensou?
+Cm
+Quem vai dizer agora o que eu não fiz
+Bb
+Com explicar pra você o que eu quis
+Cm             Bb Cm               Bb
+Somos soldados     pedimos esmola
+
+Teclado.
+E|--6-6-6-6-6-6-6-6-------------|   
+B|------------------5-8---6-----|   
+G|----------------------5-----7-|2x até (e a gente não queria lutar...)
+D|--------------------------5---|   
+A|------------------------------|   
+E|------------------------------|   
+ 
+Cm                         Bb
+E a gente não queria lutar e a gente não queria lutar
+Cm                         Bb                              
+E a gente não queria lutar e a gente não queria lutar ...
+
+Teclado do final:
+Isso repete até o final.         E finaliza assim.
+E|--------6-------6-------6...-|--------6-------6-6--|
+B|--6---6---6---6---6---6...---|--6---6---6---6------|
+G|----5-------5-------5...-----|----5-------5--------|
+D|-----------------------------|---------------------|
+A|-----------------------------|---------------------|
+E|-----------------------------|---------------------|
+
+(Nesta parte fica a dica do teclado e guitarra ou 2 guitarras)
+      (Ab)           (B)                 (Bb)                    (Bb)                 
+E|-------------|-----------|-------------------------------|   E|-----|
+B|-------------|-----------|-------------------------------|   B|-----|
+G|-------------|-----------|-------------------------------|   G|-----|
+D|-6-6-6-6-6-6-|-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-|4x D|-8-8-|
+A|-6-6-6-6-6-6-|-9-9-9-9-9-|-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-|   A|-8-8-|
+E|-4-4-4-4-4-4-|-7-7-7-7-7-|-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-|   E|-6-6-|
+
+      (Ab)           (B)                  (Bb)                   (Bb)
+E|-------------|-----------|-------------------------------|   E|-----|
+B|-------------|-----------|-------------------------------|   B|-----|
+G|-------------|-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-|4x G|-3-3-|<até o final
+D|-6-6-6-6-6-6-|-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-|   D|-3-3-|
+A|-6-6-6-6-6-6-|-2-2-2-2-2-|-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-|   A|-1-1-|
+E|-4-4-4-4-4-4-|-----------|-------------------------------|   E|-----|
+
+Eu fico puto da vida quando entro em um site de cifras 
+e tablaturas e só encontro tablaturas de artistas internacionais.
+Fica parecendo que os "brasileiros" não gostam de solos e não dão a mínima
+Para a música de seu artista preferido.
+Vamos tirar mais solo e cifrar mais músicas para mostrar que nós somos tão bons quanto os outros e que sabemos fazer até melhor!!!
+Valeu galera!!!!!
+
+Acordes:Nessa parte dos acordes se for tocar 2 pessoas é só fazerem 
+os acordes em posições diferentes.
+
+Cm ->(335543) ->(x355xx) ->(81010xxx)
+Bb ->(113331) ->(x133xx) ->(688xxx)
+Ab ->(466544) ->(466xxx) 
+B  ->(224442) ->(x244xx) ->(799xxx)
+
+Transcrita por:Gabriel Ysllu Chagas
+Obs:é bom ouvir a música para saber como se toca.
+
+
+
+</pre>
+</font>

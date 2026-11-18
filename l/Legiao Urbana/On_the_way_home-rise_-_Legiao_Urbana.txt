@@ -1,0 +1,274 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/On_the_way_home-rise_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+On The Way Home/Rise
+
+
+Tom: G
+Intro:(G C) G (Renato Russo)
+Intro: Dado Villa-Lobos
+E|-12--12-10-10-10-10--8--7--5--7-7-7---|
+B|-12--12-12-12-12-12--8--8--6--8-8-8---|
+G|-12--12-12-12-12-12--9--7--5--7-7-7---|
+D|--------------------------------------|2x
+A|--------------------------------------|
+E|--------------------------------------|
+         G
+When the dream came
+    C                    G
+I held my breath with my eyes closed
+ Riff 1
+e|--------------------------------|
+B|-----------5--------------------|
+G|-----4-5-7---------4-5-7--------|
+D|-5-7-----------5-7--------------|
+A|--------------------------------|
+E|--------------------------------|
+nesse riff vc pode usar um efeito, o hammer on(martelo) durante as notas
+                     C
+I went insane, Like as mokering day
+	      G     C G
+When the wind blows
+Riff 2 
+E|-12--10--8-8--7--5--7-7-7----|
+B|-12--12--8-8--8--6--8-8-8----|
+G|-12--12--9-9--7--5--7-7-7----|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+este é um lick da intro
+      C                  G
+Now I Won't be back till   later on 
+     C            G/B Am   D
+If I do came back at All
+            F         C  
+Because you know me,
+       Bb          C
+And I Miss you now
+Repete-> Introdução
+     G
+In a strange game
+  C                 G         G 
+I saw myself as you knew me
+Riff 3
+e|--7--7-7-7-----|
+B|--8--8-8-8-----|
+G|--7--7-7-7-----|
+D|---------------|
+A|---------------|
+E|---------------|
+neste ele repete a nota de G 4x
+                              C
+When the Change came, And you had a chance
+       G       C G
+To see through
+Riff 4
+E|-3-3-3-3---|
+B|-3-3-3-3---|
+G|-0-0-0-0---|
+D|-----------|
+A|-----------|
+E|-----------|
+         C
+tough the other side
+   G
+Is just the same
+        C     G/B         Am   D
+You can tell my dream is real
+Riff 5
+E|-------------------------|
+B|-----5-----6-----8-------|
+G|-------------------------|
+D|--5-----7-----9----------|
+A|-------------------------|
+E|-------------------------|
+      F        C      Bb           C
+And I Love you, and I miss you now
+Repete-> Introdução
+          C             G
+Though we rush ahead to save our time
+      C  G/B        Am   D
+We are only what we feel
+      F        C        Bb          C
+And I love you, can you feel it now
+   (G C)    G       
+Oh yeah... aaa...
+Agora aparir desse solo a musica entrará em rise
+
+Solo-> (G C D) 
+Riff 1
+E|-----10----|
+B|---8-------|
+G|-0---------|
+D|-----------|
+A|-----------|
+E|-----------|
+Nas duas frases abaixo toca-se o riff 1
+G               C   D          G  C D
+I could be wrong, I could be right
+G               C   D          G  C D
+I could be wrong, I could be right
+
+Riff 2
+E|-7-7-7-7--7-7---7----|
+B|-8-8-8-8-10-8--10----|
+G|-7-7-7-7--7-7---7----|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Esse toca nas frases abaixo e até o finalzinho da 3a. parte
+G                   C
+I could be wrong, I could be right
+D                   G
+I could be black, I could be white
+G                   C
+I could be right, I could be wrong
+D		    G
+I could be white, I could be Black
+
+<- 3a. parte
+     
+Your time has come
+     C
+your second skin
+D                    G
+The cost so high the gain so low
+                 C
+Walk through the valley 
+    D            G
+The written work is a lie
+<-- 4x
+             D         G
+May the road rise with you
+    D        G 
+E|--10----|--10--|
+B|--10----|--12--|
+G|--11----|--12--|
+D|--------|------|
+A|--------|------|
+E|--------|------|
+O dado usa esses acordes durante essa parte
+<--
+<-
+Solo:(G C D) riff 1
+I Could be wrong, I could be right
+I could be black, I could be white
+Repete-> 3a. Parte
+(E B)
+E            B4
+Anger is an energy
+E            B4
+Anger is an energy
+E            B4
+Anger is an energy
+E            B4
+Anger is an energy
+Solo-> (E) 
+E|-*-*-*-----7-*-*-----7------5---------------------|
+B|-*-*-*---5---*-*---5------3----0h-1h-3-0h-1h-3----|
+G|-*-*-*-0-----*-*-0------0-------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+Final: G C D G C D G (base)
+Final: riff 1 (solo)
+
+Eu fico puto da vida quando entro em um site de cifras e tablaturas e só encontro tablaturas de artistas internacionais.
+Fica parecendo que os "brasileiros" não gostam de solos e não dão a mínima
+Para a música de seu artista preferido.
+Vamos tirar mais solo e cifrar mais músicas para mostrar que nós somos tão bons quanto os outros e que sabemos fazer até melhor!!!
+
+Valeu galera!!!!!
+
+
+</pre>
+</font>

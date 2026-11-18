@@ -1,0 +1,273 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Quando_voce_voltar_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+--------
+Música:Quando você voltar
+Artista:legião Urbana
+Album:A Tempestade
+
+Tom: G
+Intr. G F C G F C
+
+teclado da intr.
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---------------------------------------------------|
+D|---------5-7-7-7-5~-------------5-7-7-7-5----------|
+A|-5-5~--7------------5s8-7-5~--7-----------5s8-7-5~-|
+E|---------------------------------------------------|
+
+G         C           G
+Vai, se você precisa ir
+    D			   Am
+Não quero mais brigar esta noite
+	    C
+Nossas acusações infantis
+     G                  C
+E palavras mordazes que machucam tanto
+G		  C
+  Não vão levar a nada, como sempre
+G               D               C   
+Vai, clareia um pouco a cabeça
+Am     Bm  C	    D         G
+Já que vo..cê não quer conversar.
+	    Bm    C       D      G
+Já brigamos tanto mas não vale a pena
+			   Bm
+Vou ficar aqui, com um bom livro ou com a TV
+	 C	         	   D
+Sei que existe alguma coisa incomodando você
+      Bm               Em    C	
+Meu amor, cuidado na estrada
+  Am        Bm      C
+E quando você vol..tar
+ D            G 
+Tranque o portão
+	   Bm
+Feche as janelas
+         C
+Apague a luz
+   D		C  G  	(Introdução)
+E saiba que te amo
+
+Viola do final.
+E|--------------------12-10-12-10-12-10-|
+B|-12-10-12-10-12-10--------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+Vamos mostrar que nós sabemos fazer melhor que os gringos.
+Os sites de cifras necessitam de mais músicas nacionais.,
+Vamos parar com isso de que o Brasil não tem nada que preste...
+se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+nacional e da MPB, vc verá que existe muita coisa boa.
+Por tanto, vamos tirar mais SOLOS e RIFFS das músicas nacionais.
+Obrigado.
+
+(Cifras: Daniel Lucas)
+(tablatura: Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+
+
+
+Versão 2
+--------
+
+
+QUANDO VOCÊ VOLTAR 
+Tom: G 
+Intro: G  F  C  G 
+
+
+
+
+G        C            G 
+Vai, se você precisa ir 
+     D                G/B  G    Am7 
+Não quero mais brigar es - ta  noite 
+        Am7/B C 
+Nossas  acusações infantis 
+          G                 C 
+E palavras mordazes que machucam tanto 
+G               C 
+Não vão levar a nada, como sempre 
+G               D              G/B  G 
+Vai, clareia um pouco a cabeça 
+Am7   Am7/B    C                 G 
+Já que  vo  -  cê não quer conversar. 
+                Bm7 
+Já brigamos tanto 
+C        D       G 
+Mais não vale a pena 
+                        Bm7 
+Vou ficar aqui, com um bom livro ou com a TV 
+        C                  D 
+Sei que existe alguma coisa incomodando você 
+       Bm                 Em7 
+Meu amor, cuidado na estrada 
+    Am7  Am7/B  G/B     C 
+E quando  você  vol -  tar 
+   D          G 
+Tranque o portão 
+          Bm7 
+Feche as janelas 
+           C 
+Apague a luz 
+         D        G*** 
+E saiba que te amo 
+
+
+
+
+
+
+***: Este solo abaixo entra praticamente junto com o acorde de G no ultimo 
+verso 
+
+
+
+E-------------------------| 
+B-------------------------| 
+G--5--4--5--4--5--4--2----| 
+D-------------------------| 
+A-------------------------| 
+E-------------------------| 
+
+
+
+Depois, entra este solo que acompanha a musica até o fade: 
+
+
+
+E--7--5--7--5--7--10--12--10--12--10--12--10-| 
+B--------------------------------------------| 
+G--------------------------------------------| 
+D--------------------------------------------| 
+A--------------------------------------------| 
+E--------------------------------------------| 
+
+
+
+G    (320033) 
+C    (X32010) 
+F    (133211) 
+D    (XX0232) 
+Am7  (X02013) 
+G/B  (X20033) 
+Am7/B(X20013) 
+Bm7  (X20232) 
+Em7  (022033) 
+
+
+
+
+
+
+
+
+                  URBANA LEGIO OMNIA VINCIT!!! 
+
+
+
+Cifrado por vanronny@ig.com.br 
+Tenho várias cifras de MPB, Gospel, Rock Brazuca e musica internacional que 
+não se encontram nos sites de cifras. Só raridades! Qualquer duvida, 
+sugestão ou algum site interessado em alguma cifra, mande um e-mail. 
+Nada de axé, funk ou pagode. Abaixo a falta de cultura!!!!! 
+
+</pre>
+</font>

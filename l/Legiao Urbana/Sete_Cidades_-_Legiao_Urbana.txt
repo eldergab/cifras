@@ -1,0 +1,175 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Sete_Cidades_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+ Sete Cidades
+
+ Tom: C
+ Intr.: C Am F G
+
+   Guitarra: C                   Am   F                        G
+ E|---------|-----------------------------------------------------|
+ B|-1-------|------1----------------------------1-----------------|
+ G|----0----|----0---0--------0-0-----0-------0---0--------0-0----|
+ D|-------3-|-2-3-------3-2-3-----------3-2-3--------3-2-3-----0--|
+ A|---------|---------------------3-------------------------------|
+ E|---------|-----------------------------------------------------|
+  Durante a maior parte da música.
+
+   Obs:Toda vez que for voltar do (G para o C) faça assim.
+ E|---------|
+ B|---------|
+ G|-0-------|
+ D|---3-2-3-|
+ A|---------|
+ E|---------|
+ 
+   Gaita:
+ E|-----------|
+ B|-----0--1--|
+ G|--0--------|
+ D|-----5--3--|
+ A|--3--------|
+ E|-----------|
+ 
+        C    Am         F     G
+ Já me acostumei com a tua voz
+          C       Am    F  G       C     Am
+ Com teu rosto e teu olhar, me partiu em dois
+      F      G         C  Am    F    G
+ E procuro agora o que é minha metade 
+        Am          G
+ Quando não estás aqui
+       Am             G
+ Sinto falta de mim mesmo
+          Bb           Am             F  G
+ E sinto falta do meu corpo junto ao teu 
+ C  Am   F  G
+ Meu coração
+  C     Am          F   G
+ é tão tosco e tão pobre
+      C    Am  F G C   Am          F    G 
+ Não sabe ainda    os caminhos do mundo 
+        Am          G
+ Quando não estás aqui
+       Am             G
+ Tenho medo de mim mesmo
+          Bb           Am             F  G (C)
+ E sinto falta do teu corpo junto ao meu  
+         G                        F       C
+ Vem depressa pra mim que eu não sei esperar
+        F       Am      G
+ Já fizemos promessas demais
+        C    F          C                Am            G       F G (C)
+ Já me acostumei com a tua voz, quando estou contigo estou em paz 
+ 
+        Am          G
+ Quando não estás aqui
+      Am          G
+ Meu espírito se perde
+ (Bb Am F G C)
+ Voa longe, longe, longe 
+ 
+Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+Vamos mostrar que nós sabemos fazer melhor que os gringos.
+Os sites de cifras necessitam de mais músicas nacionais.,
+Vamos parar com de que o Brasil não tem nada que preste...
+se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+nacional e da MPB, vc verá que existe muita coisa boa.
+Por tanto, vamos tirar mais solo e riff das músicas nacionais.
+Obrigado.
+
+(Transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+
+</pre>
+</font>

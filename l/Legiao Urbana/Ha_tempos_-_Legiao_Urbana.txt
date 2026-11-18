@@ -1,0 +1,227 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Ha_tempos_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Música:Há Tempos
+Artista:Legião Urbana
+Albun:Acústico MTV
+
+Intro.: D Am D G
+Riff 1   
+     D               Am             D               G
+E|---5-3-2-2-2-3-2-0-0-0-0-0-0-0-0----5-3-2-2-2-3-2-3-3-3-3-3-3-3-3-|
+B|---3-3-3-3-3-3-3-1-1-1-1-1-1-1-1----3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-|
+G|---2-2-2-2-2-2-2-2-2-2-2-2-2-2-2----2-2-2-2-2-2-2-0-0-0-0-0-0-0-0-|
+D|-0---------------2-2-2-2-2-2-2-2--0---------------0-0-0-0-0-0-0-0-|
+A|-----------------0-0-0-0-0-0-0-0------------------2-2-2-2-2-2-2-2-|
+E|--------------------------------------------------3-3-3-3-3-3-3-3-|
+
+Riff 2 do D e do Am
+E|---5-5-3-2-2-2-3-3-0-0-0-0-0-0-0-0-|
+B|---3-3-3-3-3-3-3-3-1-1-1-1-1-1-1-1-|
+G|---2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-|
+D|-0-----------------2-2-2-2-2-2-2-2-|
+A|-------------------0-0-0-0-0-0-0-0-|
+E|-----------------------------------|
+
+D             Am                 D             Am          Riff 2
+ Parece cocaína, mas é só tristeza, talvez tua cidade
+            D                    Am                        Riff 2
+ Muitos temores nascem do cansaço e da solidão
+ D                 Am                                      Riff 2
+ E o descompasso e o desperdício
+      G                    Em
+ Herdeiros são agora da virtude que perdemos
+ D                  Am              D            Am        Riff 2
+ Há tempos tive um sonho, não me lembro, não me lembro
+ F                   C    F                   C
+ Tua tristeza é tão exata e hoje o dia é tão bonito
+ D                   Am  D                     G           Riff 1
+ Já estamos acostumados a nem termos mais nem isso
+     D              Am              D           Am         Riff 2
+ Os sonhos vêm, os sonhos vão, o resto é imperfeito
+      D               Am                                   Riff 2     
+ Disseste que se tua voz 
+                      D                Am                  Riff 2
+ Tivesse força igual à imensa dor que sentes
+       G                 Em                   
+ Teu grito acordaria não só a tua casa
+    D                Am                                    Riff 2
+ Mas a vizinhança inteira 
+ D             Am                                          Riff 2
+ E há tempos nem os santos 
+ F                  C
+ Têm ao certo a medida da maldade
+      F                            C
+ E há tempos são os jovens que adoecem
+       F                       C
+ E há tempos o encanto está ausente
+                        F
+ E há ferrugem nos sorrisos
+                           C
+ E só o acaso estende os braços 
+                         A4 A A7
+ A quem procura abrigo e proteção
+         D              G
+ Meu amor, disciplina é liberdade
+ D             G        D              G    
+ Compaixão é fortaleza, ter bondade é ter coragem
+        D                         G              D
+ Lá em casa tem um poço, mas a água é muito limpa
+
+Transcrita por Gabriel Ysllu Chagas
+
+
+
+Versão 2
+--------
+Música:Há Tempos
+Artista:Legião Urbana
+Álbum:As Quatro Estações
+
+Introdução: D Am D G4 G
+
+Guitarra:
+   D                     Am
+E|---5---3---2---3-2--------3-------3-------3-------3------3---|
+B|-------------------0--------1-------1-------1-------1------1-|
+G|-------------------------------------------------------------|
+D|-0---0---0---0---------2-------2-------2-------2-------2-----|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+   D                       G4                G
+E|---5---3---2---3-2----------3-------3------3-3-------|
+B|-------------------0----------3-------3----3---3-----|
+G|-------------------------5-------5-------5-0-----0---|
+D|-0---0---0---0-------------------------------------0-|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+D             Am7                D             Am7
+Parece cocaína, mas é só tristeza, talvez tua cidade
+           D                    Am7
+Muitos temores nascem do cansaço e da solidão
+D                 Am7
+E o descompasso e o desperdício
+     G                    Em
+Herdeiros são agora da virtude que perdemos
+D                  Am7             D              Am7
+Há tempos tive um sonho, não me lembro, não me lembro
+F                   C    F                   C
+Tua tristeza é tão exata e hoje o dia é tão bonito
+D                   Am7    D                       G4    G
+Já estamos acostumados a nem termos mais nem isso
+    D              Am7             D           Am7
+Os sonhos vêm, os sonhos vão, o resto é imperfeito
+     D               Am7                   D                Am7
+Disseste que se tua voz tivesse força igual à imensa dor que sentes
+      G                 Em                    D           Am7
+Teu grito acordaria não só a tua casa, mas a vizinhança inteira
+D             Am7            F                  C
+E há tempos nem os santos têm ao certo a medida da maldade
+      F                            C
+E há tempos são os jovens que adoecem
+      F                          C                           F
+E há tempos o encanto está ausente, e há ferrugem nos sorrisos
+                          C                            A4 A A7 
+E só o acaso estende os braços a quem procura abrigo e proteção
+
+          D            G
+Meu amor, disciplina é liberdade
+D           G4   G     D             G
+Compaixão é fortaleza, ter bondade é ter coragem
+       D                      G4           G       D
+Lá em casa tem um poço, mas a água é muito limpa
+
+transcrita por:Gabriel Ysllu Chagas
+</pre>
+</font>

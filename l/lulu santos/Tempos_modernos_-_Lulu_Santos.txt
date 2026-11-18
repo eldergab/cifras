@@ -1,0 +1,277 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/lulu_santos/Tempos_modernos_-_Lulu_Santos.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+--------
+Tempos modernos
+Tom: Am
+Intro: (G G4) (F F4) (C C4) 
+
+Am          C       G        D 
+ Eu vejo a vida melhor no futuro 
+Am       C        G       D 
+ Eu vejo isso por cima do muro 
+      C     Em        Am      C      G 
+ De hipocrisia que insiste em nos rodear 
+
+Am          C         G        D 
+ Eu vejo a vida mais farta e clara 
+Am        C       G       D 
+ Repleta de toda satisfação 
+         C     Em 
+ Que se tem direito 
+ Am      C         G 
+ Do firmamento ao chão 
+
+Am          C       G        D 
+ Eu quero crer no amor numa boa 
+Am           C          G           D 
+ E que isso valha p'rá qualquer pessoa 
+       C   Em    Am        C         G 
+ Que realizar a força que tem uma paixão 
+
+Am           C      G      D 
+ Eu vejo um novo começo de era 
+Am         C       G         D 
+ De gente fina elegante e sincera 
+        C   Em   Am            C           G 
+ Com habilidade pra dizer mais sim do que não 
+                F 
+ Hoje o tempo voa amor 
+               Am 
+ Escorre pelas mãos 
+                 G 
+ Mesmo sem se sentir 
+                     F 
+ E não há tempo que volte amor 
+                      Am     C 
+ Vamos viver tudo que há pra viver 
+ Em    C        G 
+ Vamos nos permitir 
+
+
+Versão 2
+--------
+Lulu Santos - Tempos Modernos Acústico MTV 
+
+Por:Thiago Cantero Mari Monteiro
+
+Ficou mais ou menos parecido se alguém souber uma versão melhor favor me mandar um e-mail:
+cantero@globo.com ou mandar msg pelo ICQ meu Uin é:89106677
+
+Intro:(G/D D D4)x2 A Em
+
+          G        D     A7  D7+/B  Em 
+Eu vejo a vida melhor no futuro
+
+         G         D         A7        G    Em/B 
+Eu vejo isto por cima de um muro de hipocrisia
+
+Em             C7+      C/D
+Que insiste em nos rodear
+
+Em        G          D      A7  D7+/B    
+Eu vejo a vida mais clara e farta
+
+Em        G      D      A7
+Repleta de toda satisfação
+
+         G      Em/B  Em       C7+       G/D
+Que se tem direito    do firmamento ao chão
+
+
+Intro
+
+           G        D   A7    D7+/B Em
+Eu quero crer no amor numa boa
+
+            G        D         A7 
+Que isto valha pra qualquer pessoa
+
+         G   Em/B     Em           C7+    C/D
+Que realizar       a força que tem uma paixão
+
+Em          G       D      A7 D7+/B 
+Eu vejo um novo começo de era
+
+Em         G       D         A7
+De gente fina, elegante e sincera
+
+          G     Em/B
+Com haibilidade
+
+Em             C7+        (D D4 G/D)
+Pra dizer mas sim do que não, não, não
+
+              C4     C
+Hoje o tempo voa, amor
+
+C4       C      Em  Em9
+Escorre pelas mãos
+
+Em           Em9  G/D  D
+Mesmo sem sentir
+
+        G/D    D       C4    C
+Que não há tempo que volte, amor
+
+C4           C          Em       Em9
+Vamos viver tudo o que há pra viver
+
+Em              Em9 G/D
+Vamos nos permitir
+
+
+Intro
+
+
+Obs:Eu não consegui tirar a base na hora daquele solinho!Mais tá Beleza.
+
+
+Versão 3
+--------
+ARTISTA : LULU SANTOS 
+MÚSICA : TEMPOS MODERNOS 
+CIFRADA POR JOEL <joelmsantos@bol.com.br> 
+
+
+INTRODUÇÃO : ( G/D   D ) A  Em
+
+1ª PARTE 
+
+          G           D      A
+EU VEJO A VIDA MELHOR NO FUTURO
+Em      G        D         A       G 
+EU VEJO ISTO POR CIMA DO MURO DE HIPOCRISIA 
+Em          C          D
+QUE INSISTE EM NOS RODEAR
+Em      G           D       A 
+EU VEJO A VIDA MAIS CLARA E FARTA
+Em      G       D      A
+REPLETA DE TODA SATISFAÇÃO
+       G           Em      C        D 
+QUE SE TEM DIREITO DO FIRMAMENTO AO CHÃO
+
+INTRODUÇÃO 
+
+2ª PARTE
+
+Em       G        D        A
+EU QUERO CRER NO AMOR NUMA BOA
+Em       G         D        A 
+QUE ISTO VALHA PRA QUALQUER PESSOA 
+      G        Em        C          A
+QUE REALIZAR A FORÇA QUE TEM UMA PAIXÃO
+Em      G         D       A  
+EU VEJO UM NOVO COMEÇO DE ERA
+Em       G       D          A 
+DE GENTE FINA ELEGANTE E SINCERA
+      G        Em        C               D 
+COM HABILIDADE PRA DIZER MAIS SIM DO QUE NÃO
+             C
+HOJE O TEMPO VOA , AMOR 
+              Em
+ESCORRE PELAS MÃOS
+                D 
+MESMO SEM SE SENTIR
+        G/A   D      C   
+QUE NÃO HÁ TEMPO QUE VOLTE , AMOR 
+                     Em
+VAMOS VIVER TUDO QUE HÁ PRA VIVER 
+                    G/D     D  
+VAMOS NOS PERMITIR                                           REPETE A 2ª PARTE 
+
+
+
+
+
+</pre>
+</font>

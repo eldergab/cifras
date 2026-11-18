@@ -1,0 +1,307 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Clarisse_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Clarísse 
+
+Intro.: D Cadd9 A7 G Em A7 C9 G6
+(Obs:Durante toda música é tocado esses acordes(D Cadd9 A7 G Em A7 C9 G6).
+  
+Estou cansado de ser vilipendiado, incompreendido e descartado 
+Quem diz que me entende nunca quis saber 
+Aquele menino foi internado numa clínica 
+Dizem que por falta de atenção dos amigos, das lembranças 
+Dos sonhos que se configuram tristes e inertes 
+Como uma ampulheta imóvel, não se mexe, não se move, não trabalha 
+E Clarice está trancada no banheiro 
+E faz marcas no seu corpo com seu pequeno canivete 
+Deitada no canto, seus tornozelos sangram 
+E a dor é menor do que parece 
+Quando ela se corta ela esquece 
+Que é impossível ter da vida calma e força 
+Viver em dor, o que ninguém entende 
+Tentar ser forte a todo e cada amanhecer 
+Uma de suas amigas já se foi 
+Quando mais uma ocorrência policial 
+Ninguém entende, não me olhe assim 
+Com este semblante de bom samaritano 
+Cumprindo o seu dever, como se fosse doente 
+Como se toda essa dor fosse diferente, ou inexistente 
+Nada existe prá mim, não tente 
+Você não sabe e não entende 
+E quando os anti-depressivos e os calmantes não fazem mais efeito 
+Clarice sabe que a loucura está presente 
+E sente a essência estranha do que é a morte 
+Mas esse vazio ela conhece muito bem 
+De quando em quando é um novo tratamento 
+Mas o mundo continua sempre o mesmo 
+O medo de voltar prá casa à noite 
+Os homens que se esfregam nojentos 
+No caminho de ida e volta da escola 
+A falta de esperança e o tormento 
+De saber que nada é justo e pouco é certo 
+E que estamos destruindo o futuro 
+E que a maldade anda sempre aqui por perto 
+A violência e a injustiça que existe 
+Contra todas as meninas e mulheres 
+Um mundo onde a verdade é o avesso 
+E a alegria já não tem mais endereço 
+Clarice está trancada em seu quarto 
+Com seus discos e seus livros, seu cansaço 
+
+Eu sou um pássaro 
+Me trancam na gaiola 
+E esperam que eu cante como antes 
+
+Eu sou um pássaro
+Me trancam na gaiola 
+Mas um dia eu consigo existir 
+E vou voar pelo caminho mais bonito 
+Clarice só tem quatorze anos 
+  
+Acordes:
+
+D     ->(xx0232)
+Cadd9 ->(x32033)
+A7    ->(x02020)
+G     ->(320033)
+Em    ->(022000)
+C9    ->(x32030)
+G6    ->(320030)
+
+Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+Vamos mostrar que nós sabemos fazer melhor que os gringos.
+Os sites de cifras necessitam de mais músicas nacionais.,
+Vamos parar com isso de que o Brasil não tem nada que preste...
+se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+nacional e da MPB, vc verá que existe muita coisa boa.
+Por tanto, vamos tirar mais SOLOS e RIFFS das músicas nacionais.
+Obrigado.
+
+(Cifrada por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+
+
+
+Versão 2
+---------
+
+Clarisse 
+ 
+Intro.: D Cadd9 A7 G Em A7 C9 G6
+
+(Obs:Durante toda música é tocado esses acordes (D Cadd9 A7 G Em A7 C9 G6).
+  
+D     ->(xx0232)
+Cadd9 ->(x32033)
+A7    ->(x02020)
+G     ->(320033)
+Em    ->(022000)
+C9    ->(x32030)
+G6    ->(320030)
+
+Intro.: D Cadd9 A7 G Em A7 C9 G6  (1X)
+ 
+D                      Cadd9                              A7       
+  Estou cansado de ser    vilipendiado, incompreendido e descartado 
+       G                 Em               A7         C9  G6
+Quem diz que me entende nunca quis saber 
+    D                                  Cadd9
+ Aquele menino foi internado numa clínica
+               A7                         C9
+Dizem que por falta de atenção dos amigos, das lembranças 
+     G6                                         D
+Dos sonhos que se configuram tristes e inertes 
+                    Cadd9                        A7               G  Em  A7  C9  G6
+Como uma ampulheta imóvel, não se mexe, não se move, não trabalha 
+      D                       &nbs ;      C9
+E Clarice está trancada no banheiro 
+         G                      Em
+E faz marcas no seu corpo com seu pequeno canivete 
+   A7            C9  G6
+Deitada no canto, seus tornozelos sangram 
+D   Cadd9                         A7
+     E a dor é menor do que parece 
+            G                   Em
+Quando ela se corta ela esquece 
+            A7                C9    G6     D
+Que é impossível ter da vida calma e força 
+Cadd9                 A7                 G 
+         Viver em dor, o que ninguém entende 
+                           Em             A7 C9 G6
+ Tentar ser forte a todo e cada amanhecer 
+D   &nbs p;                          Cadd9
+  Uma de suas amigas já se foi 
+                                   A7
+Quando mais uma ocorrência policial 
+                         G         
+ Ninguém entende, não me olhe assim 
+             Em                   
+Com este semblante de bom samaritano 
+     A7                C9             G6   D
+Cumprindo o seu dever, como se fosse doente 
+         Cadd9          A7                  G
+Como se toda essa dor fosse diferente, ou inexistente 
+Em                                 A7
+    Nada existe prá mim, não tente 
+                       C9  G6  D
+Você não sabe e não entende 
+               Cadd9                                    & bsp;    A7
+E quando os anti-depressivos e os calmantes não fazem mais efeito 
+                    G
+Clarice sabe que a loucura está presente 
+                Em                              A7
+   E sente a essência estranha do que é a morte 
+                          C9      G6 
+Mas esse vazio ela conhece muito bem 
+D                  Cadd9                    A7
+   De quando em quando é um novo tratamento 
+                                   G
+  Mas o mundo continua sempre o mesmo 
+                         Em     
+O medo de voltar prá casa à noite 
+                                A7
+Os homens que se esfregam nojentos 
+         &nbs p;                        C9
+No caminho de ida e volta da escola 
+                              G6
+ A falta de esperança e o tormento 
+D                     Cadd9              A7
+De saber que nada é justo e pouco é certo 
+                   G     
+E que estamos destruindo o futuro 
+                Em                         A7    C9    G6
+E que a maldade anda sempre aqui por perto 
+D                                      Cadd9
+  A violência e a injustiça que existe 
+                      A7 
+Contra todas as meninas e mulheres 
+G                                  Em
+  Um mundo onde a verdade é o avesso 
+                        A7       C9  G6  D
+E a alegria já não tem mais endereço 
+Cadd9
+  Clarice está trancada em seu quarto 
+             A7                             G
+ Com seus discos e seus livros, seu cansaço 
+
+                    Em 
+  Eu sou um pássaro 
+Me trancam na gaiola 
+     A7                          C9   G6
+E esperam que eu cante como antes 
+
+D                 Cadd9
+ Eu sou um pássaro
+                     A7
+Me trancam na gaiola 
+                  G
+Mas um dia eu consigo existir 
+              Em                    A7
+E vou voar pelo caminho mais bonito 
+            C9     G6
+Clarice só tem quatorze anos 
+ 
+(repete a introdução) 5x
+ 
+*Por Tiago Magnavita
+tico_ssa@ig.com.br
+tico_ssa@cocacola.com.br
+tico_ssa@excite.com
+tico_ssa@terra.com.br
+ George Wandega:
+Georkjaeff@hotmail.com
+
+</pre>
+</font>

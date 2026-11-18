@@ -1,0 +1,207 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/1965_-_Duas_Tribos_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+1965 - Duas tribos 
+
+Tom - G
+Introdução - G  D  Am  D  G  D  C  Am  D
+
+Guitarra:
+E|---------------------------------------------------------|
+B|-7s12-12~-12~--7s8-8s9-7-7s8-8~~-7s8-8s13-13~~-13~~-13~~-|2x
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+G   D      Am    D
+Vou passar,quero ver
+G    D     Am     D
+Volta aqui,vem você
+  G   D  Am   D
+Como foi,nem sentiu
+G       D      Am   D
+Se era falso ou fevereiro
+
+C      G/B C       G/B 
+Temos paz, temos tempo
+Am
+Chegou a hora
+        D
+E agora é aqui.
+
+G               D     Am              D
+Cortaram meus braços, cortaram minhas mãos
+G               D        Am           D
+Cortaram minhas pernas num dia de verão
+    G         D     Am           D
+Num dia de verão num dia de verão
+G            D     Am            D
+Podia ser meu pai, podia se meu irmão
+
+C       G/B
+Não se esqueça 
+C       G/B
+Temos sorte
+Am      D
+E agora é aqui
+        G              D
+Quando querem transformar
+     G           D
+Dignidade em doença
+        G              D
+Quando querem transformar
+   G             D
+Inteligência em traição
+        G              D
+Quando querem transformar
+     G          D
+Estupidez em recompensa
+        G              D
+Quando querem transformar
+    G           D
+Esperança em maldição:
+
+G    D       Am   D
+É o bem contra o mal
+  G           D       Am    D
+E você de que lado está?
+         G    D Am  D
+Estou do la...do do bem
+    G             D    Am  D
+E você de que lado está?
+        G    D  Am  D
+Estou do la...do do bem.
+Am              D
+Com a luz e com os anjos
+(G)
+Mataram um menino
+Tinha arma de verdade
+Tinha arma nenhuma
+Tinha arma de brinquedo
+Eu tenho autorama
+Eu tenho Hanna-Barbera
+Eu tenho pêra, uva e maga
+Eu tenho Guanabara
+                D
+E modelos revell
+   Am      D    G       D
+O Brasil é o país do futuro
+   Am      D    G       D
+O Brasil é o país do futuro
+   Am      D    G       D
+O Brasil é o país do futuro
+    Am      D
+O Brasil é o país
+    C     G/B            C
+Em toda e qualquer situação
+G/B             Am  D
+Eu quero tudo pra cima
+Am   D
+Pra cima
+Am  D   C  G/B  D  G
+Pra cima
+
+Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+Vamos mostrar que nós sabemos fazer melhor que os gringos.
+Os sites de cifras necessitam de mais músicas nacionais.,
+Vamos parar com de que o Brasil não tem nada que preste...
+se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+nacional e da MPB, vc verá que existe muita coisa boa.
+Por tanto, vamos tirar mais solo e riff das músicas nacionais.
+Obrigado.
+
+(Transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+</pre>
+</font>

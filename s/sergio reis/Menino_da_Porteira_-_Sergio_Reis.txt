@@ -1,0 +1,298 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/s/sergio_reis/Menino_da_Porteira_-_Sergio_Reis.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+--------
+Menino da porteira
+Tom: A
+From: "Thiago Henrique" <ivosp@terra.com.br> 
+
+|----10-----10-----10------------9----------------------------------------2----------4------------2-------------------------------------------------|
+|----12-----12-----12------------7------------2-------2------2----------3----------5------------3----------2----------0-------------------------|*
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+ 
+* no final do solo faz anota  LA e só toca a segunda corda três vezes
+
+
+A                   
+Toda vez que eu viajava
+                     E7
+Pela estrada de Ouro Fino
+De longe eu avistava
+                 A
+A figura de um menino
+ 
+
+Que corria abrir a porteira
+                  E7
+Depois vinha me pedindo
+Toque o berrante seu moço
+          D    E7     A
+Que é pra eu ficar ouvindo
+      D               
+Quando a boiada passava
+                 E7
+E a poeira ia baixando
+Eu jogava uma moeda
+            A
+Ele saia pulando 
+Obrigado boiadeiro
+                        E7
+Que Deus vá lhe acompanhando
+Por este sertão afora
+       D      E7   A    E7 A E7 A E7 A E7 A
+Meu berrante ia tocando 
+                       
+
+Nos caminhos desta vida
+                       E7
+Muito espinho eu encontrei
+Mas nenhum caso mais triste
+                   A
+Do que este eu passei
+                          
+
+Na minha viagem de volta
+                     E7
+Qualquer coisa eu cismei
+Vendo a porteira fechada
+     D   E7      A
+O menino não avistei 
+ D
+Apeei do meu cavalo
+                        E7
+Num ranchinho à beira chão
+Vi uma mulher chorando
+                   A
+Quis saber qual a razão 
+Boiadeiro veio tarde
+                    E7
+Veja a cruz no estradão
+Quem matou o meu filhinho
+        D      E7    A  E7 A E7 A E7 A E7 A
+Foi um boi sem coração 
+A
+Lá pra banda de Ouro Fino
+                E7
+Levando gado selvagem
+Quando passo na porteira
+                A
+Até vejo a sua imagem 
+                        
+
+O seu rangido tão triste
+                  E7
+Mais parece uma mensagem 
+Daquele rosto trigueiro
+      D      E7   A
+desejando-me boa viagem
+     D                
+A cruzinha do estradão
+                       E7
+Do meu pensamento não sai
+Eu já fiz um juramento
+                   A
+Que não esqueço jamais 
+Nem que o meu gado estoure
+                   E7
+Que eu precise ir atrás
+Nesse pedaço de chão
+     D          E7    A      E7 A E7 A E7 A E7 A
+Berrante eu não toco mais 
+
+
+Versão 2
+---------
+''MENINO DA PORTEIRA''
+ 
+TIRADA POR: João Henrique Pereira              [ joao_nirv@mtv.com.br ]
+ 
+Introdução
+  A            E                                             A
+|--10-10-10-----9-----9--9--9------0-0--0-0-----2--4--2---0-0--|
+|-12-12-12----10----10-10-10------2-2--2-2-----3--5--3---2-0---|
+|--------------------------------------------------------------|Repete 1x, e segue com as
+|--------------------------------------------------------------|notas: A, E, A, no ritmo.  
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+ 
+ 
+ 
+Solo do música
+ 
+   A                                                              
+|---9---9---9---9----7------9---9--------10---10-------12---12-|  
+|-10--10--10--10----9-----10--10-------12---12-------14---14---|  
+|--------------------------------------------------------------|  
+|--------------------------------------------------------------|       ESTE SOLO É   
+|--------------------------------------------------------------|     TOCADO DURANTE
+|--------------------------------------------------------------|      A EXECUÇÃO DA  
+                    E                                              <-   ESTROFE
+|----9---9------7--7--7--7------4--4--4--4-----2------4--4-----|      
+|--10--10------9--9--9--9------5--5--5--5-----3------5--5------|       PARA CADA ESTROFE
+|--------------------------------------------------------------|      É TOCADO ESTE SOLO,
+|--------------------------------------------------------------|      NOS INTERVALOS ENTRE
+|--------------------------------------------------------------|     AS ESTROFES SE TOCA O
+|--------------------------------------------------------------|     SOLO DA INTRODUÇÃO.
+ 
+|--5--5-------7--7---------10---10-----------------------------|
+|-7--7-------9--9--------12---12-------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+         A
+|---9---9---9---9-----9---9---9---9-------7------9---9---------|
+|-10--10--10--10----10--10--10--10-------9-----10--10----------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+                                           E
+|---10---10-----12---12------9---9-----7--7--7--7-----4--4--4--|
+|-12---12-----14---14------10--10-----9--9--9--9-----5--5--5---|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+                                         A
+|--4--4--4------0--0--0-----2--2----0--0-----------------------|
+|-5--5--5------2--2--2-----3--3----2--0------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+ D
+|--2--2--2--2------0------2--2---2--2-----0-----2--2-----5--5--|
+|-3--3--3--3------2------3--3---3--3-----2-----3--3-----7--7---|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+      E 
+|--4--4--4--4-----4--4--4--4------2----4--4------5--5----7--7--|
+|-5--5--5--5-----5--5--5--5------3----5--5------7--7----9--9---|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+                       A
+|---10---10-------9---9---9---9------9---9---9---9------7------|
+|-12---12-------10--10--10--10-----10--10--10--10------9-------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+                                                             E
+|---9---9---------10---10-------10---10-------9---9-------7--7-|
+|-10--10--------12---12-------14---14-------10--10-------9--9--|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|
+                                                             A
+|-7--7-------4--4--4--4--4--4----0--0--0-----2--2----0----0----|
+|9--9-------5--5--5--5--5--5----2--2--2-----3--3----2----0-----|
+|--------------------------------------------------------------|
+|--------------------------------------------------------------|SEGUE COM AS NOTAS: A, E, A,
+|--------------------------------------------------------------|NO RITIMO, DAI SE TOCA O SOLO 
+|--------------------------------------------------------------|DA INTRODUÇÃO.
+ 
+ _________________________________________________________________
+| ESTA AÍ O SOLO MAIS PROCURADO DA REDE!*!* EHEHEHRERE.             
+|  QUALQUER DUVIDA OU RECLAMAÇÃO....        joao_nirv@mtv.com.br   |                                                                                                                          
+|   "por favor mantenha este roda pé"                                                            
+|_________________________________________________________________
+</pre>
+</font>

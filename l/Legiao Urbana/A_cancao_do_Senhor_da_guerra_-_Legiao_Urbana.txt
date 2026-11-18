@@ -1,0 +1,267 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/A_cancao_do_Senhor_da_guerra_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Música:A Canção do Senhor da Guerra 
+Artista:Legião Urbana
+Álbum:Música p\ Acampamento
+
+Tom: D
+Intr.: D G E A
+
+
+Introdução e Riff da música.
+   D              G              E              A
+E|----------------------------------------------------------------------|
+G|----------------------------------------------------------------------|
+B|-5s7-7-5s7-7-7-7-------------------7s9-9-7s9-9-9-9--------------------|
+D|-5s7-7-5s7-7-7-7--3s5-5-3s5-5-5-5--7s9-9-7s9-9-9-9--5s7-7-7-5s7-7-7-7-|
+A|------------------3s5-5-3s5-5-5-5-------------------5s7-7-7-5s7-7-7-7-|
+E|----------------------------------------------------------------------|
+
+
+D                 G            E  A
+Existe alguém esperando por você
+            D              G 
+Que vai comprar a sua juventude
+        E           A
+E convencê-lo a vencer
+
+G* 
+Mais uma guerra sem razão
+          D\F#
+(E já são tantas as crianças com armas na mão)
+           F7+
+Mas lhe explicam novamente que a guerra gera emprego
+    C
+E Aumenta a produção
+    G*
+Uma guerra sempre avança a tecnologia
+      D\F#
+Mesmo sendo guerra santa, quente, morna ou fria
+     F7+
+P'rá que exportar cominda
+                     C                A
+Se as armas dão mais lucro na exportação?
+
+D                         G            E  A
+Existe alguém que está contando com você 
+       D                       G
+P'rá lutar em seu lugar já que nessa guerra
+      E               A
+Não é ele quem vai morrer
+         D
+E quando longe de casa 
+  G                    E            A
+Ferido e com frio o inimigo você espera
+        D                      G
+Ele estará com outros velhos 
+                  E           A
+Inventando novos jogos de guerra
+
+G*                       D\F#
+E belíssimas cenas de destruição
+       F7+                        C
+(Não teremos mais problemas com a super população)
+G*                        D\F#
+Veja que uniforme lindo fizemos pra você
+  F7+                               C                   A
+E lembre-se sempre que Deus está do lado de quem vai vencer
+
+Antes do solo.
+E|-----------|----------------------|
+B|-----------|----------------------|
+G|-----------|----------------------|
+D|-----------|----------------------|
+A|-----------|-7-5-5-3~--3-7-5-5-3~-|
+E|-3s12s3-3~-|----------------------|
+
+Eu não sei se vc vai entender mas eu vou explicar.
+nessa parte é a parte que tem que raspar apalheta na corda.
+para que a raspada fique identica, vc deve segurar as cordas
+A & E na terceira casa. O (rp) significa raspar a palheta.
+(Obs:Raspe em direção a mão que vc faz os acordes.)
+
+E|---------|
+B|---------|
+G|---------|
+D|---------|
+A|-3----rp-|
+E|-3----rp-|
+
+Solo:
+E|-5---------------------------------------------------9-10-12-14--10----10---------------------|
+B|---7----------7-8-10-10-10-----12-10-12-10-12--10-12----------------12------10----10--10-12---|
+G|-----7-7--7-9---------------11-------------------------------------------------11-----------9-|
+D|----------------------------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E|-5---------------------------------------------------9-10-12-14--10----10---------------------|
+B|---7----------7-8-10-10-10-----12-10-12-10-12--10-12----------------12------10----10----------|
+G|-----7-7--7-9---------------11-------------------------------------------------11-----9-11----|
+D|-------------------------------------------------------------------------------------------12-|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E|-10-14--10----10--------------------------10-14--10----9--9-10-12-10-|
+B|-----------12-----10----10--------------------------10---------------|
+G|---------------------11-----9-11-------------------------------------|
+D|---------------------------------12----------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+
+D                         G            E  A
+Existe alguém que está contando com você 
+       D                       G
+P'rá lutar em seu lugar já que nessa guerra
+      E               A
+Não é ele quem vai morrer
+         D
+E quando longe de casa 
+  G                    E            A
+Ferido e com frio o inimigo você espera
+        D                      G
+Ele estará com outros velhos 
+                  E           A
+Inventando novos jogos de guerra
+
+G*                       D\F#
+E belíssimas cenas de destruição
+       F7+                        C
+(Não teremos mais problemas com a super população)
+G*                        D\F#
+Veja que uniforme lindo fizemos pra você
+  F7+                               C                   A
+E lembre-se sempre que Deus está do lado de quem vai vencer
+
+D                      Bm
+O Senhor da Guerra não gosta de crianças
+D                      F           Eb
+O Senhor da Guerra não gosta de crianças
+
+Final 
+E|----------------|
+B|-7-5--------5---|
+G|-----7-6--7---7-|
+D|----------------|
+A|----------------|
+E|----------------|
+
+Acordes:
+D    ->(557775)     
+G    ->(355433)
+G*   ->(320033)
+E    ->(779997)
+A    ->(577655)
+D\F# ->(200232)
+F7+  ->(x03210)
+C    ->(x32010)
+Bm   ->(224432)
+
+Trancrita por: Gabriel Ysllu Chagas
+batosay@mtv.com.br
+Ainda tem muita tablatura do Legião que ainda eu 
+não terminei de fazer, pq tbm tem umas que eu estou 
+aperfeiçoando.
+tipo assim: ainda virão
+Metal Contras as Nuvens (versão elétrica "completíssima") (Estou ouvindo agora!!!hehehhe!)
+Antes Das Seis(Completa)
+Química
+Tédio
+Eu Sei
+Feedback song for Dying Friend
+e muitas outras!!!!
+é só uma questão de tempo. Se vcs tiverem paciência
+vcs às verão logo-logo no site!!!!
+
+</pre>
+</font>

@@ -1,0 +1,124 @@
+Música:Ficção Científica
+Artista:Capital Inicial
+Álbum:Você não precisa entender 
+ 
+Tom: F# 
+Intro: (riff intro) 2 vezes
+       C#5 B5 E5 F#5 E5 B5
+       (riff intro) 2 vezes 
+
+   F#5  G#5  F#5  G#5  F#5  G#5
+e|------------------------------|
+B|------------------------------|
+G|------------------------------| riff 
+D|-4/6--6-6--4/6--6-6--4/6--6-6-| intro
+A|-4/6--6-6--4/6--6-6--4/6--6-6-|
+E|-2/4--4-4--2/4--4-4--2/4--4-4-|
+
+   F#5  G#5  F#5  G#5  F#5  G#5  F#5  G#5
+e|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|  
+D|-4/6--6-6--4/6--6-6--4/6--6-6--4/6--6-6-| riff
+A|-4/6--6-6--4/6--6-6--4/6--6-6--4/6--6-6-|
+E|-2/4--4-4--2/4--4-4--2/4--4-4--2/4--4-4-|
+
+C#5            B5            E5              F#5
+   Hoje à noite  Flash Gordon  vai tentar ser   Barbarella 
+E5            B5       riff 
+  para ver se aprisiona  o Albert Eistein,
+C#5            B5         E5
+   quem criou o  elixir da  longa vida,
+F#5          E5                B5      riff 
+   ainda vive  e tenta criar uma nova bomba H
+C#5          B5              E5          F#5
+   Um eclipse  destruiu o Sol, que queria   ser Apolo
+E5             B5         riff  
+  Sem o mito, só o fogo queima o chão
+
+C#5 B5 E5 F#5 E5 B5 riff
+
+C#5           B5             E5         F#5
+   Julio Verne  matou Galileu  e Saturno,  os seus filhos
+E5              B5          riff   
+  Sangue puro é a essência canibal
+C#5             B5
+   Sonhos mortos, sonhos tortos
+E5           F#5
+  Sempre vejo   a minha morte
+E5         B5             riff
+  Tanto faz, não existem mais heróis
+C#5          B5             E5           F#5   
+   Kriptonita  no meu sangue, clorofórmio   no banheiro
+E5          B5             riff
+  E a dança é a mesma, não é ficção
+
+Solo: (F#5 A5 B5 C#5) 2 vezes
+      (D5 B5) 4 vezes
+      (F#5 A5 B5 C#5) 2 vezes
+      (D5 B5) 3 vezes  D5 C#5
+
+   F#5    A5     B5   C#5             D5      B5 D5      B5 D5      B5 D5      B5
+e|--------------------------|       |--------------------------------------------|
+B|--------------------------|       |-3-2--------3-2--------3-2--------3-2-------|
+G|--------2--------2--------| 2     |-----4-2-4------4-2-4------4-2-4------4-2-4-|
+D|-4--2-4----4-2-4----4-2-4-| vezes |--------------------------------------------|
+A|--------------------------|       |--------------------------------------------|
+E|--------------------------|       |--------------------------------------------|
+
+   F#5    A5     B5   C#5             D5      B5 D5      B5 D5         B5  D5         C#5
+e|--------------------------|       |-----------------------10-9-----------10-9-------9--|
+B|--------------------------|       |-3-2--------3-2-------------12-10-12-------12-10----|
+G|--------2--------2--------| 2     |-----4-2-4------4-2-4-------------------------------|
+D|-4--2-4----4-2-4----4-2-4-| vezes |----------------------------------------------------|
+A|--------------------------|       |----------------------------------------------------|
+E|--------------------------|       |----------------------------------------------------|
+
+C#5         B5                   E5          F#5
+   Revolução  em selvas tropicais, raio laser   mata índios
+E5               B5           riff
+  Descoberta: o novo mundo envelheceu
+C#5           B5            E5             F#5
+   Como tentar  ser selvagem  se não existe   anarquia?
+E5          B5             riff
+  E a dança é a mesma, não é ficção
+C#5          B5            E5          F#5   
+   Muita fome  nas estrelas, muita fome   nas estrelas
+E5            B5         riff
+  Muita fome nas estrelas
+
+Solo: (F#5 A5 B5 C#5) 2 vezes | 2
+      (D5 B5) 4 vezes         | vezes
+
+   F#5    A5     B5   C#5                       |
+e|--------------------------|                   |
+B|--------------------------|                   |
+G|--------2--------2--------| 2                 |
+D|-4--2-4----4-2-4----4-2-4-| vezes             |
+A|--------------------------|                   |
+E|--------------------------|                   | 2
+                                                | vezes
+  D5      B5 D5      B5 D5      B5 D5      B5   |
+e|--------------------------------------------| |
+B|-3-2--------3-2--------3-2--------3-2-------| |
+G|-----4-2-4------4-2-4------4-2-4------4-2-4-| |
+D|--------------------------------------------| |
+A|--------------------------------------------| |
+E|--------------------------------------------| |
+
+C#5          B5            E5          F#5   
+   Muita fome  nas estrelas, muita fome   nas estrelas
+E5            B5               riff intro        
+  Muita fome nas estrelas e aqui também.
+
+    EADGBe
+F#5 244xxx
+G#5 466xxx
+C#5 x466xx
+B5  x244xx
+E5  x799xx
+A5  577xxx
+D5  x577xx
+
+Transcrita por: Rafael Mori
+ 

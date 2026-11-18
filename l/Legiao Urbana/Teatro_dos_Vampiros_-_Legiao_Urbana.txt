@@ -1,0 +1,526 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Teatro_dos_Vampiros_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Música:O Teatro dos Vampiros
+Artista:Legião Urbana
+Álbum:Acústico MTV
+                    
+Intro: (C B4 Am D) (C B4 Am G) (C B4 Am D G)
+
+(Dica. Não apoie a sua mão no rastilho do violão para fazer as partes do Dado(Intro e riff). Apoie só
+na hora do refrão. Ficará com uma dissonância mais parecida.)(faça mais no meio da boca do violão)
+
+Renato.(Eu não sei se essa parte do Renato esta muito certa pq eu toco sozinho e não dá pra eu ter
+uma certeza de armonia entre os dois violões. Mas tá legal, acho que dá pra tocar com 2 violões.)
+E|----0-------------------------------|----0-----------------------2-------|       |
+B|------1----3---1----------3---------|------1----3---1------3-------3-----|       |  
+G|-0-------------------0--------0-----|-0------------------------------2---|       |  
+D|---------2---2----------4-------4---|---------2---2-----------0--------0-|       | 
+A|-3-----------------5--------------5-|-3-----------------5----------------|       | 
+E|------------------------------------|------------------------------------|       |
+                                                                                   |
+E|----0-------------------------------|----0-------2---------3-------3------3-|    | 
+B|------1----3---1----------3---------|------1-------3---------3-------3------|    |
+G|-0-------------------0--------0-----|-0--------------2----------------------|    |
+D|---------2---2----------4-------4---|---------0-----------------------------|    |
+A|-3-----------------5--------------5-|-3-------------------------------------|    |
+E|------------------------------------|--------------------3-------3------3---|    |
+                                                                                   | 2X
+Dado.                                                                              |
+E|----------------------------------|---------------------------------2-------|    |
+B|---5------5-----3--------3------0-|---5------5-----3-------3----------3-----|    |
+G|-----0-----------------0---0------|-----0-------------------------------2---|    |
+D|-5-----4-----2-----2s4-------4----|-5-----4-----2-----2s4------2----------0-|    |
+A|----------------------------------|-----------------------------------------|    |
+E|----------------------------------|-----------------------------------------|    |
+                                                                                   |
+E|----------------------------------|-----------------------------------|          |
+B|---5------5-----3--------3------0-|---5-------7---------8-----8-----8-|          |
+G|-----0-----------------0---0------|-----0-------7---------7-----7-----|          |
+D|-5-----4-----2-----2s4-------4----|-5-----5s7-----7-7s9-----9-----9---|          |
+A|----------------------------------|-----------------------------------|          |
+E|----------------------------------|-----------------------------------|          |
+                                                                                   |
+
+Riff da música.(Dado)
+   C              B4
+E|-------3-----|---------0------0-|
+B|---5-----5---|-----3-----3------|
+G|-0---0-----0-|-------0-----0----|
+D|-------------|--0---------------|
+A|-------------|------------------|
+E|-------------|------------------|
+
+   Bb
+E|---1-----1-----1-----1-----1-----|
+B|-----3-----3-----3-----3-----3---|
+G|-0-----0-----0-----0-----0-----0-|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+         
+   C5              C5(modificado "tive medo e não consegui dormir.") (Obs. O Dado só dedilha nessas partes)
+E|----------------|----------------------|
+B|-s5-5-5--3--1-1-|-s5-5-5-5--3--1-1-1-3-|
+G|----------------|----------------------|
+D|-s5-5-5--4--2-2-|-s5-5-5-5--4--2-2-2-4-|
+A|----------------|----------------------|
+E|----------------|----------------------|
+
+Riff do refrão.(Nessa parte o Dado tipo que dedilha estes acordes, mas só que ele usa palheta)
+   G           F      C      G(modificado)               G(modificado no final do refrão)
+E|-7...8...7---5...---3...-|-7s8-8-8-7-5s7-7-7-7-3s5-5-|---7...--------|
+B|-8...8...8---6...---5...-|---------------------------|-----8...------|
+G|-7...7...7---5...---5...-|---------------------------|-7-----8...----|
+D|-------------------------|---------------------------|---------------|
+A|-------------------------|---------------------------|---------------|
+E|-------------------------|---------------------------|---------------|
+
+(C B4)
+Sempre precisei de um pouco de atenção 
+Acho que não sei quem sou 
+Só sei do que não gosto 
+E destes dias tão estranhos 
+     Bb5                                 C5
+Fica poeira se escondendo pelos cantos 
+(C B4)
+Este é o nosso mundo: o que é demais nunca é o bastante 
+E a primeira vez é sempre a última chance. 
+        Bb5
+Ninguém vê onde chegamos:
+                     C5
+Os assassinos estão livres, nós não estamos 
+
+Riff do refrão.(Nessa parte o Dado tipo que dedilha estes acordes, mas só que ele usa palheta)
+   G           F      C      G(modificado na 2ª vez)     G(modificado no final do refrão)
+E|-7...8...7---5...---3...-|-7s8-8-8-7-5s7-7-7-7-3s5-5-|---7...--------|
+B|-8...8...8---6...---5...-|---------------------------|-----8...------|
+G|-7...7...7---5...---5...-|---------------------------|-7-----8...----|
+D|-------------------------|---------------------------|---------------|
+A|-------------------------|---------------------------|---------------|
+E|-------------------------|---------------------------|---------------|
+
+G
+Vamos sair - mas não temos mais dinheiro 
+Os meus amigos todos estão procurando emprego 
+   F
+Voltamos a viver como há dez anos atrás 
+    C
+E a cada hora que passa 
+Envelhecemos dez semanas 
+
+G(modificado)
+Vamos lá, tudo bem - eu só quero me divertir 
+Esquecer, dessa noite ter um lugar legal pra ir 
+F
+Já entregamos o alvo e a artilharia 
+     C
+Comparamos nossas vidas 
+E esperamos que um dia 
+G                                  
+Nossas vidas possam se encontrar 
+
+Renato.(C B4 Am D) (C B4 Am G) (C B4 Am D G)
+E|----0-------------------------------|----0-----------------------2-------|
+B|------1----3---1----------1---------|------1----3---1------3-------3-----|
+G|-0-------------------0--------0-----|-0------------------------------2---|
+D|---------2---2----------2-------2---|---------2---2-----------0--------0-|
+A|-3-----------------3--------------3-|-3-----------------5----------------|
+E|------------------------------------|------------------------------------|
+
+E|----0-------------------------------|----0-------2---------3-------3------3-|
+B|------1----3---1----------1---------|------1-------3---------3-------3------|
+G|-0-------------------0--------0-----|-0--------------2----------------------|
+D|---------2---2----------2-------2---|---------0-----------------------------|
+A|-3-----------------3--------------3-|-3-------------------------------------|
+E|------------------------------------|--------------------3-------3------3---|
+
+Dado.
+E|----------------------------------|---------------------------------2-------|
+B|---5------5-----3--------3------0-|---5------5-----3-------3----------3-----|
+G|-----0-----------------0---0------|-----0-------------------------------2---|
+D|-5-----4-----2-----2s4-------4----|-5-----4-----2-----2s4------2----------0-|
+A|----------------------------------|-----------------------------------------|
+E|----------------------------------|-----------------------------------------|
+
+E|----------------------------------|---------------------------------|
+B|---5------5-----3--------3------0-|---5-------7---------8-----8-----|
+G|-----0-----------------0---0------|-----0-------7---------7-----7---|
+D|-5-----4-----2-----2s4-------4----|-5-----5s7-----7-7s9-----9-----9-|
+A|----------------------------------|---------------------------------|
+E|----------------------------------|---------------------------------|
+
+(C B4)
+Quando me vi tendo de viver comigo apenas 
+E com o mundo 
+Você me veio como um sonho bom  
+  Bb5
+E me assustei    C5 
+Não sou perfeito 
+Eu não esqueço 
+
+(C B4)
+A riqueza que nós temos 
+Ninguém consegue perceber 
+                       Bb5
+E de pensar nisso tudo,eu, homem feito 
+C5(modificado)
+Tive medo e não consegui dormir. 
+
+Riff do refrão.(Nessa parte o Dado tipo que dedilha estes acordes, mas só que ele usa palheta)
+   G           F      C      G(modificado na 2ª vez)     G(modificado no final do refrão)
+E|-7...8...7---5...---3...-|-7s8-8-8-7-5s7-7-7-7-3s5-5-|---7...--------|
+B|-8...8...8---6...---5...-|---------------------------|-----8...------|
+G|-7...7...7---5...---5...-|---------------------------|-7-----8...----|
+D|-------------------------|---------------------------|---------------|
+A|-------------------------|---------------------------|---------------|
+E|-------------------------|---------------------------|---------------|
+
+G
+Vamos sair - mas não temos mais dinheiro 
+Os meus amigos todos estão procurando emprego 
+   F
+Voltamos a viver como há dez anos atrás 
+    C
+E a cada hora que passa 
+Envelhecemos dez semanas 
+
+G(modificado)
+Vamos lá, tudo bem - eu só quero me divertir 
+Esquecer, dessa noite ter um lugar legal pra ir 
+F
+Já entregamos o alvo e a artilharia 
+     C
+Comparamos nossas vidas    
+                    G                     
+E mesmo assim, não tenho pena de ninguém.
+
+(G C D G Em D)
+
+Final da música.
+E|-7-7-8-7-3-3-3-5-5-5-5--7-7-8-7-10-10-10-8-8-8-8-7-|
+B|-8-8-8-8-5-5-5-7-7-7-7--8-8-8-8-10-10-10-8-8-8-8-8-|
+G|-7-7-7-7-0-0-0-0-0-0-0--7-7-7-7-11-11-11-9-9-9-9-7-|2x
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+Acordes
+C   ->(032013)
+B4  ->(020230)
+Bb5 ->(x1333x)
+C5  ->(x3555x)
+G   ->(320033)
+F   ->(133211)
+
+Transcrita por:Gabriel Ysllu Chagas
+tab feita de 09/04/2002 à 13/04/2002 Gov. Valadres MG
+batosay@mtv.com.br
+
+Nota de aviso.
+Se vc pretende pegar essa tab e mandar para um outro site
+me consulte primeiro.
+Pq se vc mandar e tirar o meu nome dela e colocar o seu
+vc não estará enganando à min e nem as pessoas que fazem o site,
+Vc estará enganado a sí mesmo. 
+Lembre-se que mentir para si mesmo e sempre a pior mentira.
+pelo menos deixe o meu nome como quem à transcreveu.
+Vcs nem devem imaginar pq eu não mando para o Cifraclub as "MINHAS" tabs que "EU" faço
+com muito "ESFORÇO" e "DEDICAÇÃO", para depois virem uns caras como "VC" que 
+que falam que: Nossa Senhora!! Eu toco D+!! Pelo Amor de Deus!!!
+Aí vcs pegam as minhas tabs tiram meu nome delas e mandam par o cifraclub.
+Vcs nem colocam seus nomes pq lá em embaixo aparece se vcs fazerem esforço.
+Eu não mando as minhas tabs para o Cifraclub pq eles nunca poem elas no site.
+Eu acho que eles acham que elas são boas D+ para colocar no Cifraclub. pq se vc olhar todas as tabs do
+Legião que vcs mandaram para lá estam erradíssimas exeto as de Metal Contras as Nuvens, Será e Tempo Perdido
+o resto esta tudo errado.
+Mas qui é diferente, A Maioria das tabs do Legião que estão aki estão certas, praticamente todas estão
+são agumas que tem um avariação de riff que fica chato transcrever tudo.
+Já que vc se acha o bom, pq vc n ão faz a sua própria tab e manda pera lá.
+Se Vc é bom mesmo vc não precisa "ROUBAR" uma coisa que não é sua, vc deve ter capacidade
+para fazer a sua.
+Eu posso falar que toco D+, para quem nunca teve professor pra ensinar "NADA, ABSOLUTAMENTE NADA".
+Eu tenho capacidade de fazer a minha própria Tab., eu não preciso de tirar o nome de alguem de nunhuma tab
+para enganar à mim mesmo!!!
+AH!! só mais uma coisa, se vcs olharemn bem o Cifraclub só tem cara e não tem conteúdo.
+Um prova disso que semana passada Casa Das Cifras 198 tabs e cifras só de guitarra, me fale quando
+que o Cifraclub recebeu esse número assustador de tabs e cifras só em uma semana??
+nunca e nunca vai receber!!!!!
+Juntando todas as cifras e tabs de todos instrumentos deve ter chegado a umas 300 músicas!!
+pensem muito bem antes de tirar o mérito de quem fez uma tab e mandou pra um determinado site e vcs mandam 
+para outro, Pensem bem!! muito bem!!!!!
+
+Obrigado e agradeço a compreenção de todos!!!!
+
+
+Versão 2
+---------
+Música:O Teatro dos Vampiros
+Artista:Legião Urbana
+Álbum:V
+
+Intro. G D Em Bm C G Em D
+Guitarra
+E|-----3--------2--------0--------2--------0--------3--------0--------2------|
+B|-------3--------3--------0--------3--------1--------3--------1--------3----|
+G|---------0--------2--------0--------4--------0--------0--------0--------2--| 2X
+D|------------0-----------------------------------------------------0--------|
+A|------------------------------2--------3-----------------3-----------------|
+E|--3------------------0--------------------------3--------------------------|
+
+Violão.(Obs. Este solo e feita nma segunda vez da introdução
+E|-7---7-10-8-7---------------------------------------------|
+B|-8-8----------10-12-8~--7h8p7-----------------------------|
+G|------------------------------9-7-9~----------------------|
+D|--------------------------------------9h10p9--7-9-10-9-7~-|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+
+Riff da música.(Dado)
+   C              B4
+E|-------3-----|---------0------0-|
+B|---5-----5---|-----3-----3------|
+G|-0---0-----0-|-------0-----0----|
+D|-------------|--0---------------|
+A|-------------|------------------|
+E|-------------|------------------|
+
+   Bb
+E|---1-----1-----1-----1-----1-----|
+B|-----3-----3-----3-----3-----3---|
+G|-0-----0-----0-----0-----0-----0-|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+         
+   C5            C5(modificado "tive medo e não consegui dormir.") (Obs. O Dado só dedilha nessas partes)
+E|-------------|-----------------|
+B|-6-6-6-5-3-1-|-6-6-6-5-3-1-1-3-|
+G|-------------|-----------------|
+D|-7-7-7-5-4-2-|-7-7-7-5-4-2-2-4-|
+A|-------------|-----------------|
+E|-------------|-----------------|
+
+Riff do refrão.(Nessa parte o Dado tipo que dedilha estes acordes, mas só que ele usa palheta)
+   G           F      C      G(modificado no final do refrão)
+E|-7...8...7---5...---3...-|---7...--------|
+B|-8...8...8---6...---5...-|-----8...------|
+G|-7...7...7---5...---5...-|-7-----8...----|
+D|-------------------------|---------------|
+A|-------------------------|---------------|
+E|-------------------------|---------------|
+
+
+C                      Bm
+Sempre precisei de um pouco de atenção
+C
+Acho que não sei quem sou
+   Bm
+Só sei do que não gosto
+C                   Bm
+E destes dias tão estranhos
+      Bm                              F C
+Fica poeira se escondendo pelos cantos
+
+C              Bm               C                 Bm
+Este é o nosso mundo: o que é demais nunca é o bastante
+             C                      Bm
+E a primeira vez é sempre a £ltima chance.
+        Bb
+Ninguém vê onde chegamos:
+                     F      C
+Os assassinos estão livres, nós não estamos
+
+       G
+Vamos sair - mas não temos mais dinheiro
+Os meus amigos todos estão procurando emprego
+   F
+Voltamos a viver como há dez anos atrás
+    C/E
+E a cada hora que passa 
+Envelhecemos dez semanas
+
+G
+Vamos lá, tudo bem - eu só quero me divertir
+Esquecer, dessa noite ter um lugar legal pra ir
+F
+Já entregamos o alvo e a artilharia
+     C/E
+Comparamos nossas vidas
+E esperamos que um dia
+       G
+Nossas vidas possam se encontrar
+
+C            Bm               C
+Quando me vi tendo de viver comigo apenas
+        Bm
+E com o mundo
+C                   Bm
+Você me veio como um sonho bom
+     Bb
+E me assustei
+
+           F    C
+Não sou perfeito
+Eu não esqueço
+                   Bm
+A riqueza que nós temos
+C                 Bm
+Ninguém consegue perceber
+C                  Bm   Bb
+E de pensar nisso tudo, eu, homem feito
+F           C
+Tive medo e não consegui dormir.
+
+     C/E
+Comparamos nossas vidas
+                    G
+E mesmo assim, não tenho pena de ninguém.
+
+Final da música.
+E|-7-7-8-7-3-3-3-5-5-5-5--7-7-8-7-10-10-10-8-8-8-8-7-|
+B|-8-8-8-8-5-5-5-7-7-7-7--8-8-8-8-10-10-10-8-8-8-8-8-|
+G|-7-7-7-7-0-0-0-0-0-0-0--7-7-7-7-11-11-11-9-9-9-9-7-|2x
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+Transcrita por:Gabriel Ysllu Chagas
+Exeto a guitarra da intro. Trancrita por Daniel Lucas
+tab feita em 13/04/2002 Gov. Valadres MG
+batosay@mtv.com.br
+
+Transcrita por:Gabriel Ysllu Chagas
+tab feita de 09/04/2002 à 13/04/2002 Gov. Valadres MG
+batosay@mtv.com.br
+
+Nota de aviso.
+Se vc pretende pegar essa tab e mandar para um outro site
+me consulte primeiro.
+Pq se vc mandar e tirar o meu nome dela e colocar o seu
+vc não estará enganando à min e nem as pessoas que fazem o site,
+Vc estará enganado a sí mesmo. 
+Lembre-se que mentir para si mesmo e sempre a pior mentira.
+pelo menos deixe o meu nome como quem à transcreveu.
+Vcs nem devem imaginar pq eu não mando para o Cifraclub as "MINHAS" tabs que "EU" faço
+com muito "ESFORÇO" e "DEDICAÇÃO", para depois virem uns caras como "VC" que 
+que falam que: Nossa Senhora!! Eu toco D+!! Pelo Amor de Deus!!!
+Aí vcs pegam as minhas tabs tiram meu nome delas e mandam par o cifraclub.
+Vcs nem colocam seus nomes pq lá em embaixo aparece se vcs fazerem esforço.
+Eu não mando as minhas tabs para o Cifraclub pq eles nunca poem elas no site.
+Eu acho que eles acham que elas são boas D+ para colocar no Cifraclub. pq se vc olhar todas as tabs do
+Legião que vcs mandaram para lá estam erradíssimas exeto as de Metal Contras as Nuvens, Será e Tempo Perdido
+o resto esta tudo errado.
+Mas qui é diferente, A Maioria das tabs do Legião que estão aki estão certas, praticamente todas estão
+são agumas que tem um avariação de riff que fica chato transcrever tudo.
+Já que vc se acha o bom, pq vc n ão faz a sua própria tab e manda pera lá.
+Se Vc é bom mesmo vc não precisa "ROUBAR" uma coisa que não é sua, vc deve ter capacidade
+para fazer a sua.
+Eu posso falar que toco D+, para quem nunca teve professor pra ensinar "NADA, ABSOLUTAMENTE NADA".
+Eu tenho capacidade de fazer a minha própria Tab., eu não preciso de tirar o nome de alguem de nunhuma tab
+para enganar à mim mesmo!!!
+AH!! só mais uma coisa, se vcs olharemn bem o Cifraclub só tem cara e não tem conteúdo.
+Um prova disso que semana passada Casa Das Cifras 198 tabs e cifras só de guitarra, me fale quando
+que o Cifraclub recebeu esse número assustador de tabs e cifras só em uma semana??
+nunca e nunca vai receber!!!!!
+Juntando todas as cifras e tabs de todos instrumentos deve ter chegado a umas 300 músicas!!
+pensem muito bem antes de tirar o mérito de quem fez uma tab e mandou pra um determinado site e vcs mandam 
+para outro, Pensem bem!! muito bem!!!!!
+
+Obrigado e agradeço a compreenção de todos!!!!
+
+
+
+</pre>
+</font>

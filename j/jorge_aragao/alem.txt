@@ -1,0 +1,53 @@
+Tom: C
+
+    C
+Não é
+              F#m5-/7    B7          Em
+Por acaso que sin..........to esta angústia na voz
+             Gm       A7        Dm7
+Este nó na gargan.......ta que não se desfaz
+               Fm  G7            C
+Este tremor nas mãos.......este frio nos pés
+             F#m5-/7   B7          Em
+Uma ânsia de entre.........ga, que nunca senti
+  Gm        A7         Dm7
+Me tira de mim.......me faz naufragar
+  Fm          G7          C
+Me deixa no ar.......me leva pro céu
+ Am6   G7       Gm   C7
+É.......o a.......mor que
+   Fm         G7        C
+Me deixa no ar.......me leva pro céu
+ Am6   G7        C   G7
+É.......o a.......mor!
+           Cm              G7
+Sentimento raro.......por ser tão contrário
+ C4/7         C7       Fm          Fm/E  Fm/Eb  Fm/E  
+Altera quem sente.......o corpo e a mente
+   Fm                G7          Cm
+Faz tudo mais belo.......mais livre, mais puro
+   C°               G4/7              G7
+Faz som ao silêncio.......brilha no escuro
+  C                               G
+Só sei.....quando amo, não sou mais eu
+  Gm           C7        F         F7  F#7  G7
+Sou mais.....que eu.....além de mim
+                      C   G7
+Só consigo viver.....assim
+  C                                G
+Só sei.....quando amo, não sou mais eu
+    Gm           C7       F          F7  F#7  G7
+Sou mais.....que eu.....além de mim
+                       C
+Só consigo viver.....assim
+
+-- [ acordes ] --
+
+C = 032010	Fm/Eb = xx1111 
+C7 = 032310	Fm/E = xx2111 
+G7 = 353433	Am6 = x02212
+Gm = 355333	B7 = X24242
+F = 133211	A7 = x02020
+F7 = 131211	Dm7 = xx0211
+F#7 = 242322	Em = 022000
+

@@ -1,0 +1,1113 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Faroeste_caboclo_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Versão 1
+---------
+Intro e Riff1:
+
+
+e|---3---3---3---3-| 3
+B|---3---3---3---3-| V
+G|-----------------| e
+D|-----------------| z
+A|-3---2-----------| e
+E|---------2---3---| s
+
+
+
+Intro:                                   Essa parte é rápida
+                G
+e|---3---3-----|-3-------|       {|------3--3--3--3--3--3--3-|}     Faça rapidamente
+B|---3---3-----|-3-------|       {|-----3--3--3--3--3--3--3--|}   (praticamente juntos)
+G|-------------|-0-------|       <|----0--0--0--0--0--0--0---|>Fç rápido
+D|-------------|-0-------|        |-0------------------------|
+A|-3---2-------|-2-------|        |--------------------------|
+E|-------------|-3-------|        |--------------------------|
+
+
+
+Obs.: O Riff1 aparece em vários lugares da música como fundo então eu só coloquei os lugares
+em que ele é realmente tocado, mas se quiser, pode usá-la no meio na música com um segundo violão
+que fica mais interessante a música. Algumas vezes aparece um 'soladinho' de fundo que nada mais
+é que o riff1 com algumas pequenas variações ou um dedilhado das notas que estão sendo tocadas,
+por isso que há mudanças nesse solo exatamente na troca de posições.
+
+
+        G                        D                 (repete essas notas por quase toda a música)
+Não tinha medo o tal João de Santo Cristo 
+Era o que todos diziam quando ele se perdeu 
+Deixou pra trás todo o marasmo da fazenda 
+Só pra sentir no seu sangue o ódio que Jesus lhe deu 
+Quando criança só pensava em ser bandido 
+Ainda mais quando com um tiro de soldado o pai morreu 
+Era o terror da cercania onde morava 
+E na escola até o professor com ele aprendeu 
+Ia pra igreja só pra roubar o dinheiro 
+Que as velhinhas colocavam na caixinha do altar 
+Sentia mesmo que era mesmo diferente 
+Sentia que aquilo ali não era o seu lugar 
+Ele queria sair para ver o mar 
+E as coisas que ele via na televisão 
+Juntou dinheiro para poder viajar 
+E de escolha própria escolheu a solidão 
+Comia todas as menininhas da cidade 
+De tanto brincar de médico aos doze era professor 
+Aos quinze foi mandado pro reformatório 
+Onde aumentou seu ódio diante de tanto terror 
+Não entendia como a vida funcionava 
+Descriminação por causa da sua classe e sua cor 
+Ficou cansado de tentar achar resposta 
+E comprou uma passagem foi direto a Salvador 
+E lá chegando; chegando foi tomar um cafezinho 
+E encontrou um boiadeiro com quem foi falar 
+E o boiadeiro tinha uma passagem 
+Ia perder a viagem mas João foi lhe salvar 
+Dizia ele "- Estou indo pra Brasília 
+Nesse país lugar melhor  não há 
+Estou precisando visitar a minha filha 
+Eu fico aqui e você vai no meu lugar" 
+E João aceitou sua proposta 
+E num ônibus entrou no Planalto Central 
+Ele ficou bestificado com a cidade 
+Saindo da rodoviária viu as luzes de Natal 
+"- Meu Deus mas que cidade linda! 
+No Ano Novo eu começo a trabalhar" 
+Cortar madeira aprendiz de carpinteiro 
+Ganhava cem mil por mês em Taguatinga 
+Na sexta-feira foi pra zona da cidade 
+Gastar todo o seu dinheiro de rapaz trabalhador 
+E conhecia muita gente interessante 
+Até um neto bastardo do seu bisavô 
+Um peruano que vivia na Bolivia 
+E muitas coisas trazia de lá 
+Seu nome era Pablo e ele dizia 
+Que um negócio ele ia começar 
+E Santo Cristo até a morte trabalhava 
+Mas o dinheiro não dava pra ele se alimentar 
+E ouvia às sete horas o noticiário 
+Que dizia sempre que seu ministro ia ajudar 
+Mas ele não queria mais conversa 
+E decidiu que como Pablo ele ia se virar 
+Elaborou mais uma vez seu plano santo 
+E sem ser crucificado a plantação foi começar 
+Logo logo os maluco da cidade 
+Souberam da novidade:  "- Tem bagulho bom aí!"
+E João de Santo Cristo ficou rico 
+E acabou com todos os traficantes dali 
+Fez amigos, frequentava a Asa Norte 
+Ia pra festa de Rock pra se libertar
+Mas de repente, sob uma má influência dos 
+boyzinhos da cidade começou a roubar 
+  C                     G/B 
+Já no primeiro roubo ele dançou 
+                Am7            G 
+E pro inferno ele foi pela primeira vez 
+  C                    G/B 
+Violência e estupro do seu corpo 
+            Am7              G 
+"- Vocês vão ver, eu vou pegar vocês!" 
+
+
+  G                    D                  (volta a repetir)
+Agora Santo Cristo era bandido 
+Destemido e temido no Distrito Federal 
+Não tinha nenhum medo de polícia 
+Capitão ou traficante, playboy ou general 
+Foi quando conheceu uma menina 
+E de todos os seus pecados ele se arrependeu 
+Maria Lúcia era uma menina linda 
+E o coração dele pra ela o Santo Cristo prometeu 
+Ele dizia que queria se casar 
+E carpinteiro ele voltou a ser 
+"- Maria Lúcia eu pra sempre vou te amar 
+E um filho com você eu quero ter"               Riff1
+
+
+      G                   C 
+O tempo passa e um dia vem na porta um senhor 
+      G                   D 
+De alta classe com dinheiro na mão 
+     G                    C 
+E ele faz uma proposta indecorosa 
+                      G                   F 
+E diz que espera uma resposta, uma resposta de João 
+          G                 D                     (volta a repetir)
+"- Não boto bomba em banca de jornal 
+E nem em colégio de criança, isso eu não faço não
+E não protejo general de dez estrelas 
+Que fica atrás da mesa com o cú na mão 
+E é melhor o senhor sair da minha casa 
+Nunca brinque com um Peixes de ascendente escorpião" 
+Mas antes de sair, com ódio no olhar o velho disse: 
+"- Você perdeu a sua vida, meu irmão!" 
+"- Você perdeu a sua vida, meu irmão!" 
+"- Você perdeu a sua vida, meu irmão!" 
+Essas palavras vão entrar no coração 
+"- Eu vou sofrer as consequências como um cão." 
+
+
+Não é que o Santo Cristo estava certo 
+Seu futuro era incerto, e ele não foi trabalhar 
+Se embebedou e no meio da bebedeira 
+Descobriu que tinha outro trabalhando em seu lugar 
+Falou com Pablo que queria um parceiro 
+Que também tinha dinheiro e queria se armar 
+Pablo trazia o contrabando da Bolívia 
+E Santo Cristo revendia em Planaltina                 Riff1
+
+
+      G                    Ab 
+Mas acontece que um tal de Jeremias 
+              F               G 
+Traficante de renome apareceu por lá 
+                             Ab 
+Ficou sabendo dos planos de Santo Cristo 
+                   F           G 
+E decidiu que com João ele ia acabar. 
+                        D#/F 
+Mas Pablo trouxe uma Winchester 22 
+       Em 
+E Santo Cristo lá sabia atirar 
+    C                  G/B 
+E decidiu usar a arma só depois 
+       Am7              D 
+Que Jeremias começasse a brigar 
+
+
+    G                    Ab 
+O Jeremias maconheiro sem vergonha 
+            F                  G 
+Organizou a Roconha e fez todo mundo dançar 
+                      Ab 
+Desvirginava mocinhas inocentes 
+              F                   G 
+E dizia que era crente mas não sabia rezar 
+                             D/F# 
+E Santo Cristo há muito não ia pra casa 
+     Em 
+E a saudade começou a apertar 
+            C                    G/B 
+"- Eu vou me embora, eu vou ver Maria Lúcia 
+         Am7                  D 
+Já está em tempo de a gente se casar" 
+   C                      G/B 
+Chegando em casa então ele chorou 
+               Am7             G 
+E pro inferno ele foi pela segunda vez 
+          C               G/B 
+Com Maria Lúcia Jeremias se casou 
+    Am7           G 
+E um filho nela ele fez 
+
+
+     G                   Ab 
+Santo Cristo era só ódio por dentro 
+            F                      G 
+E então o Jeremias pra um duelo ele chamou 
+                          Ab 
+"- Amanhã, as duas horas na Ceilândia 
+                 F                   G 
+Em frente ao lote catorze é pra lá que eu vou 
+                         Ab 
+E você pode escolher as suas armas 
+                 F                    G 
+Que eu acabo mesmo com você, seu porco traidor 
+                 Ab 
+E mato também Maria Lúcia 
+           F                         G 
+Aquela menina falsa pra que jurei o meu amor" 
+                          D/F# 
+E Santo Cristo não sabia o que fazer 
+      Em 
+Quando viu o reporter da televisão 
+          C              G/B 
+Que deu a notícia do duelo na TV 
+        Am7                 D 
+Dizendo a hora, o local e a razão 
+  G                  Ab 
+No sábado, então as duas horas 
+                F 
+Todo o povo sem demora 
+                 G 
+Foi lá só pra assistir 
+                      Ab 
+Um homem que atirava pelas costas 
+                F 
+E acertou o Santo Cristo 
+             G 
+E começou a sorrir 
+                   Ab 
+Sentindo o sangue na garganta 
+                 F 
+João olhou as bandeirinhas 
+              G 
+E o povo a aplaudir 
+                          Ab 
+E olhou pro sorveteiro e pras câmeras e 
+           F               G 
+A gente da TV que filmava tudo ali 
+                           D/F# 
+E se lembrou de quando era uma criança 
+    Em 
+E de tudo o que viveu até ali 
+   C                      G/B 
+E decidiu entar de vez naquela dança 
+          Am7                    D 
+"- Se a via-crucis virou circo, estou aqui." 
+  C                 G/B 
+E nisso o sol cegou seus olhos 
+             Am7            G 
+E então Maria Lúcia ele reconheceu 
+      C                G/B 
+Ela trazia a Winchester 22 
+     Am7                   G 
+A arma que seu primo Pablo lhe deu 
+
+
+      G                     D                          (e repete de novo)
+"- Jeremias, eu sou homem, coisa que você não é 
+Eu não atiro pelas costas, não. 
+Olha pra cá filha da puta sem vergonha 
+Dá uma olhada no meu sangue, e vem sentir o teu perdão" 
+E Santo Cristo com a Winchester 22 
+Deu cinco tiros no bandido traidor 
+Maria Lúcia se arrependeu depois 
+E morreu junto com João, seu protetor 
+    C              G/B 
+O povo declarava que João de Santo Cristo 
+  Am7                   G 
+Era santo porque sabia morrer 
+   C             G/B                      Am7 
+E a alta burgesia da cidade não acreditou na história 
+                 G 
+Que ele viram da TV 
+   C                      G/B 
+E João não conseguiu o que queria 
+                 Am7             G 
+Quando veio pra Brasília com o diabo ter 
+      C                     G/B 
+Ele queria era falar com o presidente 
+                   Am7               D 
+Pra ajudar toda essa gente que só faz 
+          
+Sofrer...    RIFF FINAL 
+
+
+
+RIFF FINAL:
+e|---------------------|
+B|---------------------|
+G|-5-5--3-3------------|
+D|-5-5--3-3--5-5-5-5-5-|
+A|-3-3--1-1--5-5-5-5-5-|
+E|-----------3-3-3-5-5-|
+
+Transcrito por Paulo Augusto de C. Fleck 
+
+
+Versão 2
+--------
+  FAROESTE CABOCLO
+  De: Renato Russo
+
+  Introdução: C G/B G C G/B D  e|-----------------------------------------------------|
+                               b|------2-------2--------2-------2-------2--------2----|  
+                               g|----0--0----0--0-----0--0----0--0----0--0----0----0--|
+                               d|------------------------------------------0----------|
+                               a|--3-------2----------------3-------2-----------------|                                    E|-------------------3---------------------------------|  
+                               
+cifra e tab por : Bruno do Rêgo Soares <brunoregosoares@bol.com.br>
+ICQ: 83389468
+IRC: marilyn_manson_13
+
+             G                       D
+  Não tinha medo o tal João de Santo Cristo,
+                    G                      D
+  Era o que todos diziam quando ele se perdeu.
+              G                        D
+  Deixou pra trás todo o marasmo da fazenda
+                        G                           D
+  Só pra sentir no seu sangue o ódio que Jesus lhe deu.
+            G                         D
+  Quando criança só pensava em ser bandido,
+                           G                            D
+  Ainda mais quando com um tiro de um soldado o pai morreu
+            G                     D
+  Era o terror da cercania onde morava
+                     G                      D
+  E na escola até o professor com ele aprendeu.
+
+          G                       D
+  Ia na Igreja só pra roubar o dinheiro
+                       G                       D
+  Que as velhinhas colocavam na caixinha do altar.
+          G                 D
+  Sentia mesmo que era diferente
+                 G                         D
+  E sentia que aquilo ali não era o seu lugar
+         G                    D
+  Ele queria sair para ver o mar
+                  G                 D
+  E as coisas que ele via na televisão
+             G                   D
+  Juntou dinheiro para poder viajar
+                G                       D
+  E de escolha própria, escolheu a solidão
+
+        G                        D
+  Comia todas as menininhas da cidade
+                      G                           D
+  De tanto brincar de médico, aos doze era professor.
+               G                     D
+  Aos quinze, foi mandado pro reformatório
+                    G                        D
+  Onde aumentou seu ódio diante de tanto terror.
+
+            G                    D
+  Não entendia como a vida funcionava -
+                 G                          D
+  Descriminação por causa de sua classe ou sua cor
+           G                        D
+  Ficou cansado de tentar achar resposta
+                   G                         D
+  E comprou uma passagem, foi direto a Salvador.
+
+           G                     D
+  E lá chegando foi tomar um cafezinho
+                      G                       D
+  E encontrou um boiadeiro com quem foi falar
+           G                 D                     G
+  E o boiadeiro tinha uma passagem e ia perder a viagem
+                       D
+  Mas João foi lhe salvar.
+        G                        D
+  Dizia ele: - Estou indo pra Brasília,
+        G                        D
+  Neste país lugar melhor não há.
+              G                    D
+  Estou precisando visitar a minha filha
+            G                       D
+  Eu fico aqui e você vai no meu lugar.
+
+      G                  D                    G                       D
+  E João aceitou sua proposta e num ônibus entrou no Planalto Central
+         G                      D
+  Ele ficou bestificado com a cidade
+                  G                     D
+  Saindo da rodoviária, viu as luzes de Natal.
+         G                D
+  - Meu Deus, que cidade linda,
+         G                      D
+  No ano-novo eu começo a trabalhar.
+            G                        D
+  Cortar madeira, aprendiz de carpinteiro
+                        G            D
+  Ganhava três mil por mês em Taguatiga.
+
+            G                     D
+  Na sexta-feira ia pra zona da cidade
+                        G                      D
+  Gastar todo o seu dinheiro de rapaz trabalhador
+         G                       D
+  E conhecia muita gente interessante
+                  G               D
+  Até um neto bastardo do seu bisavô:
+         G                  D
+  Um peruano que vivia na Bolívia
+            G                  D
+  E muitas coisas trazia de lá
+      G                      D
+  Seu nome era Pablo e ele dizia
+           G                 D
+  Que um negócio ele ia começar.
+
+             G                       D
+  E o Santo Cristo até a morte trabalhava
+                     G                      D
+  Mas o dinheiro não dava pra ele se alimentar
+            G                   D
+  E ouvia às sete horas o noticiário
+               G                             D
+  Que sempre dizia que o seu ministro ia ajudar
+           G                  D
+  Mas ele não queria mais conversa e decidiu que,
+       G                   D
+  Como Pablo, ele ia se virar
+        G                          D
+  Elaborou mais uma vez seu plano santo
+                    G                         D
+  E, sem ser crucificado, a plantação ia começar.
+
+        G                     D                    G
+  Logo, logo, os malucos da cidade souberam da novidade:
+                     D
+  - Tem bagulho bom aí!
+      G                        D
+  E João de Santo Cristo ficou rico
+               G                    D
+  E acabou com todos os traficantes dali.
+       G                         D
+  Fez amigos, frequentava a Asa Norte
+                    G                  D
+  E ia pra festa de rock, pra se libertar
+            G
+  Mas de repente,
+                 D                         G
+  Sob uma má influência dos boyzinhos da cidade
+                D
+  Começou a roubar.
+
+     C                        G/B
+  Já no primeiro roubo ele dançou
+                    Am7                G
+  E pro inferno ele foi pela primeira vez
+      C                      G/B
+  Violência e estupro do seu corpo
+              Am7                  G
+  - Vocês vão ver, eu vou pegar vocês.
+
+ G                            D
+  Agora o Santo Cristo era bandido
+                G                     D
+  Destemido e temido no Distrito Federal.
+      G                      D
+  Não tinha nenhum medo de polícia
+                   G                     D
+  Capitão ou traficante, playboy ou general.
+        G                   D
+  Foi quando conheceu uma menina
+                       G                    D
+  E de todos os seus pecados ele se arrependeu.
+        G                     D
+  Maria Lúcia era uma menina linda
+
+  E o coração dele
+      G                        D
+  Pra ela o Santo Cristo prometeu
+        G                    D
+  Ele dizia que queria se casar
+           G                  D
+  E carpinteiro ele voltou a ser
+          G                            D
+  - Maria Lúcia pra sempre eu vou te amar
+       G                        D   C G/B G C G/B D
+  E um filho com você eu quero ter.
+
+           G                    C                       G                      D
+  O tempo passa e um dia vem à porta um senhor de alta classe com dinheiro na mão
+         G                                      C            G
+  E ele faz uma proposta indecorosa e diz que espera uma resposta.
+                    F
+  Uma resposta de João:
+        G                          D                       G
+  - Não boto bomba em banca de jornal nem em colégio de criança
+                    D
+  Isso eu não faço não
+           G                      D                        G
+  E não protejo general de dez estrelas, que fica atrás da mesa
+               D
+  Com o cu na mão
+         G                          D
+  E é melhor o senhor sair da minha casa
+                        G                           D
+  Nunca brinque com um Peixes com ascendente Escorpião.
+            G                    D
+  Mas antes de sair, com ódio no olhar, o velho disse:
+          G                   D
+  - Você perdeu sua vida, meu irmão.
+
+           G                    D            G                    D
+  Você perdeu a sua vida meu irmão. Você perdeu a sua vida meu irmão
+          G                      D
+  Essas palavras vão entrar no coração
+              G                            D
+  E eu vou sofrer as conseqüências como um cão.
+      G                          D
+  Não é que Santo Cristo estava certo
+                      G                         D
+  E seu futuro era incerto e ele não foi trabalhar
+            G                    D                        G
+  Se embebedou e no meio da bebedeira descobriu que tinha outro
+                        D
+  Trabalhando em seu lugar
+            G                       D
+  Falou com Pablo que queria um parceiro
+                     G                   D
+  E também tinha dinheiro e queria se armar
+           G                    D                       G              D
+  Pablo trazia contrabando da Bolívia e Santo Cristo revendia em Planaltina.
+
+          G                      Ab                    F
+  Mas acontece que um tal de Jeremias, traficante de renome,
+               G
+  Apareceu por lá
+                                     Ab
+  Ficou sabendo dos planos de Santo Cristo
+                       F             G
+  E decidiu que, com João ele ia acabar.
+                                          D/F#
+  Mas Pablo trouxe uma Winchester-vinte-e-dois
+           Em
+  E Santo Cristo já sabia atirar
+         C                   G/B
+  E decidiu usar a arma só depois
+            Am7                  D
+  Que o Jeremias começasse a brigar
+
+         G                       Ab                    F
+  (O Jeremias, maconheiro sem-vergonha, organizou a Rockonha
+                       G
+  E fez todo mundo dançar.)
+
+                           Ab
+  Desvirginava mocinhas inocentes
+                    F                     G
+  E dizia que era crente mas não sabia rezar.
+
+                                    D/F#
+  E Santo Cristo há muito não ia pra casa
+         Em
+  E a saudade começou a apertar
+             C                      G/B
+  - Eu vou embora, eu vou ver Maria Lúcia
+             Am7                  D
+  Já está em tempo da gente se casar.
+
+      C                         G/B
+  Chegando em casa então ele chorou
+                    Am7               G
+  E pro inferno ele foi pela segunda vez
+            C                   G/B
+  Com Maria Lúcia Jeremias se casou
+       Am7             D
+  E um filho nela ele fez.
+
+          G                    Ab                   F                         G
+  Santo Cristo era só ódio por dentro e então o Jeremias pra um duelo ele chamou
+                             Ab                           F                      G
+  Amanhã às duas horas na Ceilândia, em frente ao lote catorze, é pra lá que eu vou
+                               Ab                  F                             G
+  E você pode escolher as suas armas que eu acabo mesmo com você, seu porco traidor
+                      Ab                    F                           G
+  E mato também Maria Lúcia, aquela menina falsa pra quem jurei o meu amor
+
+                                 D/F#
+  Santo Cristo não sabia o que fazer
+         Em
+  Quando viu o repórter na televisão
+            C                 G/B
+  Que deu notícia do duelo na TV
+            Am7                   D
+  Dizendo a hora e o local e a razão.
+
+     G                     Ab
+  No Sábado então, às duas horas, todo o povo
+        F                        G
+  Sem demora foi lá só pra assistir
+                             Ab                         F
+  Um homem que atirava pelas costas e acertou o Santo Cristo
+                  G
+  E começou a sorrir.
+                          Ab
+  Sentindo o sangue na garganta,
+                        F                      G
+  João olhou pras bandeirinhas e pro povo a aplaudir
+                                Ab
+  E olhou pro sorveteiro e pras câmeras e
+             F                    G
+  A gente da TV que filmava tudo ali.
+
+                                   D/F#       Em
+  E se lembrou de quando era uma criança e de tudo que vivera até ali
+         C                        G/B
+  E decidiu entrar de vez naquela dança
+             Am7                         D
+  - Se a via-crucis virou circo, estou aqui.
+
+     C                    G/B                  Am7               G
+  E nisso o sol cegou seus olhos e então Maria Lúcia ele reconheceu.
+          C                       G/B
+  Ela trazia a Winchester-vinte-e-dois
+         Am7                      G
+  A arma que seu primo Pablo lhe deu.
+
+        G                          D
+  - Jeremias, eu sou homem, coisa que você não é.
+         G                  D
+  E não atiro pelas costas não.
+           G                        D
+  Olha pra cá filha-da-puta, sem-vergonha,
+                        G
+  Dá uma olhada no meu sangue
+                         D
+  E vem sentir o teu perdão.
+
+            G                              D
+  E Santo Cristo com a Winchester-vinte-e-dois
+            G                     D
+  Deu cinco tiros no bandido traidor
+        G                      D
+  Maria Lúcia se arrependeu depois
+            G                        D
+  E morreu junto com João, seu protetor.
+
+      C                   G/B                     Am7                    G
+  E o povo declarava que João de Santo Cristo era santo porque sabia morrer
+      C                   G/B                     Am7                      G
+  E a alta burguesia da cidade não acreditou na estória que eles viram na TV
+      C                         G/B                    Am7                 G
+  E João não conseguiu o que queria quando veio pra Brasília, com o diabo ter
+         C                      G/B
+  Ele queria era falar pro presidente,
+                       Am7
+  Pra ajudar toda essa gente
+          D     (C  Bb G) C G
+  Que só faz sofrer.
+
+
+Versao 3
+---------
+Faroeste Caboclo
+
+Intro: (C G/B D/F# G)3x D
+
+E|-----------------------------------|
+B|-----------------------------------|
+G|---0-------0---------2--------0----|
+D|-----2-------0---------0--------0--|3x
+A|-3-------2-------------------------|
+E|------------------2---------3------|
+
+E|---------------------2-------2-------2-------2-------2------2-------2----|
+B|-----------------------3-------3-------3-------3-------3------3-------3--|
+G|---0------0--------2-------2-------2-------2-------2------2-------2------|
+D|----2-------0----0-------0-------0-------0-------0------0-------0--------|
+A|-3------2----------------------------------------------------------------|
+E|-------------------------------------------------------------------------|
+        
+G                         D/F#    (repete essas notas por quase toda a música)
+Não tinha medo o tal João de Santo Cristo 
+Era o que todos diziam quando ele se perdeu 
+Deixou pra trás todo o marasmo da fazenda 
+Só pra sentir no seu sangue o ódio que Jesus lhe deu 
+Quando criança só pensava em ser bandido 
+Ainda mais quando com um tiro de soldado o pai morreu 
+Era o terror da cercania onde morava 
+E na escola até o professor com ele aprendeu 
+Ia pra igreja só pra roubar o dinheiro 
+Que as velhinhas colocavam na caixinha do altar 
+Sentia mesmo que era mesmo diferente 
+Sentia que aquilo ali não era o seu lugar 
+Ele queria sair para ver o mar 
+E as coisas que ele via na televisão 
+Juntou dinheiro para poder viajar 
+E de escolha própria escolheu a solidão 
+Comia todas as menininhas da cidade 
+De tanto brincar de médico aos doze era professor 
+Aos quinze foi mandado pro reformatório 
+Onde aumentou seu ódio diante de tanto terror 
+Não entendia como a vida funcionava 
+Descriminação por causa da sua classe e sua cor 
+Ficou cansado de tentar achar resposta 
+E comprou uma passagem foi direto a Salvador 
+E lá chegando; chegando foi tomar um cafezinho 
+E encontrou um boiadeiro com quem foi falar 
+E o boiadeiro tinha uma passagem 
+Ia perder a viagem mas João foi lhe salvar 
+Dizia ele "- Estou indo pra Brasília 
+Nesse país lugar melhor  não há 
+Estou precisando visitar a minha filha 
+Eu fico aqui e você vai no meu lugar" 
+E João aceitou sua proposta 
+E num ônibus entrou no Planalto Central 
+Ele ficou bestificado com a cidade 
+Saindo da rodoviária viu as luzes de Natal 
+"- Meu Deus mas que cidade linda! 
+No Ano Novo eu começo a trabalhar" 
+Cortar madeira aprendiz de carpinteiro 
+Ganhava cem mil por mês em Taguatinga 
+Na sexta-feira foi pra zona da cidade 
+Gastar todo o seu dinheiro de rapaz trabalhador 
+E conhecia muita gente interessante 
+Até um neto bastardo do seu bisavô 
+Um peruano que vivia na Bolivia 
+E muitas coisas trazia de lá 
+Seu nome era Pablo e ele dizia 
+Que um negócio ele ia começar 
+E Santo Cristo até a morte trabalhava 
+Mas o dinheiro não dava pra ele se alimentar 
+E ouvia às sete horas o noticiário 
+Que dizia sempre que seu ministro ia ajudar 
+Mas ele não queria mais conversa 
+E decidiu que como Pablo ele ia se virar 
+Elaborou mais uma vez seu plano santo 
+E sem ser crucificado a plantação foi começar 
+Logo logo os maluco da cidade 
+Souberam da novidade:  "- Tem bagulho bom aí!"
+E João de Santo Cristo ficou rico 
+E acabou com todos os traficantes dali 
+Fez amigos, frequentava a Asa Norte 
+Ia pra festa de Rock pra se libertar
+Mas de repente, sob uma má influência dos 
+boyzinhos da cidade começou a roubar 
+  C                     G/B 
+Já no primeiro roubo ele dançou 
+                Am7            G 
+E pro inferno ele foi pela primeira vez 
+  C                    G/B 
+Violência e estupro do seu corpo 
+            Am7              G 
+"- Vocês vão ver, eu vou pegar vocês!" 
+
+
+  G                    D/F#                  (volta a repetir)
+Agora Santo Cristo era bandido 
+Destemido e temido no Distrito Federal 
+Não tinha nenhum medo de polícia 
+Capitão ou traficante, playboy ou general 
+Foi quando conheceu uma menina 
+E de todos os seus pecados ele se arrependeu 
+Maria Lúcia era uma menina linda 
+E o coração dele pra ela o Santo Cristo prometeu 
+Ele dizia que queria se casar 
+E carpinteiro ele voltou a ser 
+"- Maria Lúcia eu pra sempre vou te amar 
+E um filho com você eu quero ter"              
+
+E|--------------------------------------------------2-2-----2-2-----2-2-----2-|
+B|--------------------------------------------------3---3---3---3---3---3---3-|
+G|---0-------0--------2-------0--------0------0-----2-----2-2-----2-2-----2-2-|
+D|-----2-------0--------0-------0--------2------0---0-------0-------0-------0-|
+A|-3-------2-------------------------3-------2--------------------------------|
+E|-----------------2--------3-------------------------------------------------|
+
+
+      G                   C 
+O tempo passa e um dia vem na porta um senhor 
+      G                   D 
+De alta classe com dinheiro na mão 
+     G                    C 
+E ele faz uma proposta indecorosa 
+                      G                   D 
+E diz que espera uma resposta, uma resposta de João 
+          G                 D/F#                     (volta a repetir)
+"- Não boto bomba em banca de jornal 
+E nem em colégio de criança, isso eu não faço não
+E não protejo general de dez estrelas 
+Que fica atrás da mesa com o cú na mão 
+E é melhor o senhor sair da minha casa 
+Nunca brinque com um Peixes de ascendente escorpião" 
+Mas antes de sair, com ódio no olhar o velho disse: 
+"- Você perdeu a sua vida, meu irmão!" 
+"- Você perdeu a sua vida, meu irmão!" 
+"- Você perdeu a sua vida, meu irmão!" 
+Essas palavras vão entrar no coração 
+"- Eu vou sofrer as consequências como um cão." 
+
+
+Não é que o Santo Cristo estava certo 
+Seu futuro era incerto, e ele não foi trabalhar 
+Se embebedou e no meio da bebedeira 
+Descobriu que tinha outro trabalhando em seu lugar 
+Falou com Pablo que queria um parceiro 
+Que também tinha dinheiro e queria se armar 
+Pablo trazia o contrabando da Bolívia 
+E Santo Cristo revendia em Planaltina                 
+
+E|--------------------------------------------------2-2-----2-2-----2-2-----2-|
+B|--------------------------------------------------3---3---3---3---3---3---3-|
+G|---0-------0--------2-------0--------0------0-----2-----2-2-----2-2-----2-2-|
+D|-----2-------0--------0-------0--------2------0---0-------0-------0-------0-|
+A|-3-------2-------------------------3-------2--------------------------------|
+E|-----------------2--------3-------------------------------------------------|
+
+      G                    Ab 
+Mas acontece que um tal de Jeremias 
+              F               G 
+Traficante de renome apareceu por lá 
+                             Ab 
+Ficou sabendo dos planos de Santo Cristo 
+                   F           G 
+E decidiu que com João ele ia acabar. 
+                        D#/F 
+Mas Pablo trouxe uma Winchester 22 
+       Em 
+E Santo Cristo lá sabia atirar 
+    C                  G/B 
+E decidiu usar a arma só depois 
+       Am7              D 
+Que Jeremias começasse a brigar 
+
+
+    G                    Ab 
+O Jeremias maconheiro sem vergonha 
+            F                  G 
+Organizou a Roconha e fez todo mundo dançar 
+                      Ab 
+Desvirginava mocinhas inocentes 
+              F                   G 
+E dizia que era crente mas não sabia rezar 
+                             D/F# 
+E Santo Cristo há muito não ia pra casa 
+     Em 
+E a saudade começou a apertar 
+            C                    G/B 
+"- Eu vou me embora, eu vou ver Maria Lúcia 
+         Am7                  D 
+Já está em tempo de a gente se casar" 
+   C                      G/B 
+Chegando em casa então ele chorou 
+               Am7             G 
+E pro inferno ele foi pela segunda vez 
+          C               G/B 
+Com Maria Lúcia Jeremias se casou 
+    Am7           G 
+E um filho nela ele fez 
+
+
+     G                   Ab 
+Santo Cristo era só ódio por dentro 
+            F                      G 
+E então o Jeremias pra um duelo ele chamou 
+                          Ab 
+"- Amanhã, as duas horas na Ceilândia 
+                 F                   G 
+Em frente ao lote catorze é pra lá que eu vou 
+                         Ab 
+E você pode escolher as suas armas 
+                 F                    G 
+Que eu acabo mesmo com você, seu porco traidor 
+                 Ab 
+E mato também Maria Lúcia 
+           F                         G 
+Aquela menina falsa pra que jurei o meu amor" 
+                          D/F# 
+E Santo Cristo não sabia o que fazer 
+      Em 
+Quando viu o reporter da televisão 
+          C              G/B 
+Que deu a notícia do duelo na TV 
+        Am7                 D 
+Dizendo a hora, o local e a razão 
+  G                  Ab 
+No sábado, então as duas horas 
+                F 
+Todo o povo sem demora 
+                 G 
+Foi lá só pra assistir 
+                      Ab 
+Um homem que atirava pelas costas 
+                F 
+E acertou o Santo Cristo 
+             G 
+E começou a sorrir 
+                   Ab 
+Sentindo o sangue na garganta 
+                 F 
+João olhou as bandeirinhas 
+              G 
+E o povo a aplaudir 
+                          Ab 
+E olhou pro sorveteiro e pras câmeras e 
+           F               G 
+A gente da TV que filmava tudo ali 
+                           D/F# 
+E se lembrou de quando era uma criança 
+    Em 
+E de tudo o que viveu até ali 
+   C                      G/B 
+E decidiu entar de vez naquela dança 
+          Am7                    D 
+"- Se a via-crucis virou circo, estou aqui." 
+  C                 G/B 
+E nisso o sol cegou seus olhos 
+             Am7            G 
+E então Maria Lúcia ele reconheceu 
+      C                G/B 
+Ela trazia a Winchester 22 
+     Am7                   G 
+A arma que seu primo Pablo lhe deu 
+
+E|----------------2-2--------3--|
+B|----------------3---3------2--|
+G|---0-------0----2-----2----2--|
+D|-----2-------0--0--------0----|
+A|-3-------2--------------------|
+E|------------------------------|
+
+      G                     D/F#                          (e repete de novo)
+"- Jeremias, eu sou homem, coisa que você não é 
+Eu não atiro pelas costas, não. 
+Olha pra cá filha da puta sem vergonha 
+Dá uma olhada no meu sangue, e vem sentir o teu perdão" 
+E Santo Cristo com a Winchester 22 
+Deu cinco tiros no bandido traidor 
+Maria Lúcia se arrependeu depois 
+E morreu junto com João, seu protetor 
+    C              G/B 
+O povo declarava que João de Santo Cristo 
+  Am7                   G 
+Era santo porque sabia morrer 
+   C             G/B                      Am7 
+E a alta burgesia da cidade não acreditou na história 
+                 G 
+Que ele viram da TV 
+   C                      G/B 
+E João não conseguiu o que queria 
+                 Am7             G 
+Quando veio pra Brasília com o diabo ter 
+      C                     G/B 
+Ele queria era falar com o presidente 
+                   Am7               D 
+Pra ajudar toda essa gente que só faz 
+          
+Sofrer...
+ Dado Villa Lobos  
+E|-----------------|
+B|-----------------|
+G|-5-5-3-3---------|
+D|-5-5-3-3-5-5-5-5-|
+A|-3-3-1-1-5-5-5-5-|
+E|---------3-3-3-3-|
+
+ Renato Russo
+E|-------------------|
+B|-------------------|
+G|-------------------|
+D|-10-10-8-8-5-5-5-5-|
+A|-10-10-8-8-5-5-5-5-|
+E|-8--8--6-6-3-3-3-3-|
+
+Eu fico puto da vida quando entro em um site de cifras e tablaturas e só encontro tablaturas de artistas internacionais.
+Fica parecendo que os "brasileiros" não gostam de solos e não dão a mínima
+Para a música de seu artista preferido.
+Vamos tirar mais solo e cifrar mais músicas para mostrar que nós somos tão bons quanto os outros e que sabemos fazer até melhor!!!
+
+Valeu galera!!!!!
+
+(Transcrita por:Gabriel Ysllu Chagas)
+(ysllu@uol.com.br ou hail@mtv.com.br)
+
+
+
+
+Versão 4
+---------
+Música: Faroeste Caboclo
+Banda: Legião Urbana
+
+
+Introdução
+E|--------------2-----|       E|--2---2---2---2---...-|  Até 
+A|--3-----2-------0---|       A|----0---0---0---0-...-|  começar a 
+D|----0-----0---------|>3x    D|----------------------|  música
+G|------0-----0-------|       G|----------------------|  eh isso
+B|--------------------|       B|----------------------|
+e|--------------------|       e|----------------------|
+
+
+Aí começa a musica em G...
+
+
+Eu Acho q essa q eh a verdadeira intro da musica, tentem fazer, se naum for,
+ela eh legal e tbm eh muito mais facil de fazer
+
+
+Um aviso aos legionarios, eh a legiao urbana q se diz e naum o legiao urbana,
+o renato dizia assim em suas entrevistas!!! :)
+
+
+(Por Danilo Augusto Peternella Ardenghi)
+(daniloo@frizzmail.com.br)
+
+
+</pre>
+</font>

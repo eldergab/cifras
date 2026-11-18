@@ -1,0 +1,181 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Angra_dos_Reis_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>Angra dos Reis</TITLE>
+</HEAD>
+<BODY>
+<h1>Angra dos Reis</h1>
+<hr><P>
+<pre>Tom: C
+Intr.: C G7 C G7
+</pre>
+<pre> G7    C                 G7  C G7
+ Deixa, se fosse sempre assim  quente
+C                   G7
+ Deita aqui perto de mim
+C    G7  C                   G7
+ Tem dias em que tudo est&aacute; em paz
+C   G7           C               G7
+ E agora todos os dias s&atilde;o iguais
+</pre>
+<pre>C               C/E
+ Se fosse s&oacute; sentir saudade
+Am             Bb
+ Mas tem sempre algo mais
+           C
+ Seja como for
+               C/E         Am
+ &Eacute; uma dor que d&oacute;i no peito
+           Bb               Am
+ Pode rir agora que estou sozinho
+                     Bb (C G7)
+ Mas n&atilde;o venha me roubar
+</pre>
+<pre>G7         C  G7         C    G7
+ Vamos brincar perto da usina
+           C  G7             C    G7
+ Deixa pra l&aacute;, a angra &eacute; dos reis
+               C   G7               C     G7
+ Porque se explicar se n&atilde;o existe perigo?
+C              C/E         Am
+ Senti teu cora&ccedil;&atilde;o perfeito batendo &agrave; toa
+   Bb
+ E isso d&oacute;i
+</pre>
+<pre>            C
+ Seja como for
+               C/E
+ &eacute; uma dor que d&oacute;i no peito
+Am         Bb               Am
+ Pode rir agora que estou sozinho
+                     Bb (C G7)
+ Mas n&atilde;o venha me roubar
+</pre>
+<pre>
+e|-12-10-8-8---10-8-6-6----12-10-8-8---10-8-6-6-----|
+B|--------------------------------------------------|
+G|--------------------------------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------| 
+Bb
+ Vai ver que n&atilde;o &eacute; nada disso
+Am
+ Vai ver que j&aacute; n&atilde;o sei quem sou
+Bb
+ Vai ver que nunca fui o mesmo
+Am
+ A culpa e toda sua e nunca foi
+Bb                                 Am
+ Mesmo se as estrelas come&ccedil;assem a cair
+</pre>
+<pre> E a luz queimasse tudo ao redor
+           Bb
+ E fosse o fim chegando cedo
+Am                                 (C G7)
+ E voc&ecirc; visse nosso corpo em chamas
+             (C Gm)
+ Deixa pra l&aacute;
+</pre>
+<pre>             C        Gm
+ Quando as estrelas come&ccedil;assem a cair
+    C                      Gm
+ Me diz, me diz pra onde a gente vai fugir?
+</pre>
+<P>
+</BODY>
+</HTML>
+
+</pre>
+</font>

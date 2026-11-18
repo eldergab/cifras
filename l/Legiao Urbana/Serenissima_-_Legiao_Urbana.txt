@@ -1,0 +1,209 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Serenissima_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+Música:Sereníssima
+Artista:Legião Urbana
+Album:Acústico MTV 
+
+Tom: D
+Intr.: (G D) (D C G) (C G D)
+
+Renato Russo
+  G      D      G       D          
+E|-7...--2-2-2--7...9---2-2-|      
+B|-8...--3-3-3--8...10--3-3-|
+G|-7...--2-2-2--7...9---2-2-|
+D|--------------------------|  
+A|--------------------------|   
+E|--------------------------|
+  
+   D           Cadd9     G           Cadd9 G      D
+E|-2-2-2-2-2-2-3-3-3-3-3-3-3-|     E|-------------2...-|
+B|-3-3-3-3-3-3-3-3-3-3-3-3-3-|     B|-------------3...-|
+G|-2-2-2-2-2-2-0-0-0-0-0-0-0-|4x   G|-------------2...-|4x
+D|-------------2-2-2-2-2-0-0-|     D|------------------|
+A|-------------3-3-3-3-3-2-2-|     A|-3-2-0------------|
+E|-----------------------3-3-|     E|-------3-2-0------|
+
+
+Dado 
+  G      D      G     D
+E|-3...--2-2-2--3...--2-2-|
+B|-3...--3-3-3--3...--3-3-|
+G|-2...--2-2-2--2...--2-2-|
+D|------------------------|   
+A|------------------------|   
+E|------------------------|   
+
+   D         C     G              C                 G           D
+E|-----2-----3-----1-----|     E|-----3-----3-----3---------------2.........-|
+B|---3---3-----0-----3---|     B|---5-----5-----3-----3--------------3......-|
+G|---------2-----0-----0-|4x   G|-5-----4-----2-----0-----------2-------2...-|4x
+D|-0---------------------|     D|-------------------------3------------------|
+A|-----------------------|     A|-----------------------1--------------------|
+E|-----------------------|     E|--------------------------------------------|
+
+ D               C     G
+Sou um animal sentimental
+               C        D                   C    G C
+Me apego facilmente ao que desperta o meu desejo
+ D               C    G
+Tente me obrigar a fazer o que não quero
+    C      D                    C  G
+E você vai logo ver o que acontece.
+C                        G
+Acho que entendo o que você quis me dizer
+      D             A 
+Mas existem outras coisas.
+
+D               C       G               C
+Consegui meu equilíbrio cortejando a insanidade,
+D                  C    G              C
+Tudo está perdido mas existem possibilidades.
+D                C  G
+Tinhamos a idéia, você mudou os planos
+C            D             C       G
+Tinhamos um plano, você mudou de idéia
+
+    C                     G         D              A
+E|--------------12-10-----7...----------------------------------------------|
+B|--3...------------------8...---------5.......---------10----8----7----5-5-|
+G|--0...--10s12-----------7...-----------5.....-----------------------------|
+D|--2...----------------------------5------5...----9s11-----9----7----5-----|
+A|--3...--------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+        C                    G              D
+ Já passou, já passou - quem sabe outro dia.
+
+G     G/F# Em7      A           D 
+Antes eu sonhava, agora já não durmo
+        G     G/F#  Em7      A           D        
+Quando foi que competimos pela primeira vez?
+G     G/F#     Em7             A           D
+O que ninguém percebe é o que todo mundo sabe
+       G     G/F#  Em7      A           D
+Não entendo terrorismo, falávamos de amizade.
+
+   D         C     G              C                 G           D
+E|-----2-----3-----1-----|     E|-----3-----3-----3---------------2.........-|
+B|---3---3-----0-----3---|     B|---5-----5-----3-----3--------------3......-|
+G|---------2-----0-----0-|4x   G|-5-----4-----2-----0-----------2-------2...-|4x
+D|-0---------------------|     D|-------------------------3------------------|
+A|-----------------------|     A|-----------------------1--------------------|
+E|-----------------------|     E|--------------------------------------------|
+
+D                    C    G
+Não estou mais interessado no que sinto
+        C       D                  C    G C
+Não acredito em nada além do que duvido
+  D                       C      G
+Você espera respostas que eu não tenho
+     C      G             C    G
+Não vou brigar por causa disso
+     C               G                 D  A
+Até penso duas vezes se você quiser ficar.
+
+      G     G/F#  Em7            A7          D
+Minha laranjeira verde, porque está tão prateada?
+      G     G/F#  Em7        A7          D
+Foi da lua desta noite, do sereno da madrugada
+      G     G/F#  Em7      A7          D
+Tenho um sorriso bobo, parecido com soluço
+            G     G/F#    Em7     
+Enquanto o caos segue em frente
+      A7              D   (G G/F# Em7 A D)
+Com toda a calma do mundo.
+
+(Transcrita por:Gabriel Ysllu Chagas)
+(batosay@mtv.com.br)
+
+</pre>
+</font>

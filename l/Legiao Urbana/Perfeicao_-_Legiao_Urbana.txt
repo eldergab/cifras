@@ -1,0 +1,267 @@
+
+
+<IFRAME FRAMEBORDER=no HEIGHT=1 WIDTH=1 ID="acompanhamento" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 NAME="acompanhamento" noresize SCROLLING=no SRC="http://www.virgula.com.br/acompanhamento/casacifras.htm"></IFRAME>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="40">
+  <tr>
+    <td width="25%" height="21">
+    <img border="0" src="/img/logo.jpg" width="199" height="35"></td>
+    <td width="75%" height="21">
+    <p align="right"><!--- Início do código do Soft Click --->
+<P ALIGN='CENTER'><IFRAME SRC='http://www.softclick.com.br/r.asp?COD=2237&P=0' name='softclick1' width='470' height='62' frameborder='0' border='0' marginheight='0' marginwidth='0' scrolling='no'>
+<A HREF='http://www.softclick.com.br/link.asp?COD=2237&P=0&N=1' onmouseover="window.status='Anúncio publicado pelo Soft Click'; return true" onmouseout="window.status='';" target='_top'><IMG ALT='Patrocinado por Soft Click' WIDTH='468' HEIGHT='60' BORDER='1' SRC='http://www.softclick.com.br/redir.asp?COD=2237&P=0'></A></IFRAME><BR>
+<A HREF='http://www.softclick.com.br' target='_top'><FONT size='2'>Anúncio publicado pelo Soft Click</FONT></A></P>
+<!----- Fim do codigo do Soft Click ---->
+</td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">
+<a href="http://www.casa.cifras.nom.br/casacifras/cifras/l/legiao_urbana/Perfeicao_-_Legiao_Urbana.txt">
+    <img border="0" src="/img/impressora.gif" alt="Imprimir" width="32" height="32"></a>
+    <form method="get" action="http://www.casa.cifras.nom.br/lista/cifras.asp">
+                  <p>
+<font face="arial" size=2 color=black>
+                        <SELECT size=1 name=Path style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand">                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        ]
+<OPTION value=/casacifras/cifras/1 selected>1</option>
+ <OPTION value=/casacifras/cifras/3>3</OPTION>
+ <OPTION value=/casacifras/cifras/4>4</OPTION> 
+<OPTION value=/casacifras/cifras/7>7</OPTION> 
+<OPTION value=/casacifras/cifras/A>A</OPTION> 
+<OPTION value=/casacifras/cifras/B>B</OPTION> 
+<OPTION value=/casacifras/cifras/C>C</OPTION> 
+<OPTION value=/casacifras/cifras/D>D</OPTION> 
+<OPTION value=/casacifras/cifras/E>E</OPTION> 
+<OPTION value=/casacifras/cifras/F>F</OPTION> 
+<OPTION value=/casacifras/cifras/G>G</OPTION> 
+<OPTION value=/casacifras/cifras/H>H</OPTION> 
+<OPTION value=/casacifras/cifras/I>I</OPTION> 
+<OPTION value=/casacifras/cifras/J>J</OPTION> 
+<OPTION value=/casacifras/cifras/K>K</OPTION> 
+<OPTION value=/casacifras/cifras/L>L</OPTION> 
+<OPTION value=/casacifras/cifras/M>M</OPTION> 
+<OPTION value=/casacifras/cifras/N>N</OPTION> 
+<OPTION value=/casacifras/cifras/O>O</OPTION> 
+<OPTION value=/casacifras/cifras/P>P</OPTION> 
+<OPTION value=/casacifras/cifras/Q>Q</OPTION> 
+<OPTION value=/casacifras/cifras/R>R</OPTION> 
+<OPTION value=/casacifras/cifras/S>S</OPTION> 
+<OPTION value=/casacifras/cifras/T>T</OPTION> 
+<OPTION value=/casacifras/cifras/U>U</OPTION> 
+<OPTION value=/casacifras/cifras/V>V</OPTION> 
+<OPTION value=/casacifras/cifras/W>W</OPTION> 
+<OPTION value=/casacifras/cifras/X>X</OPTION> 
+<OPTION value=/casacifras/cifras/Y>Y</OPTION> 
+<OPTION value=/casacifras/cifras/Z>Z</OPTION>
+</SELECT>&nbsp;<SELECT size=1 name=Pagesize style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"> 
+<OPTION value=10>10</OPTION>
+<OPTION value=20>20</OPTION>
+<OPTION value=50>50</OPTION> 
+<OPTION value=70>70</OPTION> 
+<OPTION value=100>100</OPTION> 
+<OPTION value=10000 selected>Todos</OPTION></SELECT>&nbsp;<INPUT type=submit value=" Listar " name=B1 style="FONT-SIZE: 7pt; FONT-FAMILY: verdana; background: #d0d0d0; cursor:hand"></font></p>
+                </form>
+                        </td>
+  </tr>
+  <tr>
+    <td width="100%" height="19" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+
+
+<font face="courier new, courier" size="4">
+
+<pre>
+ 
+
+ Perfeição
+ 
+ Tom: C
+ Introd.: (C7,Bb,G)4x
+
+ Riff    c/dist           Bb      G
+ E|------------------------------------|\
+ B|------------1-----------------------| \
+ G|--------3------3-----3-3-3----------|  \ 4x na hora da introdução junto com
+ D|---------------------3-3-3--5-5-5-5-|  / os acordes C7 Bb G.
+ A|--3~-----------------1-1-1--5-5-5-5-| /
+ E|----------------------------3-3-3-3-|/
+ Obs:ouça a música primeiro para tocar direito
+ 
+ G
+ Vamos celebrar a estupidez humana
+ A estupidez de todas as nações
+ O meu país e sua corja de assassinos
+ Covardes, estupradores e ladrões
+ C7                                      Riff
+ Vamos celebrar a estupidez do povo
+ Bb                 G
+ Nossa polícia e televisão
+ C7                                      Riff    
+ Vamos celebrar nosso governo
+            Bb               G
+ E nosso estado que não é nação
+      D
+ Celebrar a juventude sem escola
+ As crianças mortas
+      F                  C
+ Celebrar nossa desunião
+ D
+ Vamos celebrar Eros e Thanatos
+ Persephone e Hades
+ F
+ Vamos celebrar nossa tristeza
+ G
+ Vamos celebrar nossa vaidade
+ 
+ Solo:C7
+ 
+ C7                                      Riff 
+ Vamos comemorar como idiotas
+   Bb                   G
+ A cada fevereiro e feriado
+ C7                                      Riff
+ Todos os mortos na estrada
+     Bb                       G
+ Os mortos por falta de hospitais
+ C7                                      Riff
+ Vamos celebrar nossa justiça
+     Bb                G
+ A ganância e a difamação
+ C7                                      Riff
+ Vamos celebrar os preconceitos
+    Bb             G
+ O voto dos analfabetos
+       F
+ Comemorar a água podre 
+ E todos os impostos 
+ Queimadas mentiras e sequestro
+ Nosso castelo de cartas marcadas
+ O trabalho escravo  
+ Nosso pequeno universo
+ Toda hipocrisia e toda afetação
+ Todo roubo e toda a indiferença
+ Vamos celebrar epidemias:
+ É a festa da torcida campeã
+ 
+ C
+ Vamos celebrar a fome
+     G
+ Não ter a quem ouvir
+ Não se ter a quem amar
+    D
+ Vamos alimentar o que é maldade
+ Am
+ Vamos machucar um coração
+ C
+ Vamos celebrar nossa bandeira
+         G
+ Nosso passado de absurdos gloriosos
+ Dm
+ Tudo que é gratuito e feio
+ Am
+ Tudo que é normal
+               F
+ Vamos cantar juntos o hino nacional
+ A lágrima é verdadeira
+ G
+ Vamos celebrar nossa saudade
+ E comemorar a nossa solidão
+ 
+ Solo:C7
+ No final desse solo o Dado faz uma coisa parecida com isso.
+ (Parece com a intro de "Welcome to the jungle" do Guns N´ Roses)
+ E|-------------------|
+ B|-------------------|
+ G|-------------------|
+ D|-3-3-3-3-3-2-------|
+ A|-------------3-1-1-|
+ E|-------------------|
+ 
+ C
+ Vamos festejar a inveja
+         G 
+ A intolerância e a incompreensão
+ D 
+ Vamos festejar a violência
+        Am
+ E esquecer a nossa gente
+                       C
+ Que trabalhou honestamente a vida inteira 
+                 G*
+ E agora não tem mais direito a nada
+ D
+ Vamos celebrar a aberração
+     Am
+ De toda a nossa falta de bom senso
+          F
+ Nosso descaso por educação
+ Vamos celebrar o horror 
+ De tudo isso
+       Bb
+ - Com festa, velório e caixão
+ Está tudo morto e enterrado agora 
+    F
+ Já que também podemos celebrar 
+        G
+ A estupidez de quem cantou esta canção
+ 
+ C       Dm                     Em 
+ Venha,   meu coração está com pressa
+ F            G            C    Dm 
+ Quando a esperança está dispersa
+                   Em*
+ Só a verdade me liberta
+ F          G         C
+ Chega de maldade e ilusão
+       Dm*                         Em*
+ Venha, o amor tem sempre a porta aberta
+ F         G            C
+ E vem chegando a primavera
+ Dm*              Em*
+ Nosso futuro recomeça:
+ F               G          C Dm* Em* F G C Dm* Em* F G* (C Dm* Em* F G)2x
+ Venha, que o que vem é perfeição          Ah..Ah..Ah..Ah..
+
+ Acordes:
+ Cordas  EADGBE
+ C7  -> (032310)
+ Bb  -> (113331)
+ G   -> (355433)
+ Dm  -> (xx0231)
+ C   -> (335553) 
+ F   -> (133211)
+ Dm* -> (557765)
+ Em* -> (x799xx)
+ 
+ Gente!!! Vamos tirar mais solo e riffs das músicas brasileiras
+ Vamos mostrar que nós sabemos fazer melhor que os gringos.
+ Os sites de cifras necessitam de mais músicas nacionais.,
+ Vamos parar com isso de que o Brasil não tem nada que preste...
+ se vc olhar pelo lado do forró,pagode,axé entre outros, aí sim vc 
+ verá que não tem nada que presta, mas se vc olhar pelo lado do rock
+ nacional e da MPB, vc verá que existe muita coisa boa. 
+ Por tanto, vamos tirar mais SOLOS e RIFFS das músicas nacionais.
+ Obrigado.
+
+ (Transcrita por:Gabriel Ysllu Chagas)
+ (batosay@mtv.com.br)
+
+
+</pre>
+</font>

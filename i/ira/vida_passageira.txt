@@ -1,0 +1,101 @@
+Intro: (A Bb)
+
+A  
+Do alto da montanha 
+   A7+
+Ou em um cavalo em verde vale 
+  A7		       D
+E tendo o poder de levitar 
+D			  C#m
+É como em um comercial de cigarros 
+       				    Bm
+Em que a verdade se esquece com uns tragos 
+		  E
+Sonho difícil de acordar 
+A			      A7+
+É quando teus amigos te surpreendem 
+		   A7
+Deixando a vida de repente 
+		    D
+E não se quer acreditar 
+D
+Mas essa vida é passageira 
+C#m
+Chorar eu sei que é besteira 
+Bm				   E		
+Mas, meu amigo, não dá prá segurar 
+  
+
+		A   A7
+Não dá prá  segurar 
+	       Bm
+Não dá prá segurar 
+	       D	
+Não dá prá segurar 
+   C#m	      Bm	    E          A
+Desculpe meu amigo, mas não dá prá segurar 
+  
+    B			       B7+
+Vou dar então um passeio pelas praias da Bahia 
+       B7			       	       E
+Onde a lua se parece com a bandeira da Turquia 
+E			   D#m
+É o planeta inteiro que respira 
+		       C#m
+Sinais de vida em cada esquina 
+		   F#
+Tanta gente que se anima 
+
+
+  E			   D#m
+É quando teus amigos te surpreendem 
+		   C#m
+Deixando a vida de repente 
+		    F#
+E não se quer acreditar 
+E
+Mas essa vida é passageira 
+D#m
+Chorar eu sei que é besteira 
+C#m		    	   F#
+Mas, meu amigo, não dá prá segurar 
+
+		B  B7
+Não dá prá  segurar 
+	       C#m
+Não dá prá segurar 
+	       E	
+Não dá prá segurar 
+   D#m	      C#m	    F#	       B   B7
+Desculpe meu amigo, mas não dá prá segurar 
+	       C#m
+Não dá prá segurar 
+	       E	
+Não dá prá segurar 
+   D#m	      C#m	    F#	       B
+Desculpe meu amigo, mas não dá prá segurar 
+
+
+	       C#m
+Não dá prá segurar 
+	       E	
+Não dá prá segurar 
+   D#m	      C#m	    F#	       B
+Desculpe meu amigo, mas não dá prá segurar 
+
+-- [ acordes ] --
+intro:
+A  = 577655 
+Ab = 688766
+
+resto da música:
+A   = X02220
+A7+ = X02120
+A7  = X02020
+D   = XX0232
+E   = 022100
+C#m = X46654
+D#m = X68876
+F#  = 244322
+B   = X24442
+B7  = X24242
