@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minhas Cifras</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#14161a">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Cifras">
+<style>
+  :root { --bg:#14161a; --card:#1e2127; --txt:#e8e8e8; --mut:#9aa0a8; --acc:#f5b942; --f:14px; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f5f5f2; --card:#fff; --txt:#1c1c1c; --mut:#6b6b6b; --acc:#b8730a; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--txt); font:16px system-ui,sans-serif; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); padding:12px; border-bottom:1px solid var(--card); }
+  body.lendo header { position:static; }
+  .topo { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+  h1 { margin:0; font-size:18px; color:var(--acc); }
+  input[type=search] { width:100%; padding:10px 12px; font-size:16px; border-radius:8px; border:1px solid var(--mut); background:var(--card); color:var(--txt); }
+  .crumbs { margin-top:8px; color:var(--mut); font-size:14px; }
+  .crumbs a { color:var(--acc); cursor:pointer; }
+  main { padding:12px; max-width:900px; margin:0 auto; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(64px,1fr)); gap:8px; margin-top:12px; }
+  .grid .item { text-align:center; font-size:22px; font-weight:700; padding:14px 0; margin:0; }
+  .item { background:var(--card); padding:12px 14px; border-radius:8px; cursor:pointer; margin-bottom:6px; display:flex; align-items:center; gap:8px; }
+  .item:hover { outline:1px solid var(--acc); }
+  .item .t { flex:1; } .item small { display:block; color:var(--mut); }
+  .count { color:var(--mut); font-size:13px; }
+  .item button { padding:4px 9px; }
+  #cifra { display:none; }
+  #tools { position:sticky; top:0; z-index:4; display:flex; gap:6px; align-items:center; flex-wrap:wrap; background:var(--bg); padding:8px 0; }
+  button { background:var(--card); color:var(--txt); border:1px solid var(--mut); border-radius:8px; padding:8px 10px; font-size:15px; cursor:pointer; }
+  button.on { background:var(--acc); color:#000; }
+  .n { min-width:30px; text-align:center; color:var(--mut); font-size:14px; }
+  .sep { width:1px; height:24px; background:var(--mut); opacity:.4; }
+  pre { white-space:pre; overflow-x:auto; font:var(--f)/1.45 ui-monospace,Menlo,Consolas,monospace; margin:8px 0 60vh; }
+  .ac { color:var(--acc); font-weight:700; }
+  h2 { margin:8px 0 0; font-size:20px; }
+  .msg { color:var(--mut); padding:20px 0; }
+  body.palco { background:#000; color:#fff; }
+  body.palco header { display:none; }
+  body.palco #tools { background:#000; }
+  body.palco .ac { color:#ffd24a; }
+</style>
+</head>
+<body>
+<header>
+  <div class="topo"><h1>🎸 Minhas Cifras</h1><button id="offline" title="Baixar todas as cifras para usar sem internet">⬇ Offline</button></div>
+  <input id="busca" type="search" placeholder="Buscar cantor ou música...">
+  <div class="crumbs" id="crumbs"></div>
+</header>
+
+<main>
+  <div id="lista"></div>
+  <div id="cifra">
+    <h2 id="titulo"></h2>
+    <div id="tools">
+      <button id="menos">A−</button><button id="mais">A+</button>
+      <span class="sep"></span>
+      <button id="auto">▶ Rolar</button><button id="vel-">🐢</button><span class="n" id="vel">8</span><button id="vel+">🐇</button>
+      <span class="sep"></span>
+      <button id="tom-">♭</button><button class="n" id="tom" title="Tocar para voltar ao tom original">Tom 0</button><button id="tom+">♯</button>
+      <span class="sep"></span>
+      <button id="fav">☆</button><button id="rep">+ 📋</button><button id="palco">🎤</button>
+      <button id="prox" style="display:none">⏭ Próxima</button>
+      <button id="voltar">← Voltar</button>
+    </div>
+    <pre id="texto"></pre>
+  </div>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+let DB = [], PASTA = "cifras", nav = [], byId = {};
+let escala = 1, fit = 14, vel = 8, rolando = false, raf = 0, acc = 0, ultimo = null, wake = null;
+let atual = null, texto = "", fila = null, pos = -1, tom = 0, palco = false;
+
+const ler = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
+const salvar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+let favs = ler("favs", []), rep = ler("rep", []), tons = ler("tons", {});
+
+const norm = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const nomeLimpo = a => a.replace(/\.txt$/i, "");
+const caminho = ([l, c, a]) => [PASTA, l, c, a].filter(Boolean).map(encodeURIComponent).join("/");
+const idDe = m => m[0] + "/" + m[1] + "/" + m[2];
+const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+fetch("indice.json").then(r => r.json()).then(d => {
+  DB = d.musicas; PASTA = d.pasta;
+  DB.forEach(m => { m.push(norm(m[1] + " " + m[2])); byId[idDe(m)] = m; });
+  favs = favs.filter(i => byId[i]); rep = rep.filter(i => byId[i]);
+  render();
+}).catch(() => {
+  $("lista").innerHTML = '<p class="msg">Não consegui carregar o indice.json.</p>';
+});
+
+// ---------- Limpeza de cifras copiadas de sites (com HTML dentro do txt) ----------
+function limpa(t) {
+  t = t.replace(/\r/g, "");
+  if (!/<\/?(pre|font|b|a|html|body|table|option|select|input|br|span|div|td|tr|center|img|script|form)\b/i.test(t)) return t;
+  const i = t.search(/<pre[^>]*>/i);
+  if (i >= 0) {                       // fica só o que está dentro de <pre>...</pre>
+    t = t.slice(i).replace(/^<pre[^>]*>/i, "");
+    const j = t.search(/<\/pre>/i);
+    if (j >= 0) t = t.slice(0, j);
+  }
+  return t.replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]*>/g, "")
+    .replace(/&nbsp;/g, " ").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&amp;/g, "&")
+    .replace(/^(\s*\n)+/, "");
+}
+
+// ---------- Transposição ----------
+const ACO = /^[A-G][#b]?(?:maj|min|dim|aug|sus|add|m|M|º|°|\+|-|\d|#|b|\(|\))*(?:\/[A-G][#b]?)?$/;
+const FIL = /^[|:\-~*().x\d\/]+$/i;
+const SUS = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+const BEM = ["C","Db","D","Eb","E","F","Gb","G","Ab","A","Bb","B"];
+const BASE = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
+function nota(x, n) {
+  const m = x.match(/^([A-G])([#b]?)/);
+  let i = (BASE[m[1]] + (m[2] === "#" ? 1 : m[2] === "b" ? -1 : 0) + n) % 12;
+  if (i < 0) i += 12;
+  return (m[2] === "b" ? BEM : SUS)[i];
+}
+// devolve [textoDaLinha, éLinhaDeAcordes]
+function linha(l, n) {
+  const mt = l.match(/^(\s*[^\s:]{2,14}:\s*)?([\s\S]*)$/);
+  const lab = mt[1] || "", rest = mt[2], tk = rest.trim().split(/\s+/);
+  if (!rest.trim() || !tk.every(t => ACO.test(t) || FIL.test(t)) || !tk.some(t => ACO.test(t))) return [l, false];
+  if (!n) return [l, true];
+  const out = rest.replace(/(\s*)(\S+)(\s*)/g, (_, pre, t, g) => {
+    if (!ACO.test(t)) return _;
+    const nt = t.replace(/[A-G][#b]?/g, x => nota(x, n));
+    const pad = g ? Math.max(1, g.length - (nt.length - t.length)) : 0;
+    return pre + nt + " ".repeat(pad);
+  });
+  return [lab + out, true];
+}
+function mostra() {
+  $("texto").innerHTML = texto.split("\n").map(l => {
+    const [t, ac] = linha(l, tom);
+    return ac ? '<span class="ac">' + esc(t) + "</span>" : esc(t);
+  }).join("\n");
+  $("tom").textContent = "Tom " + (tom > 0 ? "+" : "") + tom;
+  ajusta();
+}
+function mudaTom(n) {
+  tom = n; if (tom) tons[idDe(atual)] = tom; else delete tons[idDe(atual)];
+  salvar("tons", tons); mostra();
+}
+
+// ---------- Lista ----------
+function item(titulo, sub, onclick, count, extras) {
+  const d = document.createElement("div");
+  d.className = "item";
+  d.innerHTML = '<div class="t">' + esc(titulo) + (sub ? "<small>" + esc(sub) + "</small>" : "") + "</div>" + (count != null ? '<span class="count">' + count + "</span>" : "");
+  (extras || []).forEach(([txt, fn]) => {
+    const b = document.createElement("button"); b.textContent = txt;
+    b.onclick = e => { e.stopPropagation(); fn(); };
+    d.appendChild(b);
+  });
+  d.onclick = onclick;
+  return d;
+}
+
+function listaDe(ids, L, comExtras) {
+  const musicas = ids.map(i => byId[i]).filter(Boolean);
+  if (!musicas.length) { L.innerHTML = '<p class="msg">Nada por aqui ainda. Abra uma cifra e toque em ' + (comExtras ? "+ 📋" : "☆") + ".</p>"; return; }
+  musicas.forEach((m, i) => {
+    const mover = d => () => { const j = i + d; if (j < 0 || j >= rep.length) return; [rep[i], rep[j]] = [rep[j], rep[i]]; salvar("rep", rep); render(); };
+    const ex = comExtras ? [["↑", mover(-1)], ["↓", mover(1)], ["✕", () => { rep.splice(i, 1); salvar("rep", rep); render(); }]] : null;
+    L.appendChild(item(nomeLimpo(m[2]), m[1], () => abre(m, comExtras ? musicas : null, i), null, ex));
+  });
+}
+
+function render() {
+  fechaCifra();
+  const L = $("lista"); L.innerHTML = "";
+  const q = norm($("busca").value.trim());
+
+  const c = $("crumbs");
+  c.innerHTML = '<a id="home">Início</a>' + nav.map((n, i) => ` › <a data-i="${i}">${n}</a>`).join("");
+  $("home").onclick = () => { nav = []; $("busca").value = ""; render(); };
+  c.querySelectorAll("a[data-i]").forEach(a => a.onclick = () => { nav = nav.slice(0, +a.dataset.i + 1); render(); });
+
+  if (q) {
+    const r = DB.filter(m => m[3].includes(q));
+    if (!r.length) { L.innerHTML = '<p class="msg">Nada encontrado.</p>'; return; }
+    r.slice(0, 150).forEach(m => L.appendChild(item(nomeLimpo(m[2]), m[1], () => abre(m))));
+    if (r.length > 150) L.insertAdjacentHTML("beforeend", `<p class="msg">+${r.length - 150} resultados. Refine a busca.</p>`);
+    return;
+  }
+
+  if (nav[0] === "★ Favoritos") return listaDe(favs, L, false);
+  if (nav[0] === "📋 Repertório") return listaDe(rep, L, true);
+
+  if (nav.length === 0) {
+    L.appendChild(item("★ Favoritos", null, () => { nav = ["★ Favoritos"]; render(); }, favs.length));
+    L.appendChild(item("📋 Repertório", null, () => { nav = ["📋 Repertório"]; render(); }, rep.length));
+    const g = document.createElement("div"); g.className = "grid"; L.appendChild(g);
+    [...new Set(DB.map(m => m[0]))].sort().forEach(l => g.appendChild(item(l, "", () => { nav = [l]; render(); })));
+  } else if (nav.length === 1) {
+    const mapa = {};
+    DB.filter(m => m[0] === nav[0]).forEach(m => mapa[m[1]] = (mapa[m[1]] || 0) + 1);
+    Object.keys(mapa).sort((a, b) => a.localeCompare(b, "pt")).forEach(cn =>
+      L.appendChild(item(cn, "", () => { nav = [nav[0], cn]; render(); }, mapa[cn] + " cifras")));
+  } else {
+    DB.filter(m => m[0] === nav[0] && m[1] === nav[1]).forEach(m => L.appendChild(item(nomeLimpo(m[2]), "", () => abre(m))));
+  }
+}
+
+// ---------- Cifra ----------
+function botoes() {
+  const i = idDe(atual);
+  $("fav").textContent = favs.includes(i) ? "★" : "☆";
+  $("fav").classList.toggle("on", favs.includes(i));
+  $("rep").textContent = rep.includes(i) ? "✓ 📋" : "+ 📋";
+  $("rep").classList.toggle("on", rep.includes(i));
+  $("prox").style.display = fila && pos < fila.length - 1 ? "" : "none";
+}
+
+async function abre(m, f = null, p = -1) {
+  pararRolagem();
+  atual = m; fila = f; pos = p; tom = tons[idDe(m)] || 0;
+  $("lista").style.display = "none";
+  $("cifra").style.display = "block";
+  document.body.classList.add("lendo");
+  $("titulo").textContent = nomeLimpo(m[2]) + " — " + m[1];
+  $("texto").textContent = "Carregando...";
+  botoes();
+  try {
+    const buf = await (await fetch(caminho(m))).arrayBuffer();
+    try { texto = new TextDecoder("utf-8", { fatal: true }).decode(buf); }
+    catch { texto = new TextDecoder("windows-1252").decode(buf); }
+    texto = limpa(texto);
+    mostra();
+  } catch { texto = ""; $("texto").textContent = "Erro ao abrir a cifra."; }
+  window.scrollTo(0, 0);
+  tela(true);
+}
+
+function fechaCifra() {
+  pararRolagem(); tela(false);
+  palco = false; document.body.classList.remove("palco", "lendo");
+  $("cifra").style.display = "none";
+  $("lista").style.display = "";
+  atual = null;
+}
+
+// ---------- Rolagem ----------
+function pararRolagem() {
+  rolando = false; cancelAnimationFrame(raf); ultimo = null;
+  $("auto").classList.remove("on"); $("auto").textContent = "▶ Rolar";
+}
+function passo(t) {
+  if (!rolando) return;
+  if (ultimo !== null) {
+    acc += vel * (t - ultimo) / 1000;
+    const px = Math.floor(acc);
+    if (px >= 1) { window.scrollBy(0, px); acc -= px; }
+    if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2) return pararRolagem();
+  }
+  ultimo = t;
+  raf = requestAnimationFrame(passo);
+}
+async function tela(on) {
+  try {
+    if (on && "wakeLock" in navigator) wake = await navigator.wakeLock.request("screen");
+    else if (wake) { await wake.release(); wake = null; }
+  } catch {}
+}
+document.addEventListener("visibilitychange", () => { if (atual && !document.hidden) tela(true); });
+
+// ---------- Botões ----------
+const aplica = () => document.documentElement.style.setProperty("--f", (fit * escala).toFixed(2) + "px");
+// Descobre o maior tamanho de letra em que a linha mais larga cabe na tela
+function ajusta() {
+  const p = $("texto");
+  if (!atual || $("cifra").style.display !== "block") return;
+  p.style.fontSize = "20px"; p.style.display = "inline-block";
+  const w = p.offsetWidth; p.style.display = ""; p.style.fontSize = "";
+  const cw = $("cifra").clientWidth;
+  fit = w ? Math.max(8, Math.min(palco ? 30 : 22, 20 * cw / w - 0.2)) : 14;
+  aplica();
+}
+window.addEventListener("resize", ajusta);
+$("busca").oninput = render;
+$("voltar").onclick = render;
+$("menos").onclick = () => { escala = Math.max(0.6, escala / 1.1); aplica(); };
+$("mais").onclick = () => { escala = Math.min(2, escala * 1.1); aplica(); };
+$("vel-").onclick = () => { vel = Math.max(2, vel - 2); $("vel").textContent = vel; };
+$("vel+").onclick = () => { vel = Math.min(60, vel + 2); $("vel").textContent = vel; };
+$("auto").onclick = () => {
+  if (rolando) return pararRolagem();
+  rolando = true; acc = 0;
+  $("auto").classList.add("on"); $("auto").textContent = "⏸ Parar";
+  raf = requestAnimationFrame(passo);
+};
+$("tom-").onclick = () => mudaTom(Math.max(-11, tom - 1));
+$("tom+").onclick = () => mudaTom(Math.min(11, tom + 1));
+$("tom").onclick = () => mudaTom(0);
+$("fav").onclick = () => {
+  const i = idDe(atual), k = favs.indexOf(i);
+  k < 0 ? favs.push(i) : favs.splice(k, 1); salvar("favs", favs); botoes();
+};
+$("rep").onclick = () => {
+  const i = idDe(atual), k = rep.indexOf(i);
+  k < 0 ? rep.push(i) : rep.splice(k, 1); salvar("rep", rep); botoes();
+};
+$("palco").onclick = () => {
+  palco = !palco; document.body.classList.toggle("palco", palco);
+  $("palco").classList.toggle("on", palco);
+  ajusta();
+};
+$("prox").onclick = () => { if (fila && pos < fila.length - 1) abre(fila[pos + 1], fila, pos + 1); };
+
+// ---------- PWA ----------
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+
+$("offline").onclick = async () => {
+  const btn = $("offline");
+  if (!DB.length || btn.disabled) return;
+  if (!confirm("Baixar as " + DB.length + " cifras para usar sem internet? Use o Wi-Fi.")) return;
+  btn.disabled = true;
+  try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch {}
+  const cache = await caches.open("cifras-v1");
+  let feito = 0;
+  for (let i = 0; i < DB.length; i += 20) {
+    await Promise.all(DB.slice(i, i + 20).map(async m => {
+      const u = new URL(caminho(m), location.href).href;
+      try { if (!(await cache.match(u))) { const r = await fetch(u); if (r.ok) await cache.put(u, r); } } catch {}
+      feito++;
+    }));
+    btn.textContent = "⬇ " + Math.round(feito / DB.length * 100) + "%";
+  }
+  btn.textContent = "✓ Offline"; btn.disabled = false;
+};
+</script>
+</body>
+</html>
